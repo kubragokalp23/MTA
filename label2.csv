@@ -1,0 +1,1773 @@
+;Name;Worldwide;Domestic;MovieType;Duration;Year;Country;Director;Continent
+0;Teenage Mutant Ninja Turtles;135265915;135265915;Bilim Kurgu;101;2014;ABD;Jonathan Liebesman;ABD
+1;Teenage Mutant Ninja Turtles;485004754;191204754;Bilim Kurgu;101;2014;ABD;Jonathan Liebesman;ABD
+2;Total Recall;119394840;119394840;Bilim Kurgu;118;2012;Multi Nation;Len Wiseman;Multi Nation
+3;Total Recall;198467168;58877969;Bilim Kurgu;118;2012;Multi Nation;Len Wiseman;Multi Nation
+4;Flatliners;61489265;61489265;Dram;111;2017;ABD;Niels Arden Oplev;ABD
+5;Flatliners;45158254;16883115;Dram;111;2017;ABD;Niels Arden Oplev;ABD
+6;The Rookie;21633874;21633874;Aile;127;2002;ABD;John Lee Hancock;ABD
+7;The Rookie;80693537;75600072;Aile;127;2002;ABD;John Lee Hancock;ABD
+8;The Guardian;17037887;17037887;Aksiyon;139;2006;ABD;Andrew Davis;ABD
+9;The Guardian;94973540;55011732;Aksiyon;139;2006;ABD;Andrew Davis;ABD
+10;Beauty and the Beast;248802521;145863363;Aile;129;2017;ABD;Bill Condon;ABD
+11;Beauty and the Beast;47430624;;Aile;129;2017;ABD;Bill Condon;ABD
+12;Beauty and the Beast;1263521126;504014165;Aile;129;2017;ABD;Bill Condon;ABD
+13;Point Break;43218387;43218387;Aksiyon;113;2015;Multi Nation;Ericson Core;Multi Nation
+14;Point Break;133782481;28782481;Aksiyon;113;2015;Multi Nation;Ericson Core;Multi Nation
+15;Rush;7241350;7241350;Aksiyon;123;2013;Multi Nation;Ron Howard;Multi Nation
+16;Rush;95224595;26947624;Aksiyon;123;2013;Multi Nation;Ron Howard;Multi Nation
+17;Everybody's Fine;1745470;1745470;Dram;99;2009;ABD;Kirk Jones;ABD
+18;The Unborn;1159578;1159578;Gerilim;87;2009;ABD;David S. Goyer;ABD
+19;The Unborn;76514050;42670410;Gerilim;87;2009;ABD;David S. Goyer;ABD
+20;Aladdin;346476295;217350219;Aile;127;2019;ABD;Guy Ritchie;ABD
+21;Aladdin;346476295;217350219;Aile;127;2019;ABD;Guy Ritchie;ABD
+22;Aladdin;1050693953;355559216;Aile;127;2019;ABD;Guy Ritchie;ABD
+23;Aladdin;1050693953;355559216;Aile;127;2019;ABD;Guy Ritchie;ABD
+24;Trespass;13249535;13249535;Gerilim;91;2011;ABD;Joel Schumacher;ABD
+25;Gladiator;9223441;9223441;Aksiyon;171;2000;Multi Nation;Ridley Scott;Multi Nation
+26;Gladiator;460583960;187705427;Aksiyon;171;2000;Multi Nation;Ridley Scott;Multi Nation
+27;Rampage;796368;796368;Bilim Kurgu;108;2018;ABD;Brad Peyton;ABD
+28;Rampage;428128233;101028233;Bilim Kurgu;108;2018;ABD;Brad Peyton;ABD
+29;Proof;524668;524668;Dram;101;2005;ABD;John Madden;ABD
+30;Proof;14189860;7535331;Dram;101;2005;ABD;John Madden;ABD
+31;The Three Musketeers;53898845;53898845;Aksiyon;110;2011;Multi Nation;Paul W.S. Anderson;Multi Nation
+32;The Three Musketeers;132274484;20374484;Aksiyon;110;2011;Multi Nation;Paul W.S. Anderson;Multi Nation
+33;Fearless;6995302;6995302;Aksiyon;103;2006;Multi Nation;Ronny Yu;Multi Nation
+34;Fearless;68072848;24633730;Aksiyon;103;2006;Multi Nation;Ronny Yu;Multi Nation
+35;The Lion King;763455561;312855561;Animasyon;118;2019;ABD;Jon Favreau;ABD
+36;The Lion King;1656943394;543638043;Animasyon;118;2019;ABD;Jon Favreau;ABD
+37;The Jungle Book;43229904;43229904;Aile;103;2016;Multi Nation;Jon Favreau;Multi Nation
+38;The Jungle Book;966550600;364001123;Aile;103;2016;Multi Nation;Jon Favreau;Multi Nation
+39;Frankenstein;22006296;22006296;Bilim Kurgu;109;2015;Multi Nation;Paul McGuigan;Multi Nation
+40;No Escape;15339030;15339030;Gerilim;103;2015;ABD;John Erick Dowdle;ABD
+41;No Escape;54418872;27288872;Gerilim;103;2015;ABD;John Erick Dowdle;ABD
+42;Heat;67437309;67436818;Aksiyon;92;2015;ABD;Simon West;ABD
+43;Priest;4165845;4165845;Aksiyon;87;2011;ABD;Scott Stewart;ABD
+44;Priest;78309505;29137000;Aksiyon;87;2011;ABD;Scott Stewart;ABD
+45;Bad Company;3674841;3674841;Aksiyon;116;2002;ABD;Joel Schumacher;ABD
+46;Bad Company;65977295;30160161;Aksiyon;116;2002;ABD;Joel Schumacher;ABD
+47;Jane Eyre;5200601;5200601;Dram;120;2011;Multi Nation;Cary Fukunaga;Multi Nation
+48;Jane Eyre;34710627;11242660;Dram;120;2011;Multi Nation;Cary Fukunaga;Multi Nation
+49;Crash;2664812;2664812;Dram;112;2004;Multi Nation;Paul Haggis;Multi Nation
+50;Crash;98410061;54580300;Dram;112;2004;Multi Nation;Paul Haggis;Multi Nation
+51;Hercules;99112101;99112101;Aksiyon;98;2014;ABD;Brett Ratner;ABD
+52;Hercules;244819862;72688614;Aksiyon;98;2014;ABD;Brett Ratner;ABD
+53;Anna Karenina;858553;858553;Dram;130;2012;Multi Nation;Joe Wright;Multi Nation
+54;Anna Karenina;68929150;12816367;Dram;130;2012;Multi Nation;Joe Wright;Multi Nation
+55;Godzilla;379014294;136314294;Bilim Kurgu;123;2014;ABD;Gareth Edwards;ABD
+56;Godzilla;524976069;200676069;Bilim Kurgu;123;2014;ABD;Gareth Edwards;ABD
+57;Everest;87178599;87178599;Dram;121;2015;Multi Nation;Baltasar Kormákur;Multi Nation
+58;Everest;203427584;43482270;Dram;121;2015;Multi Nation;Baltasar Kormákur;Multi Nation
+59;Great Expectations;55494066;26420672;Dram;128;2012;Multi Nation;Mike Newell;Multi Nation
+60;The Avengers;23384939;23384939;Bilim Kurgu;145;2012;ABD;Joss Whedon;ABD
+61;The Avengers;1518812988;623357910;Bilim Kurgu;145;2012;ABD;Joss Whedon;ABD
+62;Twilight;15055091;15055091;Dram;122;2008;ABD;Catherine Hardwicke;ABD
+63;Twilight;407187715;192769854;Dram;122;2008;ABD;Catherine Hardwicke;ABD
+64;Les Misérables;14096321;14096321;Dram;158;2012;Multi Nation;Tom Hooper;Multi Nation
+65;Les Misérables;442299309;148809770;Dram;158;2012;Multi Nation;Tom Hooper;Multi Nation
+66;Les Misérables;54606372;330181;Dram;158;2012;Multi Nation;Tom Hooper;Multi Nation
+67;Hush;13605304;13583690;Aksiyon;91;2008;?ngiltere;Mark Tonderai;Europe
+68;Hush;13605304;13583690;Gerilim;81;2016;ABD;Mike Flanagan;ABD
+69;The Mummy;155563437;155385488;Aksiyon;110;2017;Multi Nation;Alex Kurtzman;Multi Nation
+70;The Mummy;409231607;80227895;Aksiyon;110;2017;Multi Nation;Alex Kurtzman;Multi Nation
+71;Life;73475268;64016268;Bilim Kurgu;104;2017;ABD;Daniel Espinosa;ABD
+72;Life;100541806;30234022;Bilim Kurgu;104;2017;ABD;Daniel Espinosa;ABD
+73;Sunshine;7607860;5096267;Bilim Kurgu;107;2007;?ngiltere;Danny Boyle;Europe
+74;Sunshine;34806360;3675753;Bilim Kurgu;107;2007;?ngiltere;Danny Boyle;Europe
+75;Flawless;4488529;4488529;Dram;108;2007;Multi Nation;Michael Radford;Multi Nation
+76;Cast Away;429632142;233632142;Dram;143;2000;ABD;Robert Zemeckis;ABD
+77;What Women Want;374111707;182811707;Komedi;127;2000;ABD;Nancy Meyers;ABD
+78;Dinosaur;349822765;137748063;Animasyon;82;2000;ABD;Ralph Zondag;ABD
+79;How the Grinch Stole Christmas;345141403;260044825;Aile;104;2000;Multi Nation;Ron Howard;Multi Nation
+80;Meet the Parents;330444045;166244045;Komedi;108;2000;ABD;Jay Roach;ABD
+81;The Perfect Storm;328718434;182618434;Aksiyon;130;2000;ABD;Wolfgang Petersen;ABD
+82;X-Men;296339528;157299718;Bilim Kurgu;104;2000;ABD;Bryan Singer;ABD
+83;What Lies Beneath;291420351;155464351;Dram;130;2000;ABD;Robert Zemeckis;ABD
+84;Scary Movie;278019771;157019771;Komedi;88;2000;ABD;Keenen Ivory Wayans;ABD
+85;Charlie's Angels;264105545;125305545;Aksiyon;98;2000;ABD;McG;ABD
+86;Charlie's Angels;73279888;17803077;Aksiyon;98;2000;ABD;McG;ABD
+87;Erin Brockovich;256271286;125595205;Dram;131;2000;ABD;Steven Soderbergh;ABD
+88;Unbreakable;248118121;95011339;Dram;106;2000;ABD;M. Night Shyamalan;ABD
+89;Chicken Run;224834564;106834564;Animasyon;84;2000;Multi Nation;Peter Lord;Multi Nation
+90;Vertical Limit;215663859;69243859;Aksiyon;124;2000;Multi Nation;Martin Campbell;Multi Nation
+91;The Patriot;215294342;113330342;Aksiyon;165;2000;Multi Nation;Roland Emmerich;Multi Nation
+92;Miss Congeniality;212742720;106807667;Aksiyon;111;2000;ABD;Donald Petrie;ABD
+93;Traffic;207515725;124115725;Dram;147;2000;Multi Nation;Steven Soderbergh;Multi Nation
+94;Hollow Man;190213455;73209340;Bilim Kurgu;112;2000;Multi Nation;Paul Verhoeven;Multi Nation
+95;102 Dalmatians;183611771;66957026;Aile;100;2000;ABD;Kevin Lima;ABD
+96;Big Momma's House;173959438;117559438;Komedi;98;2000;Multi Nation;Raja Gosnell;Multi Nation
+97;The Emperor's New Groove;169327687;89302687;Animasyon;75;2000;ABD;Mark Dindal;ABD
+98;Nutty Professor II: The Klumps;166339890;123309890;Bilim Kurgu;106;2000;ABD;Peter Segal;ABD
+99;Scream 3;161834276;89143175;Gizem;116;2000;ABD;Wes Craven;ABD
+100;Chocolat;152699946;71509363;Dram;121;2000;Multi Nation;Lasse Hallström;Multi Nation
+101;The Beach;144056873;39785027;Dram;119;2000;Multi Nation;Danny Boyle;Multi Nation
+102;U-571;127666415;77122415;Aksiyon;116;2000;Multi Nation;Jonathan Mostow;Multi Nation
+103;Road Trip;119754278;68540777;Komedi;93;2000;ABD;Todd Phillips;ABD
+104;Coyote Ugly;113916474;60786269;Dram;100;2000;ABD;David McNally;ABD
+105;Final Destination;112880294;53331147;Korku;98;2000;ABD;James Wong;ABD
+106;The Kid;110317580;69691949;Aile;104;2000;ABD;Jon Turteltaub;ABD
+107;Billy Elliot;109280263;21995263;Dram;110;2000;Multi Nation;Stephen Daldry;Multi Nation
+108;Shaft;107196498;70334258;Aksiyon;99;2000;Multi Nation;John Singleton;Multi Nation
+109;Shaft;21360215;21360215;Aksiyon;99;2000;Multi Nation;John Singleton;Multi Nation
+110;The Whole Nine Yards;106371651;57262492;Komedi;98;2000;Multi Nation;Jonathan Lynn;Multi Nation
+111;The Cell;104155843;61334059;Bilim Kurgu;107;2000;Multi Nation;Tarsem Singh;Multi Nation
+112;Shanghai Noon;99274467;56937502;Aksiyon;110;2000;Multi Nation;Tom Dey;Multi Nation
+113;The 6th Day;96085477;34604280;Bilim Kurgu;123;2000;ABD;Roger Spottiswoode;ABD
+114;Romeo Must Die;91036760;55973336;Aksiyon;115;2000;ABD;Andrzej Bartkowiak;ABD
+115;Bring It On;90449929;68379000;Komedi;98;2000;ABD;Peyton Reed;ABD
+116;Bedazzled;90383208;37886980;Fantastik;93;2000;Multi Nation;Harold Ramis;Multi Nation
+117;Snatch;83557872;30328156;Komedi;103;2000;Multi Nation;Guy Ritchie;Multi Nation
+118;Finding Forrester;80049764;51804714;Dram;136;2000;ABD;Gus Van Sant;ABD
+119;Dude, Where's My Car?;73180723;46729800;Bilim Kurgu;83;2000;ABD;Danny Leiner;ABD
+120;O Brother, Where Art Thou?;71868327;45512588;Komedi;107;2000;Multi Nation;Joel Coen;Multi Nation
+121;Frequency;68106245;45010278;Bilim Kurgu;118;2000;ABD;Gregory Hoblit;ABD
+122;28 Days;62198945;37170488;Dram;103;2000;ABD;Betty Thomas;ABD
+123;Taxi 2;60726164;626164;Aksiyon;82;2000;Fransa;Gérard Krawczyk;Europe
+124;The Flintstones in Viva Rock Vegas;59468275;35268275;Aile;90;2000;ABD;Brian Levant;ABD
+125;Pay It Forward;55707411;33519628;Dram;122;2000;ABD;Mimi Leder;ABD
+126;Pitch Black;53187659;39240659;Bilim Kurgu;108;2000;ABD;David Twohy;ABD
+127;The Replacements;50054511;44737059;Komedi;118;2000;ABD;Howard Deutch;ABD
+128;Almost Famous;47383689;32534850;Dram;124;2000;ABD;Cameron Crowe;ABD
+129;The Watcher;47267829;28946615;Gerilim;96;2000;ABD;Joe Charbanic;ABD
+130;High Fidelity;47126295;27287137;Dram;113;2000;Multi Nation;Stephen Frears;Multi Nation
+131;Dracula 2000;47053625;33022767;Aksiyon;99;2000;ABD;Patrick Lussier;ABD
+132;The Gift;44567606;12008642;Dram;111;2000;ABD;Sam Raimi;ABD
+133;The Gift;58978653;43787265;Dram;111;2000;ABD;Sam Raimi;ABD
+134;The Legend of Bagger Vance;39459427;30919168;Dram;126;2000;ABD;Robert Redford;ABD
+135;American Psycho;34266564;15070285;Dram;102;2000;Multi Nation;Mary Harron;Multi Nation
+136;Dungeons & Dragons;33978694;15391970;Dram;107;2000;ABD;Courtney Solomon;ABD
+137;Red Planet;33463969;17480890;Bilim Kurgu;106;2000;Multi Nation;Antony Hoffman;Multi Nation
+138;Reindeer Games;32168970;23368995;Aksiyon;124;2000;ABD;John Frankenheimer;ABD
+139;The Little Vampire;27965865;13572400;Aile;95;2000;Multi Nation;Uli Edel;Multi Nation
+140;Quills;17989227;7065332;Dram;124;2000;Multi Nation;Philip Kaufman;Multi Nation
+141;Bait;15471969;15325127;Korku;93;2012;Avustralya;Russell Mulcahy;Australia
+142;Bait;32813407;;Korku;93;2012;Avustralya;Russell Mulcahy;Australia
+143;Gossip;12591270;5108820;Gerilim;90;2000;ABD;Davis Guggenheim;ABD
+144;Before Night Falls;8527517;4242892;Dram;134;2000;Multi Nation;Julian Schnabel;Multi Nation
+145;Mohabbatein;4279351;1070000;Dram;216;2000;Hindistan;Aditya Chopra;Asia
+146;Harry Potter and the Sorcerer's Stone;974755371;317575550;Fantastik;159;2001;Multi Nation;Chris Columbus;Multi Nation
+147;The Lord of the Rings: The Fellowship of the Ring;880839846;313364114;Aksiyon;228;2001;ABD;Peter Jackson;ABD
+148;Shrek;484409218;267665011;Animasyon;90;2001;ABD;Andrew Adamson;ABD
+149;Ocean's Eleven;450717150;183417150;Gerilim;116;2001;ABD;Steven Soderbergh;ABD
+150;Pearl Harbor;449220945;198542554;Dram;183;2001;ABD;Michael Bay;ABD
+151;The Mummy Returns;433013274;202019785;Aksiyon;130;2001;ABD;Stephen Sommers;ABD
+152;Jurassic Park III;368780809;181171875;Bilim Kurgu;92;2001;ABD;Joe Johnston;ABD
+153;Hannibal;351692268;165092268;Dram;131;2001;Multi Nation;Ridley Scott;Multi Nation
+154;Rush Hour 2;347325802;226164286;Aksiyon;90;2001;ABD;Brett Ratner;ABD
+155;A Beautiful Mind;313542341;170742341;Dram;135;2001;ABD;Ron Howard;ABD
+156;American Pie 2;287553595;145103595;Komedi;108;2001;ABD;James B. Rogers;ABD
+157;Bridget Jones's Diary;281929795;71543427;Dram;97;2001;Multi Nation;Sharon Maguire;Multi Nation
+158;Lara Croft: Tomb Raider;274703340;131168070;Aksiyon;100;2001;Multi Nation;Simon West;Multi Nation
+159;A.I. Artificial Intelligence;235926552;78616689;Bilim Kurgu;146;2001;ABD;Steven Spielberg;ABD
+160;The Others;209947037;96522687;Gerilim;101;2001;Multi Nation;Alejandro Amenábar;Multi Nation
+161;Vanilla Sky;203388341;100618344;Bilim Kurgu;136;2001;Multi Nation;Cameron Crowe;Multi Nation
+162;Atlantis: The Lost Empire;186053725;84056472;Animasyon;95;2001;ABD;Gary Trousdale;ABD
+163;Dr. Dolittle 2;176104344;112952899;Aile;87;2001;ABD;Steve Carr;ABD
+164;Black Hawk Down;172989651;108638745;Aksiyon;145;2001;Multi Nation;Ridley Scott;Multi Nation
+165;The Princess Diaries;165335153;108248956;Aile;115;2001;ABD;Garry Marshall;ABD
+166;Spy Kids;147934180;112719001;Aile;88;2001;ABD;Robert Rodriguez;ABD
+167;The Mexican;147845033;66845033;Aksiyon;123;2001;Multi Nation;Gore Verbinski;Multi Nation
+168;Swordfish;147080413;69772969;Aksiyon;99;2001;Multi Nation;Dominic Sena;Multi Nation
+169;Spy Game;143049560;62362560;Aksiyon;126;2001;Multi Nation;Tony Scott;Multi Nation
+170;Legally Blonde;141774679;96520674;Komedi;96;2001;ABD;Robert Luketic;ABD
+171;Scary Movie 2;141220678;71308997;Komedi;83;2001;Multi Nation;Keenen Ivory Wayans;Multi Nation
+172;Shallow Hal;141069860;70839203;Komedi;114;2001;ABD;Bobby Farrelly;ABD
+173;America's Sweethearts;138307673;93607673;Komedi;102;2001;ABD;Joe Roth;ABD
+174;A Knight's Tale;117487473;56569702;Aksiyon;132;2001;ABD;Brian Helgeland;ABD
+175;The Score;113579918;71107711;Aksiyon;124;2001;Multi Nation;Frank Oz;Multi Nation
+176;Training Day;104876233;76631907;Aksiyon;122;2001;ABD;Antoine Fuqua;ABD
+177;Jimmy Neutron: Boy Genius;102992536;80936232;Animasyon;83;2001;ABD;John A. Davis;ABD
+178;I Am Sam;97818139;40311852;Dram;132;2001;ABD;Jessie Nelson;ABD
+179;The Wedding Planner;94728529;60400856;Komedi;103;2001;Multi Nation;Adam Shankman;Multi Nation
+180;Behind Enemy Lines;91753202;58856790;Aksiyon;106;2001;ABD;John Moore;ABD
+181;Ali;87713825;58203105;Dram;157;2001;Multi Nation;Michael Mann;Multi Nation
+182;Rat Race;85498534;56618055;Komedi;112;2001;Multi Nation;Jerry Zucker;Multi Nation
+183;The Animal;84772742;57743062;Komedi;84;2001;ABD;Luke Greenfield;ABD
+184;Blow;83282296;52990775;Dram;124;2001;ABD;Ted Demme;ABD
+185;Exit Wounds;79958599;51758599;Aksiyon;101;2001;Multi Nation;Andrzej Bartkowiak;Multi Nation
+186;Serendipity;77516304;50294317;Dram;90;2001;ABD;Peter Chelsom;ABD
+187;Kate & Leopold;76019048;47121859;Fantastik;118;2001;ABD;James Mangold;ABD
+188;From Hell;74558115;31602566;Gerilim;122;2001;Multi Nation;Albert Hughes;Multi Nation
+189;The One;72689126;43905746;Bilim Kurgu;87;2001;ABD;James Wong;ABD
+190;The Royal Tenenbaums;71441250;52364010;Dram;110;2001;ABD;Wes Anderson;ABD
+191;Thir13en Ghosts;68467960;41867960;Gerilim;91;2001;ABD;Steve Beck;ABD
+192;Bandits;67631903;41575141;Komedi;123;2001;ABD;Barry Levinson;ABD
+193;Not Another Teen Movie;66468332;38252284;Komedi;89;2001;ABD;Joel Gallen;ABD
+194;Sweet November;65754228;25288103;Dram;119;2001;ABD;Pat O'Connor;ABD
+195;K-PAX;65001485;50338485;Bilim Kurgu;120;2001;Multi Nation;Iain Softley;Multi Nation
+196;Kiss of the Dragon;64437847;36845124;Aksiyon;98;2001;Multi Nation;Chris Nahon;Multi Nation
+197;Captain Corelli's Mandolin;62112895;25543895;Dram;131;2001;Multi Nation;John Madden;Multi Nation
+198;Zoolander;60780981;45172250;Komedi;90;2001;Multi Nation;Ben Stiller;Multi Nation
+199;Jeepers Creepers;59217789;37904175;Gerilim;90;2001;Multi Nation;Victor Salva;Multi Nation
+200;Heartbreakers;57756408;40336607;Komedi;123;2001;ABD;David Mirkin;ABD
+201;15 Minutes;56359980;24403552;Aksiyon;120;2001;Multi Nation;John Herzfeld;Multi Nation
+202;Driven;54744738;32720065;Aksiyon;116;2001;Multi Nation;Renny Harlin;Multi Nation
+203;Monster's Ball;44909486;31273922;Dram;113;2001;ABD;Marc Forster;ABD
+204;Hardball;44102389;40222729;Dram;106;2001;Multi Nation;Brian Robbins;Multi Nation
+205;Shaolin Soccer;42776760;489600;Aksiyon;113;2001;Hong Kong;Stephen Chow;Asia
+206;Black Knight;39976235;33426971;Fantastik;95;2001;ABD;Gil Junger;ABD
+207;Memento;39723096;25544867;Gerilim;113;2000;ABD;Christopher Nolan;ABD
+208;Someone Like You;38689940;27343067;Komedi;97;2001;ABD;Tony Goldwyn;ABD
+209;The Majestic;37317558;27807266;Dram;152;2001;ABD;Frank Darabont;ABD
+210;Valentine;36684136;20384136;Gerilim;96;2001;ABD;Jamie Blanks;ABD
+211;Joy Ride;36642838;21974919;Dram;97;2001;ABD;John Dahl;ABD
+212;Joy Ride;15782536;12897789;Dram;97;2001;ABD;John Dahl;ABD
+213;Original Sin;35402320;16534221;Dram;118;2001;Multi Nation;Michael Cristofer;Multi Nation
+214;How High;31283740;31178740;Komedi;93;2001;ABD;Jesse Dylan;ABD
+215;The Last Castle;27642707;18244060;Aksiyon;131;2001;ABD;Rod Lurie;ABD
+216;Amores Perros;20908467;5408467;Dram;154;2000;Meksika;Alejandro González Iñárritu;North America
+217;Mulholland Drive;20117339;7220243;Dram;147;2001;Multi Nation;David Lynch;Multi Nation
+218;Rock Star;19334145;17008282;Dram;105;2001;ABD;Stephen Herek;ABD
+219;The Man Who Wasn't There;18916623;7504257;Dram;116;2001;Multi Nation;Joel Coen;Multi Nation
+220;Jason X;16951798;13121555;Bilim Kurgu;91;2001;ABD;James Isaac;ABD
+221;Just Visiting;16176732;4781539;Bilim Kurgu;88;2001;Multi Nation;Jean-Marie Poiré;Multi Nation
+222;American Outlaws;13678913;13342790;Aksiyon;94;2001;ABD;Les Mayfield;ABD
+223;Vidocq;13240767;;Bilim Kurgu;98;2001;Fransa;Pitof;Europe
+224;Head Over Heels;13127022;10424470;Komedi;86;2001;ABD;Mark Waters;ABD
+225;Head Over Heels;18876082;;Komedi;86;2001;ABD;Mark Waters;ABD
+226;The Experiment;11455141;;Dram;96;2010;ABD;Paul Scheuring;ABD
+227;Wasabi;10366360;97220;Aksiyon;94;2001;Multi Nation;Gérard Krawczyk;Multi Nation
+228;The Hole;7644361;;Fantastik;92;2009;ABD;Joe Dante;ABD
+229;The Hole;7644361;;Dram;102;2001;?ngiltere;Nick Hamm;Europe
+230;Mean Machine;7310206;92770;Dram;101;2001;?ngiltere;Barry Skolnick;Europe
+231;Chaos;6042938;;Aksiyon;106;2005;Multi Nation;Tony Giglio;Multi Nation
+232;The Lord of the Rings: The Two Towers;936689735;339789881;Aksiyon;235;2002;ABD;Peter Jackson;ABD
+233;Harry Potter and the Chamber of Secrets;878979634;261988482;Fantastik;175;2002;Multi Nation;Chris Columbus;Multi Nation
+234;Spider-Man;821708551;403706375;Aksiyon;189;2002;ABD;Sam Raimi;ABD
+235;Die Another Day;431971116;160942139;Aksiyon;133;2002;Multi Nation;Lee Tamahori;Multi Nation
+236;Signs;408247917;227966634;Bilim Kurgu;106;2002;ABD;M. Night Shyamalan;ABD
+237;Ice Age;383257136;176387405;Animasyon;81;2002;ABD;Carlos Saldanha;ABD
+238;My Big Fat Greek Wedding;368744044;241438208;Dram;95;2002;Multi Nation;Joel Zwick;Multi Nation
+239;Minority Report;358372926;132072926;Bilim Kurgu;145;2002;ABD;Steven Spielberg;ABD
+240;Catch Me If You Can;352114312;164615351;Dram;190;2002;ABD;Steven Spielberg;ABD
+241;Chicago;306776732;170687518;Dram;113;2002;Multi Nation;Rob Marshall;Multi Nation
+242;xXx;277448382;142109382;Aksiyon;124;2002;ABD;Rob Cohen;ABD
+243;Scooby-Doo;275650703;153294164;Gizem;88;2002;ABD;Raja Gosnell;ABD
+244;Lilo & Stitch;273144151;145794338;Animasyon;85;2002;ABD;Chris Sanders;ABD
+245;The Ring;249348933;129128133;Gizem;115;2002;Multi Nation;Gore Verbinski;Multi Nation
+246;8 Mile;242875078;116750901;Dram;111;2002;Multi Nation;Curtis Hanson;Multi Nation
+247;The Bourne Identity;214034224;121661683;Aksiyon;119;2002;Multi Nation;Doug Liman;Multi Nation
+248;Red Dragon;209196298;93149898;Dram;124;2002;Multi Nation;Brett Ratner;Multi Nation
+249;Two Weeks Notice;199043242;93354851;Komedi;101;2002;ABD;Marc Lawrence (i);ABD
+250;Panic Room;196397415;96397334;Dram;111;2002;ABD;David Fincher;ABD
+251;Sweet Home Alabama;180622424;127223418;Komedi;108;2002;ABD;Andy Tennant;ABD
+252;The Scorpion King;178799308;91047077;Aksiyon;92;2002;Multi Nation;Chuck Russell;Multi Nation
+253;Mr. Deeds;171269535;126293452;Komedi;96;2002;ABD;Steven Brill;ABD
+254;Stuart Little 2;169956806;64956806;Animasyon;78;2002;ABD;Rob Minkoff;ABD
+255;Blade II;155010032;82348319;Aksiyon;117;2002;ABD;Guillermo del Toro;ABD
+256;The Time Machine;123729176;56832494;Bilim Kurgu;96;2002;ABD;Simon Wells;ABD
+257;The Pianist;120072577;32572577;Dram;150;2002;Multi Nation;Roman Polanski;Multi Nation
+258;Unfaithful;119137784;52775765;Dram;124;2002;Multi Nation;Adrian Lyne;Multi Nation
+259;Snow Dogs;115035090;81172560;Aile;99;2002;Multi Nation;Brian Levant;Multi Nation
+260;We Were Soldiers;114660784;78122718;Aksiyon;138;2002;Multi Nation;Randall Wallace;Multi Nation
+261;Insomnia;113714830;67355513;Gerilim;118;2002;ABD;Christopher Nolan;ABD
+262;Treasure Planet;109578115;38176783;Animasyon;95;2002;ABD;Ron Clements;ABD
+263;The Hours;108846072;41675994;Dram;114;2002;Multi Nation;Stephen Daldry;Multi Nation
+264;About Schmidt;105834556;65016287;Dram;125;2002;ABD;Alexander Payne;ABD
+265;The Tuxedo;104391623;50547998;Bilim Kurgu;98;2002;ABD;Kevin Donovan;ABD
+266;Resident Evil;102984862;40119709;Bilim Kurgu;100;2002;Multi Nation;Paul W.S. Anderson;Multi Nation
+267;John Q;102244770;71756802;Dram;116;2002;ABD;Nick Cassavetes;ABD
+268;40 Days and 40 Nights;95146283;37950822;Komedi;94;2002;Multi Nation;Michael Lehmann;Multi Nation
+269;Changing Lanes;94935764;66818548;Gerilim;99;2002;ABD;Roger Michell;ABD
+270;28 Days Later;82719885;45064915;Bilim Kurgu;113;2002;?ngiltere;Danny Boyle;Europe
+271;Jackass: The Movie;79493831;64255312;Belgesel;88;2002;ABD;Jeff Tremaine;ABD
+272;Collateral Damage;78382433;40077257;Aksiyon;108;2002;ABD;Andrew Davis;ABD
+273;Showtime;77741732;38082712;Aksiyon;95;2002;Multi Nation;Tom Dey;Multi Nation
+274;Windtalkers;77628265;40914068;Aksiyon;134;2002;ABD;John Woo;ABD
+275;Bend It Like Beckham;76583333;32543449;Dram;112;2002;Multi Nation;Gurinder Chadha;Multi Nation
+276;The Sweetest Thing;68696770;24718164;Komedi;84;2002;ABD;Roger Kumble;ABD
+277;Ghost Ship;68349884;30113491;Gerilim;91;2002;Multi Nation;Steve Beck;Multi Nation
+278;K-19: The Widowmaker;65716126;35168966;Dram;138;2002;Multi Nation;Kathryn Bigelow;Multi Nation
+279;High Crimes;63781810;41543917;Dram;115;2002;ABD;Carl Franklin;ABD
+280;Frida;56298474;25885000;Dram;123;2002;Multi Nation;Julie Taymor;Multi Nation
+281;The Mothman Prophecies;55157539;35746370;Dram;119;2002;ABD;Mark Pellington;ABD
+282;Analyze That;55003135;32130627;Komedi;96;2002;ABD;Harold Ramis;ABD
+283;The Hot Chick;54639553;35081594;Fantastik;104;2002;ABD;Tom Brady;ABD
+284;Big Fat Liar;52970014;48360547;Aile;88;2002;ABD;Shawn Levy;ABD
+285;Dragonfly;52323400;30323400;Fantastik;104;2002;Multi Nation;Tom Shadyac;Multi Nation
+286;Blue Crush;51843679;40390647;Dram;104;2002;Multi Nation;John Stockwell;Multi Nation
+287;Enough;51806184;40007742;Dram;114;2002;ABD;;ABD
+288;I Spy;51386477;33561137;Aksiyon;97;2002;ABD;Betty Thomas;ABD
+289;The Transporter;43928932;25296447;Aksiyon;92;2002;Multi Nation;Corey Yuen;Multi Nation
+290;Clockstoppers;38793283;36989956;Bilim Kurgu;94;2002;ABD;Jonathan Frakes;ABD
+291;Halloween: Resurrection;37664855;30354442;Gerilim;94;2002;ABD;Rick Rosenthal;ABD
+292;Darkness;33988736;22163442;Korku;102;2002;Multi Nation;Jaume Balagueró;Multi Nation
+293;Adaptation.;32801173;22498520;Dram;115;2002;ABD;Spike Jonze;ABD
+294;Hart's War;32287044;19077641;Dram;125;2002;ABD;Gregory Hoblit;ABD
+295;The New Guy;31167388;29760152;Komedi;88;2002;ABD;Ed Decter;ABD
+296;The Four Feathers;29882645;18306166;Aksiyon;132;2002;Multi Nation;Shekhar Kapur;Multi Nation
+297;Punch-Drunk Love;24665649;17844216;Dram;96;2002;ABD;Paul Thomas Anderson;ABD
+298;Dark Water;24010000;;Gizem;105;2005;ABD;Walter Salles;ABD
+299;25th Hour;23928503;13084595;Dram;135;2002;ABD;Spike Lee;ABD
+300;Antwone Fisher;23367586;21078145;Dram;120;2002;ABD;Denzel Washington;ABD
+301;Ali G Indahouse;23280529;;Komedi;85;2002;Multi Nation;Mark Mylod;Multi Nation
+302;White Oleander;21672284;16357770;Dram;109;2002;Multi Nation;Peter Kosminsky;Multi Nation
+303;S1m0ne;19576023;9688676;Bilim Kurgu;117;2002;ABD;Andrew Niccol;ABD
+304;Tuck Everlasting;19344615;19161999;Aile;90;2002;ABD;Jay Russell;ABD
+305;Feardotcom;18902015;13258249;Gerilim;101;2002;Multi Nation;William Malone;Multi Nation
+306;The Last Kiss;17720347;1048950;Dram;115;2006;ABD;Tony Goldwyn;ABD
+307;Frailty;17423030;13110448;Dram;100;2001;Multi Nation;Bill Paxton;Multi Nation
+308;The Good Girl;16856124;14018296;Dram;93;2002;Multi Nation;Miguel Arteta;Multi Nation
+309;Femme Fatale;16838910;6630252;Gerilim;114;2002;Multi Nation;Brian De Palma;Multi Nation
+310;They;16446271;12840842;Gerilim;89;2002;ABD;Robert Harmon;ABD
+311;The Magdalene Sisters;16373112;306989;Dram;119;2002;Multi Nation;Peter Mullan;Multi Nation
+312;The Emperor's Club;16318449;14118751;Dram;108;2002;ABD;Michael Hoffman;ABD
+313;Rabbit-Proof Fence;16217411;6199600;Dram;94;2002;Avustralya;Phillip Noyce;Australia
+314;Undisputed;14946150;12764657;Dram;96;2002;ABD;Walter Hill;ABD
+315;Possession;14815898;10113733;Gerilim;86;2009;ABD;Joel Bergvall;ABD
+316;Possession;14815898;10113733;Dram;102;2002;Multi Nation;Neil LaBute;Multi Nation
+317;Trapped;13414416;7073251;Aksiyon;106;2002;Multi Nation;Luis Mandoki;Multi Nation
+318;Long Time Dead;13102295;;Gerilim;94;2002;Multi Nation;Marcus Adams;Multi Nation
+319;Sorority Boys;12517488;10200032;Komedi;93;2002;ABD;Wallace Wolodarsky;ABD
+320;The Eye;12165016;512049;Dram;98;2008;ABD;David Moreau;ABD
+321;The Eye;58010320;31418697;Dram;98;2008;ABD;David Moreau;ABD
+322;The Lord of the Rings: The Return of the King;1140682011;377027325;Aksiyon;263;2003;ABD;Peter Jackson;ABD
+323;Finding Nemo;871014978;339714978;Animasyon;100;2003;ABD;Andrew Stanton;ABD
+324;The Matrix Reloaded;739412035;281576461;Bilim Kurgu;138;2003;ABD;Lilly Wachowski;ABD
+325;Bruce Almighty;484592874;242829261;Fantastik;160;2003;ABD;Tom Shadyac;ABD
+326;The Last Samurai;454627263;111127263;Aksiyon;154;2003;Multi Nation;Edward Zwick;Multi Nation
+327;Terminator 3: Rise of the Machines;433371112;150371112;Bilim Kurgu;109;2003;Multi Nation;Jonathan Mostow;Multi Nation
+328;The Matrix Revolutions;427343298;139313948;Bilim Kurgu;129;2003;ABD;Lilly Wachowski;ABD
+329;X2;407711549;214949694;Bilim Kurgu;133;2003;ABD;Bryan Singer;ABD
+330;Something's Gotta Give;265328738;124728738;Dram;128;2003;ABD;Nancy Meyers;ABD
+331;Charlie's Angels: Full Throttle;259175788;100830111;Aksiyon;106;2003;ABD;McG;ABD
+332;The Village;256697520;114197520;Dram;108;2004;ABD;M. Night Shyamalan;ABD
+333;Brother Bear;250397798;85336277;Animasyon;85;2003;ABD;Aaron Blaise;ABD
+334;Hulk;245285165;132177234;Bilim Kurgu;138;2003;ABD;Ang Lee;ABD
+335;Love Actually;244931766;59696144;Dram;135;2003;Multi Nation;Richard Curtis;Multi Nation
+336;2 Fast 2 Furious;236350661;127154901;Aksiyon;108;2003;Multi Nation;John Singleton;Multi Nation
+337;Scary Movie 3;220673217;110003217;Komedi;84;2003;ABD;David Zucker;ABD
+338;S.W.A.T.;207725639;116934650;Aksiyon;117;2003;ABD;Clark Johnson;ABD
+339;Anger Management;195745823;135645823;Komedi;106;2003;ABD;Peter Segal;ABD
+340;The Haunted Mansion;182290266;75847266;Aile;88;2003;ABD;Rob Minkoff;ABD
+341;The League of Extraordinary Gentlemen;179265204;66465204;Bilim Kurgu;110;2003;Multi Nation;Stephen Norrington;Multi Nation
+342;Daredevil;179179718;102543518;Aksiyon;103;2003;ABD;Mark Steven Johnson;ABD
+343;The Italian Job;176070171;106128601;Aksiyon;110;2003;Multi Nation;F. Gary Gray;Multi Nation
+344;Cold Mountain;173013509;95636509;Dram;154;2003;Multi Nation;Anthony Minghella;Multi Nation
+345;Daddy Day Care;164433867;104297061;Aile;92;2003;ABD;Steve Carr;ABD
+346;Freaky Friday;160846332;110230332;Aile;97;2003;ABD;Mark Waters;ABD
+347;Johnny English;160466000;28082366;Aksiyon;88;2003;?ngiltere;Peter Howitt;Europe
+348;Mystic River;156595191;90135191;Dram;138;2003;ABD;Clint Eastwood;ABD
+349;Seabiscuit;148336445;120277854;Dram;141;2003;ABD;Gary Ross;ABD
+350;Gothika;141591324;59694580;Gerilim;98;2003;ABD;Mathieu Kassovitz;ABD
+351;Mona Lisa Smile;141337989;63860942;Dram;117;2003;ABD;Mike Newell;ABD
+352;Big Fish;123218424;66809693;Dram;125;2003;ABD;Tim Burton;ABD
+353;Peter Pan;121975011;48462608;Aile;113;2003;Multi Nation;P.J. Hogan;Multi Nation
+354;Intolerable Cruelty;120801243;35327628;Komedi;100;2003;ABD;Joel Coen;ABD
+355;Lost in Translation;118685453;44585453;Dram;102;2003;Multi Nation;Sofia Coppola;Multi Nation
+356;Paycheck;117248958;53790451;Bilim Kurgu;119;2003;Multi Nation;John Woo;Multi Nation
+357;Freddy vs. Jason;116632628;82622655;Korku;97;2003;ABD;Ronny Yu;ABD
+358;The Texas Chainsaw Massacre;107071655;80571655;Korku;98;2003;ABD;Marcus Nispel;ABD
+359;Just Married;101564935;56127162;Komedi;95;2003;Multi Nation;Shawn Levy;Multi Nation
+360;The Recruit;101191884;52802140;Aksiyon;115;2003;ABD;Roger Donaldson;ABD
+361;Phone Booth;97837138;46566212;Gerilim;81;2002;ABD;Joel Schumacher;ABD
+362;Underworld;95708457;51970690;Aksiyon;122;2003;Multi Nation;Len Wiseman;Multi Nation
+363;Final Destination 2;90941129;46961214;Gizem;90;2003;ABD;David R. Ellis;ABD
+364;Identity;90259536;52159536;Gerilim;90;2003;ABD;James Mangold;ABD
+365;Kangaroo Jack;88929111;66934963;Aile;89;2003;Multi Nation;David McNally;Multi Nation
+366;Shanghai Knights;88323487;60476872;Aksiyon;115;2003;Multi Nation;David Dobkin;Multi Nation
+367;Old School;87135520;75585093;Komedi;88;2003;ABD;Todd Phillips;ABD
+368;The Rundown;80657921;47726342;Aksiyon;104;2003;ABD;Peter Berg;ABD
+369;Runaway Jury;80154140;49443628;Dram;127;2003;ABD;Gary Fleder;ABD
+370;Dreamcatcher;75715436;33715436;Bilim Kurgu;136;2003;ABD;Lawrence Kasdan;ABD
+371;The Core;73498611;31186896;Bilim Kurgu;136;2003;Multi Nation;Jon Amiel;Multi Nation
+372;Holes;71406573;67406573;Aile;117;2003;ABD;Andrew Davis;ABD
+373;Looney Tunes: Back in Action;68514844;20991364;Animasyon;93;2003;ABD;Joe Dante;ABD
+374;Open Range;68296293;58331254;Aksiyon;139;2003;Multi Nation;Kevin Costner;Multi Nation
+375;Matchstick Men;65565672;36906460;Dram;116;2003;ABD;Ridley Scott;ABD
+376;Taxi 3;65497208;497208;Aksiyon;82;2003;Fransa;Gérard Krawczyk;Europe
+377;Jeepers Creepers 2;63102666;35667218;Korku;104;2003;ABD;Victor Salva;ABD
+378;Honey;62228395;30308417;Dram;94;2003;ABD;Bille Woodruff;ABD
+379;21 Grams;60427839;16290476;Dram;124;2003;ABD;Alejandro González Iñárritu;ABD
+380;Agent Cody Banks;58795814;47938330;Aile;102;2003;Multi Nation;Harald Zwart;Multi Nation
+381;Monster;58469210;34469210;Dram;109;2003;ABD;Patty Jenkins;ABD
+382;Monster;13910991;;Dram;109;2003;ABD;Patty Jenkins;ABD
+383;Hollywood Homicide;51142659;30940691;Aksiyon;116;2003;ABD;Ron Shelton;ABD
+384;National Security;50097949;36381186;Aksiyon;89;2003;Multi Nation;Jon Amiel;Multi Nation
+385;Secondhand Lions;48249017;42070939;Aile;111;2003;ABD;Tim McCanlies;ABD
+386;Darkness Falls;47488536;32551396;Gerilim;86;2003;Multi Nation;Jonathan Liebesman;Multi Nation
+387;Torque;46546197;21215059;Aksiyon;84;2004;Multi Nation;Joseph Kahn;Multi Nation
+388;Uptown Girls;44617342;37182494;Aile;92;2003;ABD;Boaz Yakin;ABD
+389;A Man Apart;44350926;26736098;Aksiyon;109;2003;Multi Nation;F. Gary Gray;Multi Nation
+390;Timeline;43935763;19481943;Bilim Kurgu;116;2003;ABD;Richard Donner;ABD
+391;Basic;42792561;26793311;Aksiyon;98;2003;Multi Nation;John McTiernan;Multi Nation
+392;Dumb and Dumberer: When Harry Met Lloyd;39267515;26276465;Komedi;85;2003;ABD;Troy Miller;ABD
+393;Bulletproof Monk;37713879;23358708;Aksiyon;104;2003;ABD;Paul Hunter;ABD
+394;The Medallion;34268701;22219192;Aksiyon;88;2003;Multi Nation;Gordon Chan;Multi Nation
+395;Cabin Fever;30553394;21158188;Korku;97;2002;ABD;Eli Roth;ABD
+396;Cold Creek Manor;29119434;21386011;Gerilim;118;2003;Multi Nation;Mike Figgis;Multi Nation
+397;Wrong Turn;28650575;15418790;Gerilim;84;2003;Multi Nation;Rob Schmidt;Multi Nation
+398;The Human Stain;22954068;5381908;Dram;106;2003;Multi Nation;Robert Benton;Multi Nation
+399;Duplex;19322135;9692135;Komedi;89;2003;Multi Nation;Danny DeVito;Multi Nation
+400;My Boss's Daughter;18191005;15550605;Komedi;83;2003;ABD;David Zucker;ABD
+401;The New World;17823920;;Dram;151;2005;ABD;Terrence Malick;ABD
+402;House of Sand and Fog;16763804;13040288;Dram;126;2003;ABD;Vadim Perelman;ABD
+403;Dogville;16680836;1535286;Dram;178;2003;Multi Nation;Lars von Trier;Multi Nation
+404;The Dreamers;15121165;2532228;Dram;115;2003;Multi Nation;Bernardo Bertolucci;Multi Nation
+405;Oldboy;14980005;707481;Aksiyon;104;2013;ABD;Spike Lee;ABD
+406;Kal Ho Naa Ho;13200241;1991922;Dram;186;2003;Multi Nation;Nikhil Advani;Multi Nation
+407;Beyond Borders;11705002;4430101;Dram;127;2003;Multi Nation;Martin Campbell;Multi Nation
+408;A Touch of Spice;10395779;;Dram;108;2003;Multi Nation;Tassos Baulmetis;Multi Nation
+409;Thirteen;10128960;4601043;Dram;100;2003;Multi Nation;Catherine Hardwicke;Multi Nation
+410;Elephant;10012022;1266955;Dram;81;2003;ABD;Gus Van Sant;ABD
+411;My Life Without Me;9726954;400948;Dram;106;2003;Multi Nation;Isabel Coixet;Multi Nation
+412;Shrek 2;928760770;441226247;Animasyon;93;2004;ABD;Andrew Adamson;ABD
+413;Spider-Man 2;788618317;373585825;Aksiyon;202;2004;ABD;Sam Raimi;ABD
+414;The Incredibles;631442092;261441092;Animasyon;115;2004;ABD;Brad Bird;ABD
+415;The Day After Tomorrow;552639571;186740799;Bilim Kurgu;124;2004;ABD;Roland Emmerich;ABD
+416;Meet the Fockers;522657936;279261160;Komedi;115;2004;ABD;Jay Roach;ABD
+417;Troy;497409852;133378256;Aksiyon;196;2004;Multi Nation;Wolfgang Petersen;Multi Nation
+418;Shark Tale;374583879;160861908;Animasyon;90;2004;ABD;Vicky Jenson;ABD
+419;Ocean's Twelve;362744280;125544280;Gerilim;125;2004;ABD;Steven Soderbergh;ABD
+420;I, Robot;353133898;144801023;Bilim Kurgu;115;2004;Multi Nation;Alex Proyas;Multi Nation
+421;National Treasure;347512318;173008894;Aksiyon;131;2004;ABD;Jon Turteltaub;ABD
+422;Van Helsing;300157638;120177084;Aksiyon;132;2004;ABD;Stephen Sommers;ABD
+423;The Bourne Supremacy;290633422;176241941;Aksiyon;108;2004;Multi Nation;Paul Greengrass;Multi Nation
+424;The Polar Express;286000505;162775358;Animasyon;100;2004;ABD;Robert Zemeckis;ABD
+425;Fahrenheit 9/11;222446882;119194771;Belgesel;123;2004;ABD;Michael Moore;ABD
+426;Collateral;220239925;101005703;Dram;120;2004;ABD;Michael Mann;ABD
+427;The Terminal;218685607;77872883;Dram;129;2004;ABD;Steven Spielberg;ABD
+428;Million Dollar Baby;216763646;100492203;Dram;132;2004;Multi Nation;Clint Eastwood;Multi Nation
+429;The Aviator;213719942;102610330;Dram;170;2004;Multi Nation;Martin Scorsese;Multi Nation
+430;King Arthur;203567857;51882244;Aksiyon;126;2004;Multi Nation;Antoine Fuqua;Multi Nation
+431;50 First Dates;198413428;120908074;Komedi;99;2004;ABD;Peter Segal;ABD
+432;The Grudge;187281115;110359362;Gerilim;92;2004;ABD;Takashi Shimizu;ABD
+433;The Grudge;49511319;21221803;Gerilim;92;2004;ABD;Takashi Shimizu;ABD
+434;Along Came Polly;178311729;88097164;Komedi;90;2004;ABD;John Hamburg;ABD
+435;Starsky & Hutch;170268750;88237754;Komedi;101;2004;ABD;Todd Phillips;ABD
+436;Shall We Dance;170128460;57890460;Dram;107;2004;ABD;Peter Chelsom;ABD
+437;Dodgeball: A True Underdog Story;168423227;114326736;Komedi;92;2004;Multi Nation;Rawson Marshall Thurber;Multi Nation
+438;Alexander;167298192;34297191;Aksiyon;175;2004;Multi Nation;Oliver Stone;Multi Nation
+439;The SpongeBob SquarePants Movie;140192993;85417988;Animasyon;87;2004;ABD;Stephen Hillenburg;ABD
+440;The Princess Diaries 2: Royal Engagement;134734481;95170481;Aile;113;2004;ABD;Garry Marshall;ABD
+441;Blade: Trinity;131883935;52411906;Aksiyon;123;2004;ABD;David S. Goyer;ABD
+442;Mean Girls;130125829;86058055;Komedi;97;2004;Multi Nation;Mark Waters;Multi Nation
+443;Resident Evil: Apocalypse;129342769;51201453;Bilim Kurgu;94;2004;Multi Nation;Alexander Witt;Multi Nation
+444;Ray;123971376;75331600;Dram;152;2004;ABD;Taylor Hackford;ABD
+445;The Notebook;117812623;81001787;Dram;123;2004;ABD;Nick Cassavetes;ABD
+446;The Forgotten;117592831;67133509;Bilim Kurgu;91;2004;ABD;Joseph Ruben;ABD
+447;Finding Neverland;116650613;51680613;Dram;106;2004;Multi Nation;Marc Forster;Multi Nation
+448;Closer;115505027;33987757;Dram;104;2004;Multi Nation;Mike Nichols;Multi Nation
+449;White Chicks;113086475;70831760;Komedi;109;2004;ABD;Keenen Ivory Wayans;ABD
+450;Sideways;109706931;71503593;Dram;127;2004;Multi Nation;Alexander Payne;Multi Nation
+451;Hidalgo;108040622;67303450;Aksiyon;136;2004;Multi Nation;Joe Johnston;Multi Nation
+452;The Stepford Wives;103370127;59484742;Bilim Kurgu;93;2004;ABD;Frank Oz;ABD
+453;Saw;103096345;55185045;Gizem;103;2004;ABD;James Wan;ABD
+454;Kung Fu Hustle;100912445;17108591;Aksiyon;99;2004;Multi Nation;Stephen Chow;Multi Nation
+455;Ladder 49;100572044;74541707;Aksiyon;115;2004;ABD;Jay Russell;ABD
+456;Hellboy;99318987;59623958;Aksiyon;122;2004;ABD;Guillermo del Toro;ABD
+457;Hellboy;55064690;21903748;Aksiyon;122;2004;ABD;Guillermo del Toro;ABD
+458;The Butterfly Effect;96693417;57938693;Bilim Kurgu;113;2004;Multi Nation;Eric Bress;Multi Nation
+459;The Manchurian Candidate;96105910;65955630;Dram;129;2004;ABD;Jonathan Demme;ABD
+460;Secret Window;92913171;48022900;Gerilim;96;2004;ABD;David Koepp;ABD
+461;Anchorman: The Legend of Ron Burgundy;90649730;85288303;Komedi;95;2004;ABD;Adam McKay;ABD
+462;Catwoman;82402379;40202379;Aksiyon;104;2004;ABD;Pitof;ABD
+463;Exorcist: The Beginning;78110021;41821986;Gerilim;114;2004;ABD;Renny Harlin;ABD
+464;The Ladykillers;76665191;39799191;Gerilim;104;2004;ABD;Joel Coen;ABD
+465;Eternal Sunshine of the Spotless Mind;74036715;34400301;Bilim Kurgu;108;2004;ABD;Michel Gondry;ABD
+466;Anacondas: The Hunt for the Blood Orchid;70992898;32238923;Aksiyon;94;2004;ABD;Dwight H. Little;ABD
+467;A Cinderella Story;70067909;51438175;Aile;95;2004;Multi Nation;Mark Rosman;Multi Nation
+468;Taking Lives;65470529;32682342;Gerilim;103;2004;ABD;D.J. Caruso;ABD
+469;Two Brothers;62172050;19176754;Aile;109;2004;Multi Nation;Jean-Jacques Annaud;Multi Nation
+470;Cellular;57678321;32003620;Aksiyon;94;2004;ABD;David R. Ellis;ABD
+471;Walking Tall;57223890;46437717;Aksiyon;86;2004;ABD;Kevin Bray;ABD
+472;Spanglish;55470154;42726869;Komedi;130;2004;ABD;James L. Brooks;ABD
+473;The Punisher;54700105;33810189;Aksiyon;124;2004;Multi Nation;Jonathan Hensleigh;Multi Nation
+474;Open Water;54683487;30610863;Dram;79;2003;ABD;Chris Isaak;ABD
+475;You Got Served;50576805;40363810;Dram;95;2004;ABD;Christopher B. Stokes;ABD
+476;Raising Helen;49718611;37486512;Dram;119;2004;ABD;Garry Marshall;ABD
+477;Wimbledon;41682237;17001133;Komedi;98;2004;Multi Nation;Richard Loncraine;Multi Nation
+478;Garden State;35825316;26782316;Dram;102;2004;ABD;Zach Braff;ABD
+479;Jersey Girl;35492921;25268157;Dram;102;2004;ABD;Kevin Smith;ABD
+480;Alfie;35060882;13399812;Dram;103;2004;Multi Nation;Charles Shyer;Multi Nation
+481;Hotel Rwanda;33882243;23530892;Dram;121;2004;Multi Nation;Terry George;Multi Nation
+482;Confessions of a Teenage Drama Queen;33251890;29331068;Komedi;89;2004;Multi Nation;Sara Sugarman;Multi Nation
+483;The Girl Next Door;30381722;14589444;Komedi;110;2004;Multi Nation;Luke Greenfield;Multi Nation
+484;Godsend;30120671;14379751;Bilim Kurgu;102;2004;Multi Nation;Nick Hamm;Multi Nation
+485;Agent Cody Banks 2: Destination London;28818995;23630159;Aile;100;2004;ABD;Kevin Allen;ABD
+486;Dirty Dancing: Havana Nights;27685016;14161590;Dram;86;2004;ABD;Guy Ferland;ABD
+487;Ella Enchanted;27388767;22918387;Aile;96;2004;Multi Nation;Tommy O'Haver;Multi Nation
+488;The Whole Ten Yards;26170671;16328471;Gerilim;98;2004;ABD;Howard Deutch;ABD
+489;Seed of Chucky;24829644;17083732;Gerilim;86;2004;ABD;Don Mancini;ABD
+490;Bride & Prejudice;24716440;6605592;Dram;111;2004;Multi Nation;Gurinder Chadha;Multi Nation
+491;Birth;23925492;5095038;Dram;100;2004;Multi Nation;Jonathan Glazer;Multi Nation
+492;EuroTrip;22605153;17771387;Komedi;93;2004;ABD;Jeff Schaffer;ABD
+493;Wicker Park;21568818;13001257;Dram;114;2004;ABD;Paul McGuigan;ABD
+494;New York Minute;21289826;14071441;Komedi;91;2004;ABD;Dennie Gordon;ABD
+495;Mindhunters;21148829;4480744;Gerilim;106;2004;Multi Nation;Renny Harlin;Multi Nation
+496;2046;19470239;1444588;Bilim Kurgu;124;2004;Multi Nation;Kar-Wai Wong;Multi Nation
+497;Vanity Fair;19463185;16136476;Dram;141;2004;Multi Nation;Mira Nair;Multi Nation
+498;Catch That Kid;16951702;16703799;Aile;92;2004;Multi Nation;Bart Freundlich;Multi Nation
+499;One Missed Call;16367880;;Gerilim;87;2008;Multi Nation;Eric Valette;Multi Nation
+500;One Missed Call;45847751;26890041;Gerilim;87;2008;Multi Nation;Eric Valette;Multi Nation
+501;Raise Your Voice;14867514;10411980;Aile;103;2004;ABD;Sean McNamara;ABD
+502;Soul Plane;14821824;14190750;Komedi;92;2004;ABD;Jessy Terrero;ABD
+503;Vizontele Tuuba;13954476;;Dram;119;2003;Türkiye;Y?lmaz Erdo?an;Asia
+504;Chasing Liberty;12313323;12195626;Komedi;111;2004;Multi Nation;Andy Cadiff;Multi Nation
+505;Layer Cake;11850214;2339957;Dram;105;2004;?ngiltere;Matthew Vaughn;Europe
+506;District B13;10976892;1200216;Bilim Kurgu;84;2004;Fransa;Pierre Morel;Europe
+507;Harry Potter and the Goblet of Fire;895921036;290013036;Fantastik;157;2005;Multi Nation;Mike Newell;Multi Nation
+508;King Kong;556906378;218080025;Aksiyon;187;2005;Multi Nation;Peter Jackson;Multi Nation
+509;Madagascar;542063846;193595521;Animasyon;85;2005;ABD;Eric Darnell;ABD
+510;Mr. & Mrs. Smith;487287646;186336279;Aksiyon;120;2005;Multi Nation;Doug Liman;Multi Nation
+511;Batman Begins;373443774;205343774;Aksiyon;140;2005;Multi Nation;Christopher Nolan;Multi Nation
+512;Hitch;371594210;179495555;Dram;118;2005;ABD;Andy Tennant;ABD
+513;Fantastic Four;333535934;154696080;Bilim Kurgu;106;2005;Multi Nation;Tim Story;Multi Nation
+514;Fantastic Four;167882881;56117548;Bilim Kurgu;106;2005;Multi Nation;Tim Story;Multi Nation
+515;Chicken Little;314432837;135386665;Animasyon;81;2005;ABD;Mark Dindal;ABD
+516;Wedding Crashers;288467645;209255921;Komedi;119;2005;ABD;David Dobkin;ABD
+517;Robots;262511490;128200012;Animasyon;89;2005;ABD;Carlos Saldanha;ABD
+518;Constantine;230884728;75976178;Aksiyon;121;2005;Multi Nation;Francis Lawrence;Multi Nation
+519;Flightplan;223387299;89707299;Dram;98;2005;ABD;Robert Schwentke;ABD
+520;The Pacifier;198636868;113086868;Aile;95;2005;ABD;Adam Shankman;ABD
+521;The Longest Yard;191466556;158119460;Komedi;113;2005;ABD;Peter Segal;ABD
+522;Brokeback Mountain;178062759;83043761;Dram;134;2005;Multi Nation;Ang Lee;Multi Nation
+523;The Ring Two;163995949;76231249;Dram;110;2005;ABD;Hideo Nakata;ABD
+524;The Island;162949164;35818913;Bilim Kurgu;136;2005;ABD;Michael Bay;ABD
+525;The Island;198326350;670883;Bilim Kurgu;136;2005;ABD;Michael Bay;ABD
+526;The Interpreter;162944923;72708161;Gerilim;128;2005;Multi Nation;Sydney Pollack;Multi Nation
+527;Sin City;158733820;74103820;Aksiyon;124;2005;ABD;Frank Miller;ABD
+528;Bewitched;131426169;63313159;Fantastik;102;2005;ABD;Nora Ephron;ABD
+529;Munich;130982129;47403685;Aksiyon;164;2005;Multi Nation;Steven Spielberg;Multi Nation
+530;Sahara;119240351;68671925;Aksiyon;124;2005;Multi Nation;Breck Eisner;Multi Nation
+531;Corpse Bride;118090836;53359111;Animasyon;77;2005;ABD;Tim Burton;ABD
+532;Cinderella Man;108539911;61649911;Dram;144;2005;ABD;Ron Howard;ABD
+533;The Amityville Horror;107516369;65233369;Korku;90;2005;ABD;Andrew Douglas;ABD
+534;The Brothers Grimm;105316267;37916267;Aksiyon;118;2005;ABD;Terry Gilliam;ABD
+535;Guess Who;103121466;68915888;Komedi;105;2005;ABD;Kevin Rodney Sullivan;ABD
+536;Just Like Heaven;102854431;48318130;Dram;95;2005;ABD;Mark Waters;ABD
+537;Are We There Yet?;97918663;82674398;Aile;95;2005;ABD;Brian Levant;ABD
+538;Jarhead;97076152;62658220;Dram;123;2005;Multi Nation;Sam Mendes;Multi Nation
+539;Red Eye;96258201;57891803;Gerilim;85;2005;ABD;Wes Craven;ABD
+540;Be Cool;95763716;56046979;Komedi;118;2005;ABD;F. Gary Gray;ABD
+541;The Skeleton Key;93983911;47907715;Dram;104;2005;Multi Nation;Iain Softley;Multi Nation
+542;Syriana;93974620;50824620;Dram;128;2005;ABD;Stephen Gaghan;ABD
+543;The Family Stone;92884429;60062868;Dram;103;2005;ABD;Thomas Bezucha;ABD
+544;Four Brothers;92374674;74494381;Aksiyon;109;2005;ABD;John Singleton;ABD
+545;White Noise;91196419;56386759;Dram;101;2005;Multi Nation;Geoffrey Sax;Multi Nation
+546;Racing Stripes;90754475;49772522;Aile;102;2005;ABD;Frederik Du Chau;ABD
+547;Transporter 2;89083229;43095856;Aksiyon;87;2005;Multi Nation;Louis Leterrier;Multi Nation
+548;Rumor Has It...;88933562;43000262;Komedi;97;2005;Multi Nation;Rob Reiner;Multi Nation
+549;Sky High;86369815;63946815;Aile;100;2005;ABD;Mike Mitchell;ABD
+550;Match Point;85638656;23151529;Dram;124;2005;Multi Nation;Woody Allen;Multi Nation
+551;In Her Shoes;83697473;32880591;Dram;130;2005;ABD;Curtis Hanson;ABD
+552;The Constant Gardener;82466670;33579797;Dram;129;2005;Multi Nation;Fernando Meirelles;Multi Nation
+553;Stealth;79268322;32116746;Bilim Kurgu;121;2005;ABD;Rob Cohen;ABD
+554;Coach Carter;76669554;67264877;Dram;136;2005;Multi Nation;Thomas Carter;Multi Nation
+555;Prime;67937494;22827153;Dram;102;2005;ABD;Ben Younger;ABD
+556;Boogeyman;67192859;46752382;Dram;89;2005;ABD;Stephen Kay;ABD
+557;Zathura: A Space Adventure;65079104;29258869;Bilim Kurgu;101;2005;ABD;Jon Favreau;ABD
+558;Valiant;61746888;19478106;Animasyon;76;2005;Multi Nation;Gary Chapman;Multi Nation
+559;Must Love Dogs;58231520;43894863;Komedi;98;2005;ABD;Gary David Goldberg;ABD
+560;Doom;58072119;28212337;Bilim Kurgu;105;2005;Multi Nation;Andrzej Bartkowiak;Multi Nation
+561;Derailed;57479076;36024076;Dram;108;2005;Multi Nation;Mikael Håfström;Multi Nation
+562;The Descent;57051053;26024456;Korku;99;2005;?ngiltere;Neil Marshall;Europe
+563;Elektra;56995646;24409722;Bilim Kurgu;97;2005;Multi Nation;Rob Bowman;Multi Nation
+564;Elizabethtown;52164016;26850426;Dram;123;2005;ABD;Cameron Crowe;ABD
+565;Just Friends;50912434;32619671;Komedi;96;2005;Multi Nation;Roger Kumble;Multi Nation
+566;Fever Pitch;50605163;42071069;Dram;104;2005;Multi Nation;Bobby Farrelly;Multi Nation
+567;Capote;49327405;28750530;Dram;114;2005;Multi Nation;Bennett Miller;Multi Nation
+568;The Wedding Date;47096206;31726995;Komedi;88;2005;ABD;Clare Kilner;ABD
+569;Get Rich or Die Tryin';46563961;30985352;Dram;117;2005;ABD;Jim Sheridan;ABD
+570;The Fog;46201432;29550869;Gerilim;100;2005;Multi Nation;Rupert Wainwright;Multi Nation
+571;Deuce Bigalow: European Gigolo;45109561;22400154;Komedi;83;2005;ABD;Mike Bigelow;ABD
+572;A Lot Like Love;42886719;21845719;Dram;107;2005;ABD;Nigel Cole;ABD
+573;Oliver Twist;42580321;2080321;Aile;130;2005;Multi Nation;Roman Polanski;Multi Nation
+574;Serenity;40445129;25514517;Bilim Kurgu;119;2005;ABD;Joss Whedon;ABD
+575;Casanova;37691644;11304403;Dram;112;2005;ABD;Lasse Hallström;ABD
+576;Beauty Shop;37245453;36351350;Komedi;105;2005;ABD;Bille Woodruff;ABD
+577;The Cave;33296457;15007991;Aksiyon;97;2005;Multi Nation;Bruce Hunt;Multi Nation
+578;Cry Wolf;32586408;10047674;Gerilim;90;2005;ABD;Jeff Wadlow;ABD
+579;Wolf Creek;30762648;16188180;Gerilim;104;2005;Multi Nation;Greg McLean;Multi Nation
+580;Cursed;29621722;19297522;Komedi;97;2005;Multi Nation;Wes Craven;Multi Nation
+581;The Upside of Anger;28237488;18761993;Dram;118;2005;ABD;Mike Binder;ABD
+582;Ice Princess;27645491;24402491;Aile;98;2005;Multi Nation;Tim Fywell;Multi Nation
+583;The Protector;27165581;12044087;Aksiyon;111;2005;Multi Nation;Prachya Pinkaew;Multi Nation
+584;North Country;25211175;18337722;Dram;126;2005;ABD;Niki Caro;ABD
+585;Hustle & Flow;23563727;22202809;Dram;116;2005;ABD;Craig Brewer;ABD
+586;Domino;22944502;10169202;Aksiyon;127;2005;Multi Nation;Tony Scott;Multi Nation
+587;The Jacket;21126225;6303762;Bilim Kurgu;103;2005;Multi Nation;John Maybury;Multi Nation
+588;The Devil's Rejects;20901859;17044981;Dram;107;2005;Multi Nation;Rob Zombie;Multi Nation
+589;The Perfect Man;19770475;16535005;Aile;100;2005;ABD;Mark Rosman;ABD
+590;The Weather Man;19126398;12482775;Dram;101;2005;Multi Nation;Gore Verbinski;Multi Nation
+591;Waiting...;18637690;16124543;Komedi;94;2005;ABD;Rob McKittrick;ABD
+592;An Unfinished Life;18618284;8586392;Dram;108;2005;Multi Nation;Lasse Hallström;Multi Nation
+593;Caché;16197824;3647381;Dram;117;2005;Multi Nation;Michael Haneke;Multi Nation
+594;Kiss Kiss Bang Bang;15785148;4243756;Gerilim;103;2005;ABD;Shane Black;ABD
+595;The Greatest Game Ever Played;15431177;15337393;Dram;120;2005;ABD;Bill Paxton;ABD
+596;Transamerica;15151744;9015303;Dram;103;2005;ABD;Duncan Tucker;ABD
+597;Pirates of the Caribbean: Dead Man's Chest;1066179725;423315812;Aksiyon;151;2006;ABD;Gore Verbinski;ABD
+598;The Da Vinci Code;760006945;217536138;Gerilim;149;2006;ABD;Ron Howard;ABD
+599;Casino Royale;605999592;167445960;Aksiyon;144;2006;Multi Nation;Martin Campbell;Multi Nation
+600;Cars;461983149;244082982;Animasyon;117;2006;ABD;John Lasseter;ABD
+601;X-Men: The Last Stand;460435291;234362462;Bilim Kurgu;104;2006;ABD;Brett Ratner;ABD
+602;Mission: Impossible III;398479497;134029801;Aksiyon;126;2006;ABD;J.J. Abrams;ABD
+603;Superman Returns;391081192;200081192;Bilim Kurgu;154;2006;ABD;Bryan Singer;ABD
+604;Happy Feet;384335608;198000317;Animasyon;108;2006;Avustralya;Warren Coleman;Australia
+605;The Devil Wears Prada;326705902;124740460;Dram;109;2006;Multi Nation;David Frankel;Multi Nation
+606;The Pursuit of Happyness;307127625;163566459;Dram;117;2006;ABD;Gabriele Muccino;ABD
+607;The Departed;291465034;132384315;Dram;151;2006;Multi Nation;Martin Scorsese;Multi Nation
+608;Borat;262552893;128505958;Komedi;84;2006;Multi Nation;Larry Charles;Multi Nation
+609;Eragon;250425512;75030163;Aile;104;2006;Multi Nation;Stefan Fangmeier;Multi Nation
+610;Click;240685326;137355633;Dram;107;2006;ABD;Frank Coraci;ABD
+611;The Holiday;205841885;63224849;Komedi;136;2006;ABD;Nancy Meyers;ABD
+612;The Break-Up;205668210;118703275;Komedi;106;2006;ABD;Peyton Reed;ABD
+613;Open Season;200811689;85105259;Animasyon;83;2006;ABD;Roger Allers;ABD
+614;Inside Man;186003591;88513495;Dram;129;2006;ABD;Spike Lee;ABD
+615;Poseidon;181674817;60674817;Aksiyon;98;2006;ABD;Wolfgang Petersen;ABD
+616;Deja Vu;180557550;64038616;Bilim Kurgu;126;2006;Multi Nation;Tony Scott;Multi Nation
+617;Flushed Away;178281554;64665672;Animasyon;85;2006;Multi Nation;David Bowers;Multi Nation
+618;Scary Movie 4;178262620;90710620;Komedi;83;2006;ABD;David Zucker;ABD
+619;Blood Diamond;171720398;57377916;Aksiyon;143;2006;Multi Nation;Edward Zwick;Multi Nation
+620;The Pink Panther;164115897;82226474;Aile;93;2006;ABD;Shawn Levy;ABD
+621;Miami Vice;163794509;63450470;Aksiyon;132;2006;Multi Nation;Michael Mann;Multi Nation
+622;World Trade Center;163247198;70278893;Dram;129;2006;ABD;Oliver Stone;ABD
+623;The Fast and the Furious: Tokyo Drift;158964610;62514415;Aksiyon;104;2006;Multi Nation;Justin Lin;Multi Nation
+624;Rocky Balboa;155929020;70270943;Dram;102;2006;ABD;Sylvester Stallone;ABD
+625;Dreamgirls;155430335;103365956;Dram;134;2006;ABD;Bill Condon;ABD
+626;Charlotte's Web;148963822;82985708;Aile;97;2006;Multi Nation;Gary Winick;Multi Nation
+627;Garfield: A Tail of Two Kitties;143325970;28426747;Animasyon;78;2006;Multi Nation;Tim Hill;Multi Nation
+628;Monster House;141861243;73661010;Animasyon;90;2006;ABD;Gil Kenan;ABD
+629;Big Momma's House 2;141522961;70165972;Komedi;99;2006;ABD;John Whitesell;ABD
+630;Babel;135330182;34302837;Dram;143;2006;Multi Nation;Alejandro González Iñárritu;Multi Nation
+631;Perfume: The Story of a Murderer;135039924;2223293;Dram;147;2006;Multi Nation;Tom Tykwer;Multi Nation
+632;You, Me and Dupree;130628903;75628110;Komedi;108;2006;ABD;Anthony Russo;ABD
+633;The Queen;123384128;56441711;Dram;103;2006;Multi Nation;Stephen Frears;Multi Nation
+634;Apocalypto;120673227;50866635;Aksiyon;139;2006;Multi Nation;Mel Gibson;Multi Nation
+635;Eight Below;120455994;81612565;Aile;120;2006;ABD;Frank Marshall;ABD
+636;Final Destination 3;118890272;54098051;Gizem;93;2006;Multi Nation;James Wong;Multi Nation
+637;Barnyard;116755080;72637803;Animasyon;85;2006;Multi Nation;Steve Oedekerk;Multi Nation
+638;The Lake House;114830111;52330111;Dram;99;2006;Multi Nation;Alejandro Agresti;Multi Nation
+639;Step Up;114194847;65328121;Dram;104;2006;ABD;Anne Fletcher;ABD
+640;The Prestige;109676311;53089891;Bilim Kurgu;130;2006;Multi Nation;Christopher Nolan;Multi Nation
+641;The Wild;102338515;37384046;Animasyon;81;2006;Multi Nation;Steve Williams;Multi Nation
+642;Little Miss Sunshine;101058954;59891098;Dram;102;2006;ABD;Jonathan Dayton;ABD
+643;Silent Hill;100605135;46982632;Gizem;125;2006;Multi Nation;Christophe Gans;Multi Nation
+644;The Good Shepherd;100266865;59952835;Dram;167;2006;Multi Nation;Robert De Niro;Multi Nation
+645;The Host;89431890;2201923;Bilim Kurgu;125;2013;ABD;Andrew Niccol;ABD
+646;The Host;63365859;26627201;Bilim Kurgu;125;2013;ABD;Andrew Niccol;ABD
+647;The Illusionist;87892388;39868642;Dram;110;2006;ABD;Neil Burger;ABD
+648;RV;87528173;71726025;Aile;99;2006;Multi Nation;Barry Sonnenfeld;Multi Nation
+649;The Shaggy Dog;87134280;61123569;Aile;98;2006;ABD;Brian Robbins;ABD
+650;Date Movie;85749034;48548426;Komedi;83;2006;Multi Nation;Jason Friedberg;Multi Nation
+651;Volver;85585177;12899867;Dram;121;2006;Multi Nation;Pedro Almodóvar;Multi Nation
+652;Firewall;82751189;48751189;Aksiyon;105;2006;Multi Nation;Richard Loncraine;Multi Nation
+653;Hostel;81979826;47326473;Korku;94;2005;ABD;Eli Roth;ABD
+654;United 93;76700659;31483450;Aksiyon;111;2006;Multi Nation;Paul Greengrass;Multi Nation
+655;Lady in the Water;72785169;42285169;Dram;110;2006;ABD;M. Night Shyamalan;ABD
+656;The Grudge 2;70711175;39143839;Gerilim;102;2006;ABD;Takashi Shimizu;ABD
+657;Children of Men;70455770;35552383;Bilim Kurgu;109;2006;Multi Nation;Alfonso Cuarón;Multi Nation
+658;The Hills Have Eyes;70008952;41778863;Gerilim;107;2006;Multi Nation;Alexandre Aja;Multi Nation
+659;John Tucker Must Die;68844775;41011711;Komedi;89;2006;Multi Nation;Betty Thomas;Multi Nation
+660;Flags of Our Fathers;65900249;33602376;Dram;135;2006;ABD;Clint Eastwood;ABD
+661;16 Blocks;65664721;36895141;Aksiyon;105;2006;Multi Nation;Richard Donner;Multi Nation
+662;The Benchwarmers;64962629;59843754;Komedi;85;2006;ABD;Dennis Dugan;ABD
+663;My Super Ex-Girlfriend;61108981;22530295;Bilim Kurgu;95;2006;ABD;Ivan Reitman;ABD
+664;Marie Antoinette;60917189;15962471;Dram;123;2006;Multi Nation;Sofia Coppola;Multi Nation
+665;Invincible;58480828;57806952;Dram;105;2006;ABD;Ericson Core;ABD
+666;Lucky Number Slevin;56308881;22495466;Dram;110;2006;Multi Nation;Paul McGuigan;Multi Nation
+667;The Ant Bully;55181129;28142535;Animasyon;88;2006;ABD;John A. Davis;ABD
+668;Stranger Than Fiction;53653224;40660952;Dram;113;2006;ABD;Marc Forster;ABD
+669;The Texas Chainsaw Massacre: The Beginning;51764406;39517763;Korku;91;2006;ABD;Jonathan Liebesman;ABD
+670;Notes on a Scandal;49814392;17510118;Dram;92;2006;Multi Nation;Richard Eyre;Multi Nation
+671;An Inconvenient Truth;49782012;24146161;Belgesel;100;2006;ABD;Davis Guggenheim;ABD
+672;The Black Dahlia;49332692;22545080;Dram;121;2006;Multi Nation;Brian De Palma;Multi Nation
+673;The Nativity Story;46432264;37629831;Dram;101;2005;ABD;Catherine Hardwicke;ABD
+674;We Are Marshall;43545364;43545364;Dram;124;2006;ABD;McG;ABD
+675;Last Holiday;43451846;38399961;Dram;112;2006;ABD;Wayne Wang;ABD
+676;Glory Road;42938449;42647449;Dram;118;2006;ABD;James Gartner;ABD
+677;Crank;42931041;27838408;Aksiyon;88;2006;ABD;Brian Taylor;ABD
+678;Man of the Year;42472472;37327390;Gerilim;115;2006;ABD;Barry Levinson;ABD
+679;A Good Year;42269923;7459300;Dram;117;2006;Multi Nation;Ridley Scott;Multi Nation
+680;Gridiron Gang;41480851;38432823;Dram;125;2006;ABD;Phil Joanou;ABD
+681;Scoop;39220946;10525717;Gizem;96;2006;Multi Nation;Woody Allen;Multi Nation
+682;The Wicker Man;38805380;23649127;Gerilim;102;2006;Multi Nation;Neil LaBute;Multi Nation
+683;Basic Instinct 2;38629478;5971336;Gerilim;114;2006;Multi Nation;Michael Caton-Jones;Multi Nation
+684;Accepted;38623262;36323505;Komedi;93;2006;ABD;Steve Pink;ABD
+685;Employee of the Month;38528984;28444855;Komedi;103;2006;ABD;Greg Coolidge;ABD
+686;Just My Luck;38159905;17326650;Aile;103;2006;ABD;Donald Petrie;ABD
+687;The Covenant;37598767;23380495;Aksiyon;97;2006;ABD;Renny Harlin;ABD
+688;The Covenant;21632392;16938039;Aksiyon;97;2006;ABD;Renny Harlin;ABD
+689;Miss Potter;35078241;3005605;Aile;92;2006;Multi Nation;Chris Noonan;Multi Nation
+690;Dhoom 2;32396427;2643586;Aksiyon;151;2006;Hindistan;Sanjay Gadhvi;Asia
+691;Ultraviolet;31070211;18535812;Bilim Kurgu;87;2006;ABD;Kurt Wimmer;ABD
+692;Pulse;29907685;20264436;Gerilim;90;2006;ABD;Jim Sonzero;ABD
+693;Death Note;29630359;;Fantastik;126;2006;Japonya;Sh?suke Kaneko;Asia
+694;An American Haunting;29612137;16298046;Gerilim;83;2005;Multi Nation;Courtney Solomon;Multi Nation
+695;Stay Alive;27298695;23086480;Gerilim;85;2006;ABD;;ABD
+696;The Painted Veil;26910847;8060487;Dram;125;2006;Multi Nation;John Curran;Multi Nation
+697;Kabhi Alvida Naa Kehna;25229168;3275444;Dram;193;2006;Hindistan;Karan Johar;Asia
+698;Stormbreaker;23937870;677646;Aile;93;2006;Multi Nation;Geoffrey Sax;Multi Nation
+699;Aquamarine;22989957;18597342;Aile;104;2006;Multi Nation;Elizabeth Allen;Multi Nation
+700;Asterix and the Vikings;22501596;;Animasyon;78;2006;Multi Nation;Stefan Fjeldmark;Multi Nation
+701;Fanaa;22175908;2105352;Aksiyon;168;2006;Hindistan;Kunal Kohli;Asia
+702;The Marine;22165608;18844784;Aksiyon;92;2006;ABD;John Bonito;ABD
+703;Black Christmas;21510851;16273581;Gerilim;95;2006;Multi Nation;Glen Morgan;Multi Nation
+704;Waist Deep;21353303;21344312;Aksiyon;97;2006;ABD;Vondie Curtis-Hall;ABD
+705;Bobby;20704591;11242801;Dram;120;2006;ABD;Emilio Estevez;ABD
+706;Don;19640129;2223961;Aksiyon;178;2006;Hindistan;Farhan Akhtar;Asia
+707;Don;8287406;;Aksiyon;178;2006;Hindistan;Farhan Akhtar;Asia
+708;See No Evil;18564467;15032800;Gerilim;84;2006;ABD;Gregory Dark;ABD
+709;Bandidas;18381890;;Aksiyon;93;2006;Multi Nation;Joachim Roenning;Multi Nation
+710;Flyboys;17834865;13090630;Aksiyon;138;2006;Multi Nation;Tony Bill;Multi Nation
+711;Annapolis;17496992;17127992;Aksiyon;108;2006;ABD;Justin Lin;ABD
+712;Material Girls;16907725;11449638;Komedi;97;2006;ABD;Martha Coolidge;ABD
+713;Pirates of the Caribbean: At World's End;960996492;309420425;Aksiyon;169;2007;ABD;Gore Verbinski;ABD
+714;Harry Potter and the Order of the Phoenix;941676843;292004738;Fantastik;138;2007;Multi Nation;David Yates;Multi Nation
+715;Spider-Man 3;894983373;336530303;Aksiyon;195;2007;ABD;Sam Raimi;ABD
+716;Shrek the Third;813367380;322719944;Animasyon;93;2007;ABD;Raman Hui;ABD
+717;Transformers;709709780;319246193;Bilim Kurgu;143;2007;ABD;Michael Bay;ABD
+718;Ratatouille;623726085;206445654;Animasyon;111;2007;ABD;Brad Bird;ABD
+719;I Am Legend;585410052;256393010;Bilim Kurgu;100;2007;ABD;Francis Lawrence;ABD
+720;The Simpsons Movie;536414270;183135014;Animasyon;87;2007;ABD;David Silverman;ABD
+721;National Treasure: Book of Secrets;459242249;219964115;Aksiyon;124;2007;ABD;Jon Turteltaub;ABD
+722;300;456068181;210614939;Aksiyon;117;2006;Multi Nation;Zack Snyder;Multi Nation
+723;Live Free or Die Hard;388156011;134529403;Aksiyon;128;2007;Multi Nation;Len Wiseman;Multi Nation
+724;The Golden Compass;372234864;70107728;Fantastik;113;2007;Multi Nation;Chris Weitz;Multi Nation
+725;Alvin and the Chipmunks;365352546;217326974;Animasyon;91;2007;ABD;Tim Hill;ABD
+726;Enchanted;340487652;127807262;Aile;107;2007;ABD;Kevin Lima;ABD
+727;Ocean's Thirteen;311312624;117154724;Gerilim;122;2007;ABD;Steven Soderbergh;ABD
+728;Bee Movie;293514336;126631277;Animasyon;91;2007;ABD;Steve Hickner;ABD
+729;American Gangster;269755430;130164645;Dram;157;2007;Multi Nation;Ridley Scott;Multi Nation
+730;Rush Hour 3;258097122;140125968;Aksiyon;91;2007;ABD;Brett Ratner;ABD
+731;Wild Hogs;253625427;168273550;Aksiyon;100;2007;ABD;Walt Becker;ABD
+732;Juno;232372681;143495265;Dram;96;2007;ABD;Jason Reitman;ABD
+733;Mr. Bean's Holiday;232225908;33302167;Aile;90;2007;?ngiltere;Steve Bendelack;Europe
+734;Ghost Rider;228738393;115802596;Aksiyon;114;2007;ABD;Mark Steven Johnson;ABD
+735;Knocked Up;219922417;148768917;Dram;129;2007;ABD;Judd Apatow;ABD
+736;Hairspray;203552922;118871849;Dram;117;2007;Multi Nation;Adam Shankman;Multi Nation
+737;Beowulf;196393745;82280579;Animasyon;115;2007;ABD;Robert Zemeckis;ABD
+738;Knowing;183658498;79957634;Bilim Kurgu;121;2009;Multi Nation;Alex Proyas;Multi Nation
+739;The Bucket List;175372502;93466502;Dram;97;2007;ABD;Rob Reiner;ABD
+740;Evan Almighty;174440724;100462298;Aile;96;2007;ABD;Tom Shadyac;ABD
+741;Superbad;170812526;121463226;Komedi;113;2007;ABD;Greg Mottola;ABD
+742;Meet the Robinsons;169333034;97822171;Animasyon;95;2007;ABD;Stephen J. Anderson;ABD
+743;Norbit;159814490;95673607;Komedi;102;2007;ABD;Brian Robbins;ABD
+744;P.S. I Love You;156835339;53695808;Dram;126;2007;ABD;Richard LaGravenese;ABD
+745;Sweeney Todd: The Demon Barber of Fleet Street;153383627;52898073;Dram;116;2007;Multi Nation;Tim Burton;Multi Nation
+746;Surf's Up;152005713;58867694;Animasyon;85;2007;ABD;Ash Brannon;ABD
+747;The Game Plan;147880543;90648202;Aile;110;2007;ABD;Andy Fickman;ABD
+748;Resident Evil: Extinction;147717833;50648679;Bilim Kurgu;94;2007;Multi Nation;Russell Mulcahy;Multi Nation
+749;Music and Lyrics;145896422;50572589;Komedi;105;2007;ABD;Marc Lawrence (i);ABD
+750;Blades of Glory;145710347;118594548;Komedi;93;2007;ABD;Josh Gordon;ABD
+751;Bridge to Terabithia;137587063;82272442;Aile;96;2007;ABD;Gabor Csupo;ABD
+752;Stardust;137515140;38634938;Aile;127;2007;Multi Nation;Matthew Vaughn;Multi Nation
+753;1408;132963417;71985628;Gerilim;104;2007;ABD;Mikael Håfström;ABD
+754;Atonement;131016624;50927067;Dram;123;2007;Multi Nation;Joe Wright;Multi Nation
+755;Aliens vs. Predator: Requiem;130290885;41797066;Bilim Kurgu;94;2007;ABD;Colin Strause;ABD
+756;The Heartbreak Kid;128453183;36787257;Komedi;116;2007;ABD;Bobby Farrelly;ABD
+757;Charlie Wilson's War;119483446;66661095;Dram;102;2007;ABD;Mike Nichols;ABD
+758;Disturbia;118114220;80209692;Dram;105;2007;ABD;D.J. Caruso;ABD
+759;Hitman;101276318;39687694;Aksiyon;100;2007;Multi Nation;Xavier Gens;Multi Nation
+760;TMNT;95797812;54149098;Animasyon;87;2007;Multi Nation;Kevin Munroe;Multi Nation
+761;Shooter;95696996;47003582;Aksiyon;124;2007;ABD;Antoine Fuqua;ABD
+762;Michael Clayton;92991835;49033882;Dram;120;2007;ABD;Tony Gilroy;ABD
+763;No Reservations;92601050;43107979;Dram;104;2007;Multi Nation;Scott Hicks;Multi Nation
+764;Fracture;92011561;39015018;Gerilim;113;2007;Multi Nation;Gregory Hoblit;Multi Nation
+765;Epic Movie;87238158;39739367;Aksiyon;85;2007;ABD;David Zucker;ABD
+766;The Kingdom;87019158;47536778;Aksiyon;110;2007;Multi Nation;Peter Berg;Multi Nation
+767;Zodiac;84785914;33080084;Dram;157;2007;ABD;David Fincher;ABD
+768;Premonition;84146832;47852604;Dram;96;2007;ABD;Mennan Yapo;ABD
+769;Hannibal Rising;82169884;27670986;Dram;121;2007;Multi Nation;Peter Webber;Multi Nation
+770;Hot Fuzz;80743363;23637265;Aksiyon;121;2007;Multi Nation;Edgar Wright;Multi Nation
+771;The Number 23;77677553;35193167;Gerilim;98;2007;Multi Nation;Joel Schumacher;Multi Nation
+772;Next;77621983;18211013;Bilim Kurgu;96;2007;ABD;Lee Tamahori;ABD
+773;There Will Be Blood;76181545;40222514;Dram;158;2007;ABD;Paul Thomas Anderson;ABD
+774;Elizabeth: The Golden Age;75782758;16383509;Dram;114;2007;Multi Nation;Shekhar Kapur;Multi Nation
+775;Dragon Wars: D-War;75108817;10977721;Bilim Kurgu;90;2007;Güney Kore;Shim Hyung-rae;Asia
+776;The Kite Runner;75011029;15800078;Dram;128;2007;Multi Nation;Marc Forster;Multi Nation
+777;Perfect Stranger;73534117;23984949;Gerilim;109;2007;ABD;James Foley;ABD
+778;License to Wed;70181325;43799818;Komedi;91;2007;Multi Nation;Ken Kwapis;Multi Nation
+779;The Brave One;69787394;36793804;Dram;122;2007;ABD;Neil Jordan;ABD
+780;Because I Said So;69485490;42674040;Komedi;102;2007;ABD;Michael Lehmann;ABD
+781;Mr. Magorium's Wonder Emporium;69474661;32061555;Aile;93;2007;Multi Nation;Zach Helm;Multi Nation
+782;August Rush;66122026;31664162;Aile;114;2007;ABD;Kirsten Sheridan;ABD
+783;Underdog;65270477;43760605;Bilim Kurgu;81;2007;ABD;Frederik Du Chau;ABD
+784;28 Weeks Later;65048678;28638916;Bilim Kurgu;100;2007;Multi Nation;Juan Carlos Fresnadillo;Multi Nation
+785;The Reaping;62771059;25126214;Korku;99;2007;ABD;Stephen Hopkins;ABD
+786;Good Luck Chuck;59768495;35017297;Komedi;101;2007;Multi Nation;Mark Helfrich;Multi Nation
+787;The Mist;57470220;25594957;Bilim Kurgu;126;2007;ABD;Frank Darabont;ABD
+788;Smokin' Aces;57232879;35787686;Aksiyon;109;2006;Multi Nation;Joe Carnahan;Multi Nation
+789;Into the Wild;56674477;18354356;Dram;148;2007;ABD;Sean Penn;ABD
+790;Eastern Promises;56106607;17266000;Gerilim;101;2007;Multi Nation;David Cronenberg;Multi Nation
+791;The Messengers;55010659;35374833;Gerilim;90;2007;ABD;Oxide Pang Chun;ABD
+792;Mr. Brooks;48443734;28549298;Gerilim;120;2007;ABD;Bruce A. Evans;ABD
+793;The Nanny Diaries;47817020;25930652;Dram;106;2007;ABD;Shari Springer Berman;ABD
+794;Death at a Funeral;46789413;8580428;Dram;90;2007;Multi Nation;Frank Oz;Multi Nation
+795;Death at a Funeral;46789413;8580428;Komedi;92;2010;ABD;Neil LaBute;ABD
+796;Death at a Funeral;49050886;42739347;Dram;90;2007;Multi Nation;Frank Oz;Multi Nation
+797;Death at a Funeral;49050886;42739347;Komedi;92;2010;ABD;Neil LaBute;ABD
+798;Freedom Writers;43095175;36605602;Dram;123;2007;Multi Nation;Richard LaGravenese;Multi Nation
+799;Breach;40953935;33231264;Dram;110;2007;Multi Nation;Billy Ray;Multi Nation
+800;War;40481352;22486409;Aksiyon;103;2007;Multi Nation;Philip G. Atwell;Multi Nation
+801;War;67179155;4654000;Aksiyon;103;2007;Multi Nation;Philip G. Atwell;Multi Nation
+802;The Invasion;40170558;15074191;Bilim Kurgu;99;2007;Multi Nation;Oliver Hirschbiegel;Multi Nation
+803;Om Shanti Om;39990809;3597372;Dram;162;2007;Hindistan;Farah Khan;Asia
+804;The Hills Have Eyes 2;37697773;20804166;Gerilim;89;2007;ABD;Martin Weisz;ABD
+805;Becoming Jane;37311672;18670946;Dram;118;2007;?ngiltere;Julian Jarrold;Europe
+806;Sicko;36093504;24540079;Belgesel;123;2007;ABD;Michael Moore;ABD
+807;Hostel: Part II;35728183;17609452;Korku;93;2007;ABD;Eli Roth;ABD
+808;Vacancy;35442935;19363565;Gerilim;85;2007;ABD;Nimród Antal;ABD
+809;The Darjeeling Limited;35078918;11902715;Dram;92;2007;ABD;Wes Anderson;ABD
+810;Gone Baby Gone;34612443;20292962;Dram;113;2007;ABD;Ben Affleck;ABD
+811;Mr. Woodcock;33683200;25799486;Komedi;87;2007;ABD;Craig Gillespie;ABD
+812;Awake;32730062;14377198;Gerilim;84;2007;ABD;Joby Harold;ABD
+813;88 Minutes;32593385;17213467;Gerilim;108;2007;ABD;Jon Avnet;ABD
+814;Alpha Dog;32351125;15309602;Dram;122;2006;Multi Nation;Nick Cassavetes;Multi Nation
+815;Amazing Grace;32120360;21250683;Dram;111;2006;Multi Nation;Michael Apted;Multi Nation
+816;The Seeker: The Dark Is Rising;31852619;8794452;Aile;94;2007;ABD;David L. Cunningham;ABD
+817;Pathfinder;30984583;10232081;Aksiyon;99;2007;ABD;Marcus Nispel;ABD
+818;Nancy Drew;30666930;25612520;Aile;99;2007;ABD;Andrew Fleming;ABD
+819;The Great Debaters;30236407;30236407;Dram;126;2007;ABD;Denzel Washington;ABD
+820;St. Trinian's;29066483;;Bilim Kurgu;101;2007;?ngiltere;Barnaby Thompson;Europe
+821;The Last Mimzy;27308918;21471047;Bilim Kurgu;94;2007;ABD;Robert Shaye;ABD
+822;Rendition;27066382;9736045;Dram;120;2007;ABD;Gavin Hood;ABD
+823;The Hitcher;25399945;16472961;Gerilim;84;2007;ABD;Dave Meyers;ABD
+824;The Last Legion;25303038;5933494;Aksiyon;102;2007;Multi Nation;Doug Lefler;Multi Nation
+825;Georgia Rule;25000167;19103072;Dram;113;2007;ABD;Garry Marshall;ABD
+826;Persepolis;22783978;4445756;Animasyon;95;2007;Multi Nation;Vincent Paronnaud;Multi Nation
+827;Cassandra's Dream;22686378;973018;Dram;108;2007;Multi Nation;Woody Allen;Multi Nation
+828;Dead Silence;22382047;16809076;Korku;89;2007;ABD;James Wan;ABD
+829;Reign Over Me;22242388;19661987;Dram;124;2007;ABD;Mike Binder;ABD
+830;Waitress;22240529;19074800;Dram;108;2007;ABD;Adrienne Shelly;ABD
+831;My Blueberry Nights;22007671;867275;Dram;95;2007;Multi Nation;Kar-Wai Wong;Multi Nation
+832;Chak De! India;21505244;1120404;Dram;148;2007;Multi Nation;Shimit Amin;Multi Nation
+833;Penelope;21156270;10011996;Fantastik;103;2006;Multi Nation;Mark Palansky;Multi Nation
+834;Once;20936722;9439923;Dram;86;2007;?rlanda;John Carney;Europe
+835;Evening;20016753;12492481;Dram;117;2007;ABD;Lajos Koltai;ABD
+836;A Mighty Heart;19008745;9176787;Dram;100;2007;Multi Nation;Michael Winterbottom;Multi Nation
+837;The Dark Knight;1003845358;533345358;Aksiyon;152;2008;Multi Nation;Christopher Nolan;Multi Nation
+838;Indiana Jones and the Kingdom of the Crystal Skull;790653942;317101119;Aksiyon;122;2008;ABD;Steven Spielberg;ABD
+839;Kung Fu Panda;631744560;215434591;Animasyon;92;2008;ABD;Mark Osborne;ABD
+840;Hancock;629443428;227946274;Aksiyon;92;2008;ABD;Peter Berg;ABD
+841;Madagascar: Escape 2 Africa;603900354;180010950;Animasyon;89;2008;ABD;Eric Darnell;ABD
+842;Quantum of Solace;589580482;168368427;Aksiyon;106;2008;Multi Nation;Marc Forster;Multi Nation
+843;Iron Man;585366247;318604126;Bilim Kurgu;127;2008;ABD;Jon Favreau;ABD
+844;The Chronicles of Narnia: Prince Caspian;419665568;141621490;Aile;150;2008;Multi Nation;Andrew Adamson;Multi Nation
+845;Slumdog Millionaire;378410113;141319928;Dram;120;2008;?ngiltere;Danny Boyle;Europe
+846;Wanted;342463063;134508551;Aksiyon;110;2008;Multi Nation;Timur Bekmambetov;Multi Nation
+847;Bolt;309979994;114053579;Animasyon;96;2008;ABD;Chris Williams;ABD
+848;Gran Torino;269958228;148095302;Dram;116;2008;Multi Nation;Clint Eastwood;Multi Nation
+849;The Incredible Hulk;264770996;134806913;Bilim Kurgu;113;2008;ABD;Louis Leterrier;ABD
+850;Marley & Me;255743093;143153751;Aile;115;2008;ABD;David Frankel;ABD
+851;High School Musical 3: Senior Year;252909177;90559416;Aile;117;2008;ABD;Kenny Ortega;ABD
+852;Get Smart;230685453;130319208;Aksiyon;110;2008;ABD;Peter Segal;ABD
+853;Taken;226837760;145000989;Aksiyon;94;2008;Multi Nation;Pierre Morel;Multi Nation
+854;Jumper;225132113;80172128;Bilim Kurgu;88;2008;Multi Nation;Doug Liman;Multi Nation
+855;Yes Man;223241637;97690976;Komedi;104;2008;ABD;Peyton Reed;ABD
+856;Bedtime Stories;212874864;110101975;Aile;99;2008;ABD;Adam Shankman;ABD
+857;Australia;211787511;49554002;Macera;165;2008;Multi Nation;Baz Luhrmann;Multi Nation
+858;Valkyrie;201545517;83077833;Dram;121;2008;Multi Nation;Bryan Singer;Multi Nation
+859;Tropic Thunder;195702811;110515313;Aksiyon;107;2008;Multi Nation;Ben Stiller;Multi Nation
+860;Eagle Eye;178767383;101440743;Aksiyon;118;2008;Multi Nation;D.J. Caruso;Multi Nation
+861;Cloverfield;172394180;80048433;Bilim Kurgu;85;2008;ABD;Matt Reeves;ABD
+862;Seven Pounds;169748929;69951824;Dram;123;2008;ABD;Gabriele Muccino;ABD
+863;The Spiderwick Chronicles;164170327;71195053;Aile;96;2008;ABD;Mark Waters;ABD
+864;Four Christmases;164112721;120146040;Dram;88;2008;ABD;Seth Gordon;ABD
+865;Burn After Reading;163728902;60355347;Dram;96;2008;Multi Nation;Joel Coen;Multi Nation
+866;The Happening;163403799;64506874;Bilim Kurgu;91;2008;Multi Nation;M. Night Shyamalan;Multi Nation
+867;27 Dresses;162655351;76808654;Komedi;111;2008;ABD;Anne Fletcher;ABD
+868;21;159808370;81159365;Dram;123;2008;ABD;Robert Luketic;ABD
+869;Vantage Point;152039882;72266306;Aksiyon;90;2008;Multi Nation;Pete Travis;Multi Nation
+870;Step Up 2: The Streets;150816700;58017783;Dram;98;2008;ABD;John Chu;ABD
+871;Beverly Hills Chihuahua;149292488;94514402;Aile;91;2008;ABD;Raja Gosnell;ABD
+872;The Forbidden Kingdom;128779982;52075270;Aksiyon;104;2008;Multi Nation;Rob Minkoff;Multi Nation
+873;Step Brothers;128107642;100468793;Komedi;98;2008;ABD;Adam McKay;ABD
+874;Changeling;113398237;35739802;Dram;141;2008;ABD;Clint Eastwood;ABD
+875;Fool's Gold;111231041;70231041;Komedi;112;2008;ABD;Andy Tennant;ABD
+876;Transporter 3;108979549;31715062;Aksiyon;104;2008;Multi Nation;Olivier Megaton;Multi Nation
+877;The Reader;108902486;34194407;Dram;124;2008;Multi Nation;Stephen Daldry;Multi Nation
+878;Forgetting Sarah Marshall;105833257;63172463;Dram;111;2008;ABD;Nicholas Stoller;ABD
+879;Pineapple Express;101624843;87341380;Aksiyon;111;2008;ABD;David Gordon Green;ABD
+880;Nim's Island;100104565;48006762;Aile;96;2008;ABD;Jennifer Flackett;ABD
+881;Vicky Cristina Barcelona;96409300;23216709;Dram;96;2008;Multi Nation;Woody Allen;Multi Nation
+882;Speed Racer;93945766;43945766;Aile;135;2008;Multi Nation;Lilly Wachowski;Multi Nation
+883;Role Models;92649419;67294270;Komedi;99;2008;ABD;David Wain;ABD
+884;Max Payne;87066930;40689393;Aksiyon;100;2008;Multi Nation;John Moore;Multi Nation
+885;Nights in Rodanthe;84375346;41850659;Dram;97;2008;Multi Nation;George C. Wolfe;Multi Nation
+886;The Strangers;82410456;52597610;Gerilim;86;2008;ABD;Bryan Bertino;ABD
+887;Righteous Kill;78460699;40081410;Aksiyon;101;2008;ABD;Jon Avnet;ABD
+888;The Other Boleyn Girl;78199679;26814957;Dram;115;2008;Multi Nation;Justin Chadwick;Multi Nation
+889;Mirrors;78094714;30691439;Gizem;111;2008;Multi Nation;Alexandre Aja;Multi Nation
+890;Death Race;76014335;36316032;Bilim Kurgu;105;2008;Multi Nation;Paul W.S. Anderson;Multi Nation
+891;Revolutionary Road;75981180;22911480;Dram;119;2008;Multi Nation;Sam Mendes;Multi Nation
+892;Babylon A.D.;72109200;22532572;Bilim Kurgu;101;2008;Multi Nation;Mathieu Kassovitz;Multi Nation
+893;Superhero Movie;71538062;25881068;Bilim Kurgu;85;2008;ABD;Craig Mazin;ABD
+894;The House Bunny;70439696;48237389;Komedi;97;2008;ABD;Fred Wolf;ABD
+895;Star Wars: The Clone Wars;68282844;35161554;Animasyon;99;2008;ABD;Dave Filoni;ABD
+896;Street Kings;66476363;26418667;Aksiyon;109;2008;ABD;David Ayer;ABD
+897;The Bank Job;64822796;30060660;Dram;112;2008;Multi Nation;Roger Donaldson;Multi Nation
+898;Inkheart;62803180;17303424;Aile;106;2008;ABD;Iain Softley;ABD
+899;Prom Night;57197876;43869350;Korku;88;2008;Multi Nation;Nelson Mccormick;Multi Nation
+900;Definitely, Maybe;55990299;32241649;Komedi;112;2008;Multi Nation;Adam Brooks;Multi Nation
+901;Milk;54589558;31841299;Dram;128;2008;ABD;Gus Van Sant;ABD
+902;Untraceable;52933513;28687835;Gerilim;101;2008;ABD;Gregory Hoblit;ABD
+903;Doubt;51699984;33446470;Dram;104;2008;ABD;John Patrick Shanley;ABD
+904;College Road Trip;51549674;45610425;Aile;83;2008;ABD;Roger Kumble;ABD
+905;Meet Dave;51339567;11803254;Bilim Kurgu;90;2008;ABD;Brian Robbins;ABD
+906;Defiance;51262751;28644813;Aksiyon;137;2008;ABD;Edward Zwick;ABD
+907;The Women;50007546;26902075;Komedi;114;2008;ABD;Diane English;ABD
+908;Drillbit Taylor;49944325;32862104;Komedi;102;2008;ABD;Steven Brill;ABD
+909;The Hurt Locker;49230772;17017811;Dram;131;2008;ABD;Kathryn Bigelow;ABD
+910;Shutter;48555306;25928550;Gerilim;85;2008;ABD;Masayuki Ochiai;ABD
+911;Shutter;48555306;25928550;Gerilim;97;2004;Tayland;Parkpoom Wongpoom;Asia
+912;The Wrestler;44734660;26238243;Dram;109;2008;Multi Nation;Darren Aronofsky;Multi Nation
+913;The Duchess;43343384;13848978;Dram;110;2008;Multi Nation;Saul Dibb;Multi Nation
+914;Bangkok Dangerous;42487390;15298133;Aksiyon;99;2008;Multi Nation;Oxide Pang Chun;Multi Nation
+915;Never Back Down;41627431;24850922;Aksiyon;115;2008;ABD;Jeff Wadlow;ABD
+916;My Best Friend's Girl;41624687;19219250;Komedi;101;2008;ABD;Howard Deutch;ABD
+917;Quarantine;41319906;31691811;Bilim Kurgu;89;2008;Multi Nation;John Erick Dowdle;Multi Nation
+918;Leatherheads;41319039;31373938;Dram;114;2008;Multi Nation;George Clooney;Multi Nation
+919;The Love Guru;40877556;32235793;Komedi;87;2008;Multi Nation;Marco Schnabel;Multi Nation
+920;The Spirit;39164441;19806188;Aksiyon;103;2008;ABD;Frank Miller;ABD
+921;Admiral;39143985;;Sava?;123;2008;Rusya;Andrei Kravchuk;Europe
+922;Ghajini;38316584;2430627;Aksiyon;186;2008;Hindistan;A.R. Murugadoss;Asia
+923;Disaster Movie;34816824;14190901;Bilim Kurgu;87;2008;ABD;Jason Friedberg;ABD
+924;In Bruges;33394440;7800824;Dram;108;2008;Multi Nation;Martin McDonagh;Multi Nation
+925;Che: Part One;33266274;;Dram;134;2008;Multi Nation;Steven Soderbergh;Multi Nation
+926;Last Chance Harvey;32566966;14889042;Dram;99;2008;ABD;Joel Hopkins;ABD
+927;Pride and Glory;31200557;15740721;Dram;130;2008;Multi Nation;Gavin O'Connor;Multi Nation
+928;Igor;30893885;19528602;Animasyon;87;2008;Multi Nation;Tony Leondis;Multi Nation
+929;Be Kind Rewind;30579406;11175164;Dram;102;2008;Multi Nation;Michel Gondry;Multi Nation
+930;Rab Ne Bana Di Jodi;29914469;2078956;Dram;167;2008;Hindistan;Aditya Chopra;Asia
+931;The Class;29303505;3766810;Komedi;114;2007;Türkiye;Ilmar Raag;Asia
+932;Appaloosa;27712362;20211394;Dram;115;2008;ABD;Ed Harris;ABD
+933;Traitor;27674464;23530831;Aksiyon;114;2008;ABD;Jeffrey Nachmanoff;ABD
+934;Frost/Nixon;27426335;18622031;Dram;122;2008;Multi Nation;Ron Howard;Multi Nation
+935;Ghost Town;27090159;13367624;Dram;102;2008;ABD;David Koepp;ABD
+936;Jodhaa Akbar;26890354;3440718;Dram;213;2008;Hindistan;Ashutosh Gowariker;Asia
+937;Mad Money;26412163;20668843;Aksiyon;104;2008;ABD;Callie Khouri;ABD
+938;Kung Fu Dunk;22945567;;Aksiyon;98;2008;Multi Nation;Yen-ping Chu;Multi Nation
+939;The Ruins;22818256;17432844;Korku;91;2008;Multi Nation;Carter Smith;Multi Nation
+940;The Accidental Husband;22707064;;Komedi;90;2008;Multi Nation;Griffin Dunne;Multi Nation
+941;Doomsday;22472631;11008770;Bilim Kurgu;108;2008;Multi Nation;Neil Marshall;Multi Nation
+942;A.R.O.G;22212369;;Bilim Kurgu;127;2008;Türkiye;Ali Taner Baltac?;Asia
+943;Wild Child;21972336;;Dram;98;2008;Multi Nation;Nick Moore;Multi Nation
+944;Over Her Dead Body;21458111;7563670;Komedi;95;2008;ABD;Jeff Lowell;ABD
+945;Blindness;19844979;3351751;Bilim Kurgu;121;2008;Multi Nation;Fernando Meirelles;Multi Nation
+946;Avatar;2743577587;749766139;Bilim Kurgu;162;2009;Multi Nation;James Cameron;Multi Nation
+947;Harry Potter and the Half-Blood Prince;933959197;301959197;Fantastik;153;2009;Multi Nation;David Yates;Multi Nation
+948;Ice Age: Dawn of the Dinosaurs;886686817;196573705;Animasyon;94;2009;ABD;Carlos Saldanha;ABD
+949;Up;735099082;293004164;Animasyon;96;2009;ABD;Pete Docter;ABD
+950;The Twilight Saga: New Moon;709827462;296623634;Dram;131;2009;ABD;Chris Weitz;ABD
+951;Sherlock Holmes;524028679;209028679;Aksiyon;129;2009;Multi Nation;Guy Ritchie;Multi Nation
+952;The Hangover;468812793;277322503;Komedi;100;2009;Multi Nation;Todd Phillips;Multi Nation
+953;Star Trek;385680446;257730019;Bilim Kurgu;127;2009;ABD;J.J. Abrams;ABD
+954;Monsters vs. Aliens;381509870;198351526;Animasyon;94;2009;ABD;Conrad Vernon;ABD
+955;X-Men Origins: Wolverine;373062864;179883157;Bilim Kurgu;107;2009;ABD;Gavin Hood;ABD
+956;A Christmas Carol;325286646;137855863;Animasyon;94;2009;ABD;Robert Zemeckis;ABD
+957;Inglourious Basterds;321455689;120540719;Dram;153;2009;Multi Nation;Quentin Tarantino;Multi Nation
+958;The Proposal;317375031;163958031;Dram;108;2009;ABD;Anne Fletcher;ABD
+959;The Blind Side;309208309;255959475;Dram;129;2009;ABD;John Lee Hancock;ABD
+960;G.I. Joe: The Rise of Cobra;302469017;150201498;Bilim Kurgu;118;2009;ABD;Stephen Sommers;ABD
+961;G-Force;292817841;119436770;Animasyon;88;2009;ABD;Hoyt Yeatman;ABD
+962;It's Complicated;219103655;112735375;Komedi;121;2009;ABD;Nancy Meyers;ABD
+963;Public Enemies;214104620;97104620;Aksiyon;140;2009;Multi Nation;Michael Mann;Multi Nation
+964;District 9;210888950;115646235;Bilim Kurgu;112;2009;Multi Nation;Neill Blomkamp;Multi Nation
+965;The Ugly Truth;205298907;88915214;Komedi;96;2009;ABD;Robert Luketic;ABD
+966;Paranormal Activity;193355800;107918810;Gizem;85;2007;ABD;Oren Peli;ABD
+967;The Final Destination;186167139;66477700;Gizem;82;2009;ABD;David R. Ellis;ABD
+968;Watchmen;185382813;107509799;Bilim Kurgu;163;2009;ABD;Zack Snyder;ABD
+969;Paul Blart: Mall Cop;183348429;146336178;Aile;91;2009;ABD;Steve Carr;ABD
+970;He's Just Not That Into You;178866158;93953653;Dram;129;2009;ABD;Ken Kwapis;ABD
+971;Couples Retreat;171844840;109204945;Komedi;113;2009;ABD;Peter Billingsley;ABD
+972;Hannah Montana: The Movie;155545279;79576189;Aile;102;2009;ABD;Peter Chelsom;ABD
+973;17 Again;136316880;64167069;Komedi;102;2009;ABD;Burr Steers;ABD
+974;Julie & Julia;129540522;94125426;Dram;123;2009;ABD;Nora Ephron;ABD
+975;The Fighter;129190869;93617009;Dram;116;2010;ABD;David O. Russell;ABD
+976;Law Abiding Citizen;127944208;73357727;Dram;109;2009;Multi Nation;F. Gary Gray;Multi Nation
+977;Coraline;124596837;75286229;Animasyon;100;2009;ABD;Henry Selick;ABD
+978;Surrogates;122444772;38577772;Bilim Kurgu;89;2009;ABD;Jonathan Mostow;ABD
+979;Invictus;122233971;37491364;Dram;134;2009;ABD;Clint Eastwood;ABD
+980;Bride Wars;115375850;58715510;Komedi;89;2009;ABD;Gary Winick;ABD
+981;Bride Wars;27670000;;Komedi;89;2009;ABD;Gary Winick;ABD
+982;Planet 51;105647102;42194060;Animasyon;91;2009;Multi Nation;Javier Abad;Multi Nation
+983;Zombieland;102392080;75590286;Komedi;88;2009;ABD;Ruben Fleischer;ABD
+984;Ghosts of Girlfriends Past;102366815;55250026;Fantastik;115;2009;ABD;Mark Waters;ABD
+985;The Time Traveler's Wife;101344412;63414846;Dram;108;2009;ABD;Robert Schwentke;ABD
+986;My Bloody Valentine;100734718;51545952;Gizem;101;2009;ABD;Patrick Lussier;ABD
+987;Old Dogs;96753696;49492060;Aile;88;2009;ABD;Walt Becker;ABD
+988;My Sister's Keeper;95714875;49200230;Dram;109;2009;ABD;Nick Cassavetes;ABD
+989;Green Zone;94882549;35053660;Aksiyon;115;2010;Multi Nation;Paul Greengrass;Multi Nation
+990;The Lovely Bones;93621340;44114232;Dram;136;2009;Multi Nation;Peter Jackson;Multi Nation
+991;Underworld: Rise of the Lycans;92158961;45802315;Aksiyon;92;2009;ABD;Patrick Tatopoulos;ABD
+992;I Love You, Man;91980359;71440011;Komedi;105;2009;ABD;John Hamburg;ABD
+993;Friday the 13th;91509154;65002019;Korku;97;2009;ABD;Marcus Nispel;ABD
+994;Duplicity;78176181;40572825;Komedi;125;2009;Multi Nation;Tony Gilroy;Multi Nation
+995;Orphan;77912251;41596251;Gerilim;122;2009;Multi Nation;Jaume Collet-Serra;Multi Nation
+996;The Haunting in Connecticut;77536359;55389516;Gerilim;102;2009;ABD;Peter Cornwell;ABD
+997;Fame;77211836;22455510;Dram;107;2009;ABD;Kevin Tancharoen;ABD
+998;The Pink Panther 2;76025134;35922978;Gizem;92;2009;ABD;Harald Zwart;ABD
+999;Obsessed;73830347;68261644;Dram;108;2009;ABD;Steve Shill;ABD
+1000;Funny People;71585235;51855045;Dram;146;2009;ABD;Judd Apatow;ABD
+1001;Saw VI;68234154;27693292;Gerilim;90;2009;Multi Nation;Kevin Greutert;Multi Nation
+1002;Year One;62357900;43337279;Komedi;97;2009;ABD;Harold Ramis;ABD
+1003;Ninja Assassin;61601280;38122883;Aksiyon;99;2009;Multi Nation;James McTeigue;Multi Nation
+1004;3 Idiots;60262836;6532874;Dram;170;2009;Hindistan;Rajkumar Hirani;Asia
+1005;The International;60253843;25450527;Aksiyon;118;2009;Multi Nation;Tom Tykwer;Multi Nation
+1006;Dragonball Evolution;55720772;9362785;Bilim Kurgu;85;2009;Multi Nation;James Wong;Multi Nation
+1007;Nine;54004950;19676965;Dram;119;2009;Multi Nation;Rob Marshall;Multi Nation
+1008;Push;48858618;31811527;Bilim Kurgu;111;2009;Multi Nation;Paul McGuigan;Multi Nation
+1009;9;48428063;31749894;Animasyon;79;2009;Multi Nation;Shane Acker;Multi Nation
+1010;The Fourth Kind;47709193;25486040;Bilim Kurgu;98;2009;Multi Nation;Olatunde Osunsanmi;Multi Nation
+1011;Crazy Heart;47405566;39464306;Dram;112;2009;ABD;Scott Cooper;ABD
+1012;Fantastic Mr. Fox;46471023;21002919;Animasyon;87;2009;ABD;Wes Anderson;ABD
+1013;The Spy Next Door;45236543;24307086;Aile;94;2010;ABD;Brian Levant;ABD
+1014;Brothers;43474578;28544157;Dram;105;2009;ABD;Jim Sheridan;ABD
+1015;The Uninvited;41633384;28596818;Korku;87;2009;ABD;Charles Guard;ABD
+1016;Gamer;40828540;20534907;Bilim Kurgu;95;2009;ABD;Brian Taylor;ABD
+1017;All About Steve;40105542;33862903;Komedi;99;2009;ABD;Phil Traill;ABD
+1018;Astro Boy;39886986;19551067;Animasyon;93;2009;Multi Nation;David Bowers;Multi Nation
+1019;Agora;39457342;619423;Dram;127;2009;Multi Nation;Alejandro Amenábar;Multi Nation
+1020;Halloween II;39421467;33392973;Korku;105;2009;ABD;Rob Zombie;ABD
+1021;Cirque du Freak: The Vampire's Assistant;39291383;13869515;Aksiyon;109;2009;ABD;Paul Weitz;ABD
+1022;The Soloist;38332994;31720158;Dram;109;2009;Multi Nation;Joe Wright;Multi Nation
+1023;The Boat That Rocked;36348784;8017917;Dram;135;2009;?ngiltere;Richard Curtis;Europe
+1024;Love Happens;36088028;22965110;Dram;109;2009;Multi Nation;Brandon Camp;Multi Nation
+1025;Whatever Works;36020534;5306706;Komedi;93;2009;Multi Nation;Woody Allen;Multi Nation
+1026;Crank: High Voltage;34572541;13684249;Aksiyon;96;2009;ABD;Brian Taylor;ABD
+1027;The Box;33333531;15051977;Bilim Kurgu;115;2009;ABD;Richard Kelly;ABD
+1028;Fighting;32482728;23091010;Aksiyon;105;2009;Multi Nation;Dito Montiel;Multi Nation
+1029;The Invention of Lying;32406507;18451251;Fantastik;100;2009;ABD;Ricky Gervais;ABD
+1030;Jennifer's Body;31556061;16204793;Komedi;107;2009;ABD;Karyn Kusama;ABD
+1031;Dance Flick;31439140;25662155;Aksiyon;83;2009;ABD;Damien Wayans;ABD
+1032;A Serious Man;31430334;9228768;Dram;106;2009;Multi Nation;Joel Coen;Multi Nation
+1033;The Stepfather;31198531;29062561;Gerilim;101;2009;ABD;Nelson Mccormick;ABD
+1034;The Young Victoria;29181829;11001272;Dram;100;2009;Multi Nation;Jean-Marc Vallee;Multi Nation
+1035;New in Town;29010817;16734283;Komedi;97;2009;ABD;Jonas Elmer;ABD
+1036;Case 39;28190603;13261851;Gerilim;109;2009;Multi Nation;Christian Alvart;Multi Nation
+1037;The Road;27639579;8117000;Dram;111;2009;ABD;John Hillcoat;ABD
+1038;Sorority Row;27206120;11965282;Gizem;101;2009;ABD;Stewart Hendler;ABD
+1039;An Education;26096852;12574914;Dram;100;2009;?ngiltere;Lone Scherfig;Europe
+1040;Coco;25593707;;Animasyon;105;2017;ABD;Lee Unkrich;ABD
+1041;Coco;807816196;210460015;Animasyon;105;2017;ABD;Lee Unkrich;ABD
+1042;A Single Man;24964890;9176000;Dram;99;2009;ABD;Tom Ford;ABD
+1043;Jonas Brothers: The 3D Concert Experience;23186960;19162740;Belgesel;76;2009;ABD;Bruce Hendricks;ABD
+1044;Imagine That;22985194;16123323;Aile;107;2009;ABD;Karey Kirkpatrick;ABD
+1045;Armored;22942221;15988876;Aksiyon;88;2009;ABD;Nimród Antal;ABD
+1046;A Perfect Getaway;22938329;15515460;Gerilim;98;2009;ABD;David Twohy;ABD
+1047;Dorian Gray;22873653;;Dram;112;2009;?ngiltere;Oliver Parker;Europe
+1048;The Rebound;21791288;;Komedi;95;2009;Multi Nation;Bart Freundlich;Multi Nation
+1049;I Love You Phillip Morris;20768906;2037459;Dram;98;2009;Multi Nation;Glenn Ficarra;Multi Nation
+1050;Pandorum;20648328;10330853;Bilim Kurgu;108;2009;Multi Nation;Christian Alvart;Multi Nation
+1051;Solomon Kane;19652185;;Aksiyon;104;2009;Multi Nation;Michael J. Bassett;Multi Nation
+1052;Amelia;19643086;14246488;Dram;111;2009;ABD;Mira Nair;ABD
+1053;Cell 211;19300483;;Aksiyon;110;2009;Multi Nation;Daniel Monzon;Multi Nation
+1054;Toy Story 3;1066969703;415004880;Animasyon;103;2010;ABD;Lee Unkrich;ABD
+1055;Alice in Wonderland;1025467110;334191110;Aile;108;2010;ABD;Tim Burton;ABD
+1056;Inception;828258695;292576195;Bilim Kurgu;148;2010;Multi Nation;Christopher Nolan;Multi Nation
+1057;The Twilight Saga: Eclipse;698491347;300531751;Dram;124;2010;ABD;David Slade;ABD
+1058;Iron Man 2;623933331;312433331;Bilim Kurgu;125;2010;ABD;Jon Favreau;ABD
+1059;Tangled;592461732;200821936;Animasyon;100;2010;ABD;Byron Howard;ABD
+1060;Despicable Me;543113985;251513985;Animasyon;94;2010;ABD;Pierre Coffin;ABD
+1061;How to Train Your Dragon;494878759;217581231;Animasyon;98;2010;ABD;Chris Sanders;ABD
+1062;Clash of the Titans;493214993;163214888;Aksiyon;106;2010;ABD;Louis Leterrier;ABD
+1063;The King's Speech;423999102;135453143;Dram;118;2010;Multi Nation;Tom Hooper;Multi Nation
+1064;The Karate Kid;359126022;176591618;Aile;140;2010;Multi Nation;Harald Zwart;Multi Nation
+1065;Black Swan;329398046;106954678;Dram;108;2010;ABD;Darren Aronofsky;ABD
+1066;Megamind;321885765;148415853;Animasyon;96;2010;ABD;Tom McGrath;ABD
+1067;Robin Hood;321669741;105269730;Aksiyon;140;2010;Multi Nation;Ridley Scott;Multi Nation
+1068;Robin Hood;321669741;105269730;Aksiyon;116;2018;ABD;Otto Bathurst;ABD
+1069;Robin Hood;86489031;30824628;Aksiyon;140;2010;Multi Nation;Ridley Scott;Multi Nation
+1070;Robin Hood;86489031;30824628;Aksiyon;116;2018;ABD;Otto Bathurst;ABD
+1071;Little Fockers;310650585;148438600;Komedi;98;2010;ABD;Paul Weitz;ABD
+1072;Resident Evil: Afterlife;300228084;60128566;Bilim Kurgu;97;2010;Multi Nation;Paul W.S. Anderson;Multi Nation
+1073;Shutter Island;294804195;128012934;Dram;138;2010;ABD;Martin Scorsese;ABD
+1074;Salt;293503354;118311368;Aksiyon;100;2010;ABD;Phillip Noyce;ABD
+1075;The Tourist;278780441;67631157;Aksiyon;103;2010;Multi Nation;Florian Henckel von Donnersmarck;Multi Nation
+1076;The Expendables;274470394;103068524;Aksiyon;103;2010;Multi Nation;Sylvester Stallone;Multi Nation
+1077;Grown Ups;271430189;162001186;Komedi;102;2010;ABD;Dennis Dugan;ABD
+1078;True Grit;252276927;171243005;Dram;110;2010;ABD;Joel Coen;ABD
+1079;Gulliver's Travels;237382724;42779261;Aile;85;2010;ABD;Rob Letterman;ABD
+1080;The Social Network;224920315;96962694;Dram;121;2010;ABD;David Fincher;ABD
+1081;Valentine's Day;216485654;110485654;Komedi;125;2010;ABD;Garry Marshall;ABD
+1082;The Sorcerer's Apprentice;215283742;63150991;Aksiyon;109;2010;ABD;Jon Turteltaub;ABD
+1083;Due Date;211780824;100539043;Dram;95;2010;ABD;Todd Phillips;ABD
+1084;Eat Pray Love;204594016;80574010;Dram;133;2010;ABD;Ryan Murphy;ABD
+1085;Yogi Bear;203509374;100246011;Animasyon;80;2010;ABD;Eric Brevig;ABD
+1086;Paranormal Activity 2;177512032;84752907;Gizem;91;2010;ABD;Tod Williams;ABD
+1087;The A-Team;177238796;77222099;Aksiyon;117;2010;ABD;Joe Carnahan;ABD
+1088;The Other Guys;170458922;119219978;Aksiyon;107;2010;ABD;Adam McKay;ABD
+1089;Unstoppable;167805466;81562942;Aksiyon;98;2010;ABD;Tony Scott;ABD
+1090;Step Up 3D;159291809;42400223;Dram;107;2010;ABD;Jon M. Chu;ABD
+1091;The Town;154026136;92186262;Dram;125;2010;Multi Nation;Ben Affleck;Multi Nation
+1092;Date Night;152263880;98711404;Aksiyon;88;2010;ABD;Shawn Levy;ABD
+1093;Legend of the Guardians: The Owls of Ga'Hoole;140073390;55675313;Animasyon;97;2010;Multi Nation;Zack Snyder;Multi Nation
+1094;The Wolfman;139789765;61979680;Dram;102;2010;ABD;Joe Johnston;ABD
+1095;The Bounty Hunter;136333522;67061228;Aksiyon;110;2010;ABD;Andy Tennant;ABD
+1096;Wall Street: Money Never Sleeps;134748021;52474616;Dram;133;2010;ABD;Oliver Stone;ABD
+1097;The Adjustment Bureau;127869379;62495645;Bilim Kurgu;106;2011;ABD;George Nolfi;ABD
+1098;Predators;127233108;52000688;Bilim Kurgu;107;2010;ABD;Nimród Antal;ABD
+1099;Dear John;114984666;80014842;Dram;108;2010;ABD;Lasse Hallström;ABD
+1100;Tooth Fairy;112462508;60022256;Aile;101;2010;Multi Nation;Michael Lembeck;Multi Nation
+1101;Sanctum;108609310;23209310;Aksiyon;108;2011;Multi Nation;Alister Grierson;Multi Nation
+1102;Hereafter;106956330;32746941;Dram;129;2010;ABD;Clint Eastwood;ABD
+1103;Life as We Know It;105734416;53374681;Dram;114;2010;ABD;Greg Berlanti;ABD
+1104;Love & Other Drugs;102820008;32367005;Dram;112;2010;ABD;Edward Zwick;ABD
+1105;Aftershock;100293273;62962;Dram;17;2010;Çin;Xiaogang Feng;Asia
+1106;Killers;98159963;47059963;Aksiyon;100;2010;ABD;Robert Luketic;ABD
+1107;Kick-Ass;96188903;48071303;Aksiyon;117;2010;Multi Nation;Matthew Vaughn;Multi Nation
+1108;Burlesque;89519773;39440655;Dram;119;2010;ABD;Steve Antin;ABD
+1109;The Last Song;89137047;62950384;Aile;107;2010;ABD;Julie Anne Robinson;ABD
+1110;Vampires Suck;80547866;36661504;Komedi;82;2010;ABD;Jason Friedberg;ABD
+1111;Diary of a Wimpy Kid;76196538;64003625;Aile;92;2010;Multi Nation;Thor Freudenthal;Multi Nation
+1112;Easy A;75026216;58401464;Komedi;92;2010;ABD;Will Gluck;ABD
+1113;The Last Exorcism;69432527;41034350;Gerilim;87;2010;Multi Nation;Daniel Stamm;Multi Nation
+1114;Takers;69055695;57744720;Aksiyon;107;2010;ABD;John Luessenhop;ABD
+1115;Legion;67918658;40168080;Aksiyon;100;2010;ABD;Scott Charles Stewart;ABD
+1116;The American;67876281;35606376;Dram;104;2010;Multi Nation;Anton Corbijn;Multi Nation
+1117;The Next Three Days;67448651;21148651;Dram;133;2010;Multi Nation;Paul Haggis;Multi Nation
+1118;Skyline;66984887;21393620;Bilim Kurgu;92;2010;ABD;Colin Strause;ABD
+1119;Hot Tub Time Machine;64735752;50287556;Bilim Kurgu;101;2010;ABD;Steve Pink;ABD
+1120;Devil;62695489;33601190;Gerilim;80;2010;ABD;John Erick Dowdle;ABD
+1121;127 Hours;60738797;18335230;Dram;94;2010;Multi Nation;Danny Boyle;Multi Nation
+1122;The Ghost Writer;60331447;15541549;Gerilim;128;2010;Multi Nation;Roman Polanski;Multi Nation
+1123;Secretariat;60321861;59713955;Dram;123;2010;ABD;Randall Wallace;ABD
+1124;Morning Glory;60040976;31011732;Dram;107;2010;ABD;Roger Michell;ABD
+1125;Remember Me;56032889;19068240;Dram;113;2010;ABD;Allen Coulter;ABD
+1126;Cop Out;55611001;44875481;Aksiyon;107;2010;ABD;Kevin Smith;ABD
+1127;The Crazies;54806823;39123589;Aksiyon;101;2010;ABD;Breck Eisner;ABD
+1128;From Paris with Love;52830951;24077427;Aksiyon;92;2010;Multi Nation;Pierre Morel;Multi Nation
+1129;Daybreakers;51416464;30101577;Bilim Kurgu;98;2009;Multi Nation;Michael Spierig;Multi Nation
+1130;The Switch;49830607;27779426;Dram;101;2010;ABD;Josh Gordon;ABD
+1131;She's Out of My League;49779728;32010860;Komedi;104;2010;ABD;Jim Field Smith;ABD
+1132;Charlie St. Cloud;48190704;31162545;Dram;99;2010;ABD;Burr Steers;ABD
+1133;Machete;45491656;26593646;Aksiyon;105;2010;ABD;Robert Rodriguez;ABD
+1134;When in Rome;43053376;32680633;Fantastik;91;2010;Multi Nation;Mark Steven Johnson;Multi Nation
+1135;Faster;35626958;23240020;Aksiyon;98;2010;ABD;George Tillman Jr.;ABD
+1136;The Kids Are All Right;34705850;20811365;Dram;106;2010;ABD;Lisa Cholodenko;ABD
+1137;Leap Year;32686500;25918920;Komedi;100;2010;Multi Nation;Anand Tucker;Multi Nation
+1138;You Again;32054369;25702053;Komedi;105;2010;ABD;Andy Fickman;ABD
+1139;The Losers;29397654;23591432;Aksiyon;97;2010;ABD;Sylvain White;ABD
+1140;Ramona and Beezus;27293743;26167002;Aile;103;2010;ABD;Elizabeth Allen;ABD
+1141;Let Me In;27093592;12134935;Dram;116;2010;Multi Nation;Matt Reeves;Multi Nation
+1142;Biutiful;25147786;5101237;Dram;148;2010;Multi Nation;Alejandro González Iñárritu;Multi Nation
+1143;The Way Back;24172201;2701859;Dram;133;2010;ABD;Peter Weir;ABD
+1144;The Way Back;15490514;13590514;Dram;133;2010;ABD;Peter Weir;ABD
+1145;A Thousand Words;22044277;18450127;Dram;91;2012;ABD;Brian Robbins;ABD
+1146;Just Wright;21584424;21540363;Dram;100;2010;ABD;Sanaa Hamri;ABD
+1147;Country Strong;20529194;20218921;Dram;117;2010;ABD;Shana Feste;ABD
+1148;Hello Ghost;19774455;;Dram;111;2010;Güney Kore;Yeong-tak Kim;Asia
+1149;Another Year;19722766;3205706;Dram;129;2010;Multi Nation;Mike Leigh;Multi Nation
+1150;Youth in Revolt;19651093;15281286;Komedi;87;2009;ABD;Miguel Arteta;ABD
+1151;Buried;19439764;1044143;Dram;94;2010;Multi Nation;Rodrigo Cortés;Multi Nation
+1152;Norwegian Wood;19115721;13000;Dram;133;2010;Japonya;Anh Hung Tran;Asia
+1153;Fast Five;626137675;209837675;Aksiyon;130;2011;ABD;Justin Lin;ABD
+1154;The Smurfs;563749323;142614158;Animasyon;103;2011;ABD;Raja Gosnell;ABD
+1155;Cars 2;559852396;191452396;Animasyon;106;2011;ABD;John Lasseter;ABD
+1156;Rio;483866518;143619809;Animasyon;96;2011;ABD;Carlos Saldanha;ABD
+1157;Rise of the Planet of the Apes;481800873;176760185;Bilim Kurgu;105;2011;ABD;Rupert Wyatt;ABD
+1158;Thor;449326618;181030624;Aksiyon;115;2011;ABD;Kenneth Branagh;ABD
+1159;The Intouchables;426588510;10198820;Dram;112;2011;Fransa;Olivier Nakache;Europe
+1160;Captain America: The First Avenger;370569774;176654505;Bilim Kurgu;126;2011;ABD;Joe Johnston;ABD
+1161;X-Men: First Class;352616690;146408305;Bilim Kurgu;132;2011;ABD;Matthew Vaughn;ABD
+1162;Real Steel;299268508;85468508;Bilim Kurgu;127;2011;Multi Nation;Shawn Levy;Multi Nation
+1163;Bridesmaids;288383523;169106725;Komedi;125;2011;ABD;Paul Feig;ABD
+1164;Super 8;260095986;127004179;Bilim Kurgu;112;2011;ABD;J.J. Abrams;ABD
+1165;Rango;245724603;123477607;Animasyon;107;2011;ABD;Gore Verbinski;ABD
+1166;Green Lantern;237201172;116601172;Bilim Kurgu;114;2011;ABD;Martin Campbell;ABD
+1167;The Green Hornet;227817248;98780042;Aksiyon;119;2011;ABD;Michel Gondry;ABD
+1168;Immortals;226904017;83504017;Aksiyon;110;2011;ABD;Tarsem Singh;ABD
+1169;The Help;216639112;169708112;Dram;146;2011;ABD;Tate Taylor;ABD
+1170;Bad Teacher;216197492;100292856;Komedi;92;2011;ABD;Jake Kasdan;ABD
+1171;Horrible Bosses;209838559;117538559;Komedi;98;2011;ABD;Seth Gordon;ABD
+1172;Paranormal Activity 3;207039844;104028807;Gizem;94;2011;ABD;Tod Williams;ABD
+1173;Mr. Popper's Penguins;187361754;68224452;Aile;94;2011;ABD;Mark Waters;ABD
+1174;Hugo;185770160;73864507;Aile;126;2011;Multi Nation;Martin Scorsese;Multi Nation
+1175;War Horse;177584879;79884879;Dram;146;2011;ABD;Steven Spielberg;ABD
+1176;The Descendants;177243185;82584160;Dram;115;2011;ABD;Alexander Payne;ABD
+1177;In Time;173930596;37520095;Bilim Kurgu;109;2011;ABD;Andrew Niccol;ABD
+1178;The Muppets;165184237;88631237;Komedi;103;2011;ABD;James Bobin;ABD
+1179;Limitless;161849455;79249455;Bilim Kurgu;105;2011;ABD;Neil Burger;ABD
+1180;Johnny English Reborn;160078586;8305970;Aksiyon;101;2011;?ngiltere;Oliver Parker;Europe
+1181;Final Destination 5;157887643;42587643;Gizem;92;2011;ABD;Steven Quale;ABD
+1182;Tower Heist;152930623;78046570;Aksiyon;104;2011;ABD;Brett Ratner;ABD
+1183;Midnight in Paris;151672318;56817045;Fantastik;94;2011;Multi Nation;Woody Allen;Multi Nation
+1184;I Am Number Four;149878437;55100437;Bilim Kurgu;109;2011;ABD;D.J. Caruso;ABD
+1185;No Strings Attached;149228077;70662220;Komedi;107;2011;ABD;Ivan Reitman;ABD
+1186;Arthur Christmas;147419472;46462469;Animasyon;97;2011;Multi Nation;Barry Cook;Multi Nation
+1187;Source Code;147332697;54712227;Bilim Kurgu;94;2011;Multi Nation;Duncan Jones;Multi Nation
+1188;New Year's Eve;142044638;54544638;Komedi;118;2011;ABD;Garry Marshall;ABD
+1189;Contagion;136515867;75658097;Bilim Kurgu;106;2011;ABD;Steven Soderbergh;ABD
+1190;Unknown;135710029;63686397;Aksiyon;113;2011;Multi Nation;Jaume Collet-Serra;Multi Nation
+1191;Unknown;135710029;63686397;Gerilim;98;2006;ABD;Simon Brand;ABD
+1192;The Artist;133432856;44671682;Dram;100;2011;Multi Nation;Michel Hazanavicius;Multi Nation
+1193;The Iron Lady;115890699;30017992;Dram;105;2011;Multi Nation;Phyllida Lloyd;Multi Nation
+1194;Moneyball;110206216;75605492;Dram;133;2011;ABD;Bennett Miller;ABD
+1195;Insidious;99557032;54009150;Gerilim;103;2010;Multi Nation;James Wan;Multi Nation
+1196;Justin Bieber: Never Say Never;99036827;73013910;Aile;105;2011;ABD;Jon M. Chu;ABD
+1197;Paul;97984015;37412945;Bilim Kurgu;104;2011;Multi Nation;Greg Mottola;Multi Nation
+1198;Scream 4;97138686;38180928;Gizem;111;2011;ABD;Wes Craven;ABD
+1199;The Rite;96560591;33047633;Dram;114;2011;Multi Nation;Mikael Håfström;Multi Nation
+1200;Red Riding Hood;90260376;37662162;Aksiyon;100;2011;Multi Nation;Catherine Hardwicke;Multi Nation
+1201;Sucker Punch;89792502;36392502;Aksiyon;110;2011;Multi Nation;Zack Snyder;Multi Nation
+1202;The Lincoln Lawyer;86752352;58009200;Dram;119;2011;ABD;Brad Furman;ABD
+1203;Hall Pass;86157237;45060734;Komedi;105;2011;ABD;Bobby Farrelly;ABD
+1204;J. Edgar;84920539;37306030;Dram;137;2011;ABD;Clint Eastwood;ABD
+1205;Big Mommas: Like Father, Like Son;82686066;37915414;Aksiyon;107;2011;ABD;John Whitesell;ABD
+1206;Abduction;82087155;28087155;Aksiyon;106;2011;ABD;John Singleton;ABD
+1207;Drive;76976666;35061555;Dram;100;2011;ABD;Nicolas Winding Refn;ABD
+1208;The Ides of March;76338111;40962534;Dram;95;2011;ABD;George Clooney;ABD
+1209;The Mechanic;76130093;29121498;Aksiyon;93;2011;ABD;Simon West;ABD
+1210;The Change-Up;75450437;37081475;Komedi;112;2011;ABD;David Dobkin;ABD
+1211;Larry Crowne;75055070;35608245;Dram;98;2011;Multi Nation;Tom Hanks;Multi Nation
+1212;Diary of a Wimpy Kid: Rodrick Rules;72526996;52698535;Aile;99;2011;ABD;David Bowers;ABD
+1213;The Dilemma;69721966;48475290;Dram;111;2011;ABD;Ron Howard;ABD
+1214;Something Borrowed;65100369;39046489;Dram;112;2011;ABD;Luke Greenfield;ABD
+1215;The Darkest Hour;64626786;21443494;Bilim Kurgu;89;2011;Multi Nation;Chris Gorak;Multi Nation
+1216;Hanna;63782078;40259119;Aksiyon;111;2011;Multi Nation;Joe Wright;Multi Nation
+1217;Conan the Barbarian;63523283;21295021;Aksiyon;113;2011;ABD;Marcus Nispel;ABD
+1218;Colombiana;63458440;36665854;Aksiyon;108;2011;Fransa;Olivier Megaton;Europe
+1219;One Day;59389433;13843771;Dram;107;2011;Multi Nation;Lone Scherfig;Multi Nation
+1220;Killer Elite;57084522;25124966;Aksiyon;116;2011;Multi Nation;Gary Mckendry;Multi Nation
+1221;Arthur;48147945;33035397;Komedi;110;2011;ABD;Jason Winer;ABD
+1222;Soul Surfer;47120948;43853424;Aile;112;2011;ABD;Sean McNamara;ABD
+1223;Beastly;43202283;27865571;Dram;86;2011;ABD;Daniel Barnz;ABD
+1224;50/50;41097853;35014192;Dram;100;2011;ABD;Jonathan Levine;ABD
+1225;Fright Night;41002607;18302607;Komedi;106;2011;Multi Nation;Craig Gillespie;Multi Nation
+1226;The Roommate;40492652;37300000;Dram;91;2011;ABD;Christian E. Christiansen;ABD
+1227;Dream House;39984400;21302340;Dram;84;2011;Multi Nation;Jim Sheridan;Multi Nation
+1228;Monte Carlo;39782683;23186769;Komedi;109;2011;Multi Nation;Thomas Bezucha;Multi Nation
+1229;The Eagle;37989684;19490041;Dram;114;2011;ABD;Kevin Macdonald;ABD
+1230;The Sitter;34942188;30441326;Gerilim;90;2007;ABD;Russell Mulcahy;ABD
+1231;Bodyguard;31516209;1834384;Aksiyon;134;2011;Hindistan;Siddique;Asia
+1232;The Thing;31505287;16928670;Bilim Kurgu;103;2011;Multi Nation;Matthijs Van Heijningen Jr.;Multi Nation
+1233;I Don't Know How She Does It;31410151;9662284;Komedi;89;2011;ABD;Douglas McGrath;ABD
+1234;Carnage;30722632;2547047;Dram;80;2011;Multi Nation;Roman Polanski;Multi Nation
+1235;A Dangerous Method;30519436;5704709;Dram;99;2011;Multi Nation;David Cronenberg;Multi Nation
+1236;What's Your Number?;30426096;14011084;Komedi;106;2011;ABD;Mark Mylod;ABD
+1237;The Rum Diary;30134958;13109815;Dram;120;2011;Multi Nation;Bruce Robinson;Multi Nation
+1238;Your Highness;28013733;21596445;Aksiyon;102;2011;ABD;David Gordon Green;ABD
+1239;Apollo 18;26236153;17687709;Bilim Kurgu;86;2011;Multi Nation;Gonzalo López-Gallego;Multi Nation
+1240;Eyyvah Eyvah 2;24792348;;Komedi;106;2011;Türkiye;Hakan Algül;Asia
+1241;Warrior;23308615;13657115;Aksiyon;140;2011;ABD;Gavin O'Connor;ABD
+1242;Skyfall;1108561013;304360277;Aksiyon;143;2012;Multi Nation;Sam Mendes;Multi Nation
+1243;The Dark Knight Rises;1084939099;448139099;Aksiyon;165;2012;ABD;Christopher Nolan;ABD
+1244;The Hobbit: An Unexpected Journey;1017003568;303003568;Aksiyon;169;2012;ABD;Peter Jackson;ABD
+1245;Ice Age: Continental Drift;877244782;161321843;Animasyon;88;2012;ABD;Steve Martino;ABD
+1246;The Amazing Spider-Man;757930663;262030663;Aksiyon;136;2012;ABD;Marc Webb;ABD
+1247;The Hunger Games;694394724;408010692;Bilim Kurgu;142;2012;ABD;Gary Ross;ABD
+1248;Men in Black 3;654213485;179020854;Bilim Kurgu;106;2012;ABD;Barry Sonnenfeld;ABD
+1249;Life of Pi;609016565;124987023;Dram;127;2012;Multi Nation;Ang Lee;Multi Nation
+1250;Ted;549368315;218815487;Fantastik;107;2012;ABD;Seth MacFarlane;ABD
+1251;Brave;538983207;237283207;Animasyon;93;2012;ABD;Brenda Chapman;ABD
+1252;Wreck-It Ralph;471222889;189422889;Animasyon;101;2012;ABD;Rich Moore;ABD
+1253;Django Unchained;425368238;162805434;Dram;165;2012;ABD;Quentin Tarantino;ABD
+1254;Prometheus;403354469;126477084;Bilim Kurgu;124;2012;Multi Nation;Ridley Scott;Multi Nation
+1255;Taken 2;376141306;139854287;Aksiyon;91;2012;Multi Nation;Olivier Megaton;Multi Nation
+1256;Hotel Transylvania;358375603;148313048;Animasyon;91;2012;ABD;Genndy Tartakovsky;ABD
+1257;The Lorax;348840316;214030500;Animasyon;86;2012;ABD;Chris Renaud;ABD
+1258;Journey 2: The Mysterious Island;335260290;103860290;Bilim Kurgu;94;2012;ABD;Eric Brevig;ABD
+1259;The Expendables 2;314975955;85028192;Aksiyon;103;2012;Multi Nation;Simon West;Multi Nation
+1260;Rise of the Guardians;306941670;103412758;Animasyon;97;2012;ABD;Peter Ramsey;ABD
+1261;Battleship;303025485;65422625;Bilim Kurgu;131;2012;Multi Nation;Peter Berg;Multi Nation
+1262;John Carter;284139100;73078100;Bilim Kurgu;132;2012;ABD;Andrew Stanton;ABD
+1263;The Bourne Legacy;276144750;113203870;Aksiyon;135;2012;ABD;Tony Gilroy;ABD
+1264;Lincoln;275293450;182207973;Dram;150;2012;Multi Nation;Steven Spielberg;Multi Nation
+1265;Dark Shadows;245527149;79727149;Fantastik;113;2012;ABD;Tim Burton;ABD
+1266;Resident Evil: Retribution;240159255;42345531;Bilim Kurgu;95;2012;Multi Nation;Paul W.S. Anderson;Multi Nation
+1267;Silver Linings Playbook;236412453;132092958;Dram;122;2012;ABD;David O. Russell;ABD
+1268;Argo;232325503;136025503;Dram;120;2012;Multi Nation;Ben Affleck;Multi Nation
+1269;Jack Reacher;218340595;80070736;Aksiyon;130;2012;ABD;Christopher McQuarrie;ABD
+1270;Safe House;208076205;126373434;Aksiyon;115;2012;ABD;Daniel Espinosa;ABD
+1271;21 Jump Street;201585328;138447667;Aksiyon;109;2012;ABD;Chris Miller;ABD
+1272;The Vow;196114570;125014030;Dram;104;2012;ABD;Michael Sucsy;ABD
+1273;Mirror Mirror;183018522;64935167;Aile;106;2012;ABD;Tarsem Singh;ABD
+1274;The Dictator;179379533;59650222;Komedi;83;2012;ABD;Larry Charles;ABD
+1275;Looper;176506819;66486205;Bilim Kurgu;118;2012;ABD;Rian Johnson;ABD
+1276;Magic Mike;167221571;113721571;Dram;110;2012;ABD;Steven Soderbergh;ABD
+1277;Flight;161772375;93772375;Dram;138;2012;ABD;Robert Zemeckis;ABD
+1278;Underworld: Awakening;160112671;62321039;Aksiyon;88;2012;ABD;Måns Mårlind;ABD
+1279;This Means War;156491279;54760791;Aksiyon;98;2012;ABD;McG;ABD
+1280;Paranormal Activity 4;142802657;53885000;Korku;87;2012;ABD;Henry Joost;ABD
+1281;Step Up Revolution;140470746;35074677;Dram;99;2012;ABD;Scott Speer;ABD
+1282;Last Vegas;134402450;63914167;Komedi;105;2013;ABD;Jon Turteltaub;ABD
+1283;Zero Dark Thirty;132820716;95720716;Dram;157;2012;ABD;Kathryn Bigelow;ABD
+1284;Ghost Rider: Spirit of Vengeance;132563930;51774002;Aksiyon;96;2011;ABD;Brian Taylor;ABD
+1285;Cloud Atlas;130482868;27108272;Bilim Kurgu;172;2012;Multi Nation;Tom Tykwer;Multi Nation
+1286;The Woman in Black;128955898;54333290;Dram;95;2012;Multi Nation;James Watkins;Multi Nation
+1287;Chronicle;126636097;64575175;Bilim Kurgu;84;2012;ABD;Josh Trank;ABD
+1288;Abraham Lincoln: Vampire Hunter;116471580;37519139;Aksiyon;105;2012;ABD;Timur Bekmambetov;ABD
+1289;Pitch Perfect;115350426;65001093;Komedi;112;2012;ABD;Jason Moore;ABD
+1290;ParaNorman;107139399;56003051;Animasyon;90;2012;ABD;Sam Fell;ABD
+1291;Project X;102731865;54731865;Komedi;88;2012;ABD;Nima Nourizadeh;ABD
+1292;The Devil Inside;101758490;53261944;Gerilim;83;2012;ABD;William Brent Bell;ABD
+1293;The Lucky One;99357138;60457138;Dram;101;2012;ABD;Scott Hicks;ABD
+1294;Contraband;96262212;66528000;Aksiyon;109;2012;Multi Nation;Baltasar Kormákur;Multi Nation
+1295;The Possession;85446075;49130154;Gerilim;92;2012;Multi Nation;Ole Bornedal;Multi Nation
+1296;Savages;82966152;47382068;Dram;131;2012;ABD;Oliver Stone;ABD
+1297;Sinister;82515113;48086903;Gerilim;110;2012;Multi Nation;Scott Derrickson;Multi Nation
+1298;The Grey;79781695;51580236;Aksiyon;117;2011;Multi Nation;Joe Carnahan;Multi Nation
+1299;Diary of a Wimpy Kid: Dog Days;77229695;49008662;Aile;94;2012;ABD;David Bowers;ABD
+1300;To Rome with Love;73244881;16685867;Komedi;111;2012;Multi Nation;Woody Allen;Multi Nation
+1301;The Watch;68267862;35353000;Bilim Kurgu;102;2012;ABD;Akiva Schaffer;ABD
+1302;Moonrise Kingdom;68263166;45512466;Dram;94;2012;ABD;Wes Anderson;ABD
+1303;That's My Boy;57719093;36931089;Komedi;116;2012;ABD;Sean Anders;ABD
+1304;Lawless;55404159;37400127;Dram;116;2012;ABD;John Hillcoat;ABD
+1305;End of Watch;55078146;41003371;Dram;109;2012;ABD;David Ayer;ABD
+1306;Red Dawn;50950296;44806783;Aksiyon;93;2012;ABD;Dan Bradley;ABD
+1307;Safe;41564670;17142080;Aksiyon;94;2012;ABD;Boaz Yakin;ABD
+1308;Dredd;41037742;13414714;Bilim Kurgu;95;2012;Multi Nation;Pete Travis;Multi Nation
+1309;Chernobyl Diaries;38390020;18119640;Gerilim;88;2012;ABD;Bradley Parker;ABD
+1310;Killing Them Softly;37930465;15026056;Gerilim;97;2012;ABD;Andrew Dominik;ABD
+1311;The Tower;36512327;;Aksiyon;121;2012;Güney Kore;Kim Ji-hoon (ii);Asia
+1312;Alex Cross;34618867;25888412;Aksiyon;101;2012;ABD;Rob Cohen;ABD
+1313;Lockout;32948113;14326864;Bilim Kurgu;95;2012;Multi Nation;James Mather;Multi Nation
+1314;Movie 43;32438988;8840453;Komedi;90;2013;ABD;Elizabeth Banks;ABD
+1315;Seven Psychopaths;32226382;15024049;Komedi;110;2012;Multi Nation;Martin McDonagh;Multi Nation
+1316;Premium Rush;31083599;20275446;Aksiyon;91;2012;ABD;David Koepp;ABD
+1317;Playing for Keeps;30962335;13103272;Komedi;106;2012;ABD;Gabriele Muccino;ABD
+1318;The Raven;29699345;16008272;Gerilim;111;2012;Multi Nation;James McTeigue;Multi Nation
+1319;Amour;29652180;6739492;Dram;127;2012;Multi Nation;Michael Haneke;Multi Nation
+1320;The Master;28258060;16377274;Dram;137;2012;ABD;Paul Thomas Anderson;ABD
+1321;Hitchcock;27039669;6008677;Dram;98;2012;ABD;Sacha Gervasi;ABD
+1322;Upside Down;22187813;105095;Bilim Kurgu;104;2012;Multi Nation;Juan Diego Solanas;Multi Nation
+1323;Beasts of the Southern Wild;21107746;12795746;Dram;93;2012;ABD;Benh Zeitlin;ABD
+1324;Frozen;1280802282;400738009;Gerilim;93;2010;ABD;Adam Green;ABD
+1325;Frozen;1280802282;400738009;Animasyon;102;2013;ABD;Chris Buck;ABD
+1326;Iron Man 3;1214811252;409013994;Bilim Kurgu;132;2013;ABD;Shane Black;ABD
+1327;Despicable Me 2;970766005;368065385;Animasyon;111;2013;ABD;Pierre Coffin;ABD
+1328;The Hobbit: The Desolation of Smaug;958366855;258366855;Aksiyon;161;2013;ABD;Peter Jackson;ABD
+1329;The Hunger Games: Catching Fire;865011746;424668047;Bilim Kurgu;146;2013;ABD;Francis Lawrence;ABD
+1330;Monsters University;743559607;268492764;Animasyon;104;2013;ABD;Dan Scanlon;ABD
+1331;Gravity;723192705;274092705;Bilim Kurgu;91;2013;Multi Nation;Alfonso Cuarón;Multi Nation
+1332;Thor: The Dark World;644783140;206362140;Aksiyon;115;2013;ABD;Alan Taylor;ABD
+1333;The Croods;587204668;187168425;Animasyon;98;2013;ABD;Kirk De Micco;ABD
+1334;World War Z;540007876;202359711;Bilim Kurgu;116;2013;Multi Nation;Marc Forster;Multi Nation
+1335;Star Trek Into Darkness;467365246;228778661;Bilim Kurgu;132;2013;ABD;J.J. Abrams;ABD
+1336;The Wolverine;414828246;132556852;Bilim Kurgu;126;2013;ABD;James Mangold;ABD
+1337;Pacific Rim;411002906;101802906;Bilim Kurgu;131;2013;ABD;Guillermo del Toro;ABD
+1338;The Wolf of Wall Street;392000694;116900694;Dram;180;2013;ABD;Martin Scorsese;ABD
+1339;G.I. Joe: Retaliation;375740705;122523060;Bilim Kurgu;110;2013;Multi Nation;Jon M. Chu;Multi Nation
+1340;The Great Gatsby;353641895;144840419;Dram;143;2013;Multi Nation;Baz Luhrmann;Multi Nation
+1341;Now You See Me;351723989;117723989;Gerilim;115;2013;ABD;Louis Leterrier;ABD
+1342;The Smurfs 2;347545360;71017784;Animasyon;105;2013;ABD;Raja Gosnell;ABD
+1343;The Conjuring;319494638;137400141;Gerilim;112;2013;ABD;James Wan;ABD
+1344;A Good Day to Die Hard;304654182;67349198;Aksiyon;98;2013;ABD;John Moore;ABD
+1345;Oblivion;286168572;89107235;Bilim Kurgu;124;2013;ABD;Joseph Kosinski;ABD
+1346;Elysium;286140700;93050117;Bilim Kurgu;109;2013;ABD;Neill Blomkamp;ABD
+1347;Turbo;282570682;83028128;Animasyon;112;2013;ABD;David Soren;ABD
+1348;Epic;268426634;107518682;Animasyon;102;2013;ABD;Chris Wedge;ABD
+1349;The Lone Ranger;260502115;89302115;Aksiyon;135;2013;ABD;Gore Verbinski;ABD
+1350;American Hustle;251171807;150117807;Dram;138;2013;ABD;David O. Russell;ABD
+1351;Grown Ups 2;246984278;133668525;Komedi;101;2013;ABD;Dennis Dugan;ABD
+1352;After Earth;243611982;60522097;Bilim Kurgu;100;2013;ABD;M. Night Shyamalan;ABD
+1353;Planes;239258712;90288712;Animasyon;91;2013;ABD;Klay Hall;ABD
+1354;The Heat;229930771;159582188;Aksiyon;117;2013;Multi Nation;Paul Feig;Multi Nation
+1355;Captain Phillips;218791811;107100855;Aksiyon;134;2013;ABD;Paul Greengrass;ABD
+1356;White House Down;205366737;73103784;Aksiyon;131;2013;ABD;Roland Emmerich;ABD
+1357;Percy Jackson: Sea of Monsters;199850315;68559554;Aile;106;2013;ABD;Thor Freudenthal;ABD
+1358;Identity Thief;173965010;134506920;Komedi;111;2013;ABD;Seth Gordon;ABD
+1359;Olympus Has Fallen;170270201;98925640;Aksiyon;120;2013;ABD;Antoine Fuqua;ABD
+1360;Insidious: Chapter 2;161919318;83586447;Gerilim;106;2013;ABD;James Wan;ABD
+1361;Lone Survivor;154802912;125095601;Aksiyon;121;2013;ABD;Peter Berg;ABD
+1362;47 Ronin;151783839;38362475;Aksiyon;119;2013;Multi Nation;Carl Rinsch;Multi Nation
+1363;Mama;146428180;71628180;Korku;100;2013;Multi Nation;Andrés Muschietti;Multi Nation
+1364;Escape Plan;137328301;25135965;Aksiyon;115;2013;ABD;Mikael Håfström;ABD
+1365;2 Guns;131940411;75612460;Aksiyon;109;2013;ABD;Baltasar Kormákur;ABD
+1366;Ender's Game;125544024;61737191;Bilim Kurgu;114;2013;ABD;Gavin Hood;ABD
+1367;Prisoners;122126687;61002302;Dram;153;2013;ABD;Denis Villeneuve;ABD
+1368;Saving Mr. Banks;117867984;83301580;Dram;125;2013;Multi Nation;John Lee Hancock;Multi Nation
+1369;Warm Bodies;116980662;66380662;Komedi;97;2013;ABD;Jonathan Levine;ABD
+1370;Blue Jasmine;99104804;33405481;Dram;99;2013;ABD;Woody Allen;ABD
+1371;Safe Haven;97594140;71349120;Gerilim;115;2013;ABD;Lasse Hallström;ABD
+1372;Evil Dead;97542952;54239856;Korku;91;2013;ABD;Fede Álvarez;ABD
+1373;42;97470701;95020213;Dram;128;2013;ABD;Brian Helgeland;ABD
+1374;The Internship;93492844;44672764;Komedi;119;2013;ABD;Shawn Levy;ABD
+1375;The Purge;89328627;64473115;Bilim Kurgu;86;2013;Multi Nation;James DeMonaco;Multi Nation
+1376;Dhoom 3;88031955;8031955;Aksiyon;171;2013;Hindistan;Vijay Krishna Acharya;Asia
+1377;Pain & Gain;87305549;49875291;Aksiyon;129;2013;ABD;Michael Bay;ABD
+1378;About Time;87100449;15322921;Dram;123;2013;?ngiltere;Richard Curtis;Europe
+1379;Snowpiercer;86758912;4563650;Bilim Kurgu;127;2013;Multi Nation;Bong Joon-ho;Multi Nation
+1380;Carrie;84790678;35266619;Dram;100;2013;ABD;Kimberly Peirce;ABD
+1381;Carrie;84790678;35266619;Dram;132;2002;Multi Nation;David Carson;Multi Nation
+1382;Miracle in Cell No. 7;82101723;;Dram;127;2013;Güney Kore;Lee Hwan-kyung;Asia
+1383;The Family;78418811;36918811;Aksiyon;111;2013;Multi Nation;Luc Besson;Multi Nation
+1384;R.I.P.D.;78324220;33618855;Aksiyon;96;2013;ABD;Robert Schwentke;ABD
+1385;The Book Thief;76586316;21488481;Dram;131;2013;Multi Nation;Brian Percival;Multi Nation
+1386;The Counselor;71009334;16973715;Dram;137;2013;Multi Nation;Ridley Scott;Multi Nation
+1387;The Call;68572631;51872378;Gerilim;94;2013;ABD;Brad Anderson;ABD
+1388;Side Effects;63414135;32172757;Dram;106;2013;ABD;Steven Soderbergh;ABD
+1389;Runner Runner;62675095;19316646;Dram;91;2013;ABD;Brad Furman;ABD
+1390;The Legend of Hercules;61279452;18848538;Aksiyon;99;2014;Multi Nation;Renny Harlin;Multi Nation
+1391;Kick-Ass 2;60795985;28795985;Aksiyon;103;2013;Multi Nation;Jeff Wadlow;Multi Nation
+1392;A Haunted House;60159584;40041683;Komedi;86;2013;ABD;Michael Tiddes;ABD
+1393;Beautiful Creatures;60052138;19452138;Dram;124;2013;ABD;Richard LaGravenese;ABD
+1394;Snitch;57824674;42930462;Aksiyon;112;2013;ABD;Ric Roman Waugh;ABD
+1395;The Physician;57284237;;Dram;155;2013;Almanya;Philipp Stölzl;Europe
+1396;Dallas Buyers Club;55198285;27298285;Dram;117;2013;ABD;Jean-Marc Vallee;ABD
+1397;Delivery Man;53120346;30664106;Komedi;105;2013;Multi Nation;Ken Scott;Multi Nation
+1398;Her;48517427;25568251;Bilim Kurgu;126;2013;ABD;Spike Jonze;ABD
+1399;Homefront;48449416;20158898;Aksiyon;100;2013;ABD;Gary Fleder;ABD
+1400;The Last Stand;48330757;12050299;Aksiyon;107;2013;ABD;Kim Ji-woon;ABD
+1401;Parker;46922566;17616641;Aksiyon;118;2013;ABD;Taylor Hackford;ABD
+1402;The World's End;46089287;26004851;Bilim Kurgu;109;2013;?ngiltere;Edgar Wright;Europe
+1403;Jobs;42128352;16131410;Dram;128;2013;ABD;Joshua Michael Stern;ABD
+1404;No Man's Land;41807712;;Aksiyon;98;2001;Multi Nation;Danis Tanovi?;Multi Nation
+1405;Don Jon;39439355;24477704;Dram;90;2013;ABD;Joseph Gordon-Levitt;ABD
+1406;Broken City;34737199;19701164;Dram;109;2013;ABD;Allen Hughes;ABD
+1407;Inside Llewyn Davis;32935319;13235319;Dram;104;2013;Multi Nation;Joel Coen;Multi Nation
+1408;Spring Breakers;31724284;14124284;Dram;94;2012;Multi Nation;Harmony Korine;Multi Nation
+1409;Mandela: Long Walk to Freedom;27985788;8323085;Dram;141;2013;Multi Nation;Justin Chadwick;Multi Nation
+1410;Dark Skies;27858103;17418667;Bilim Kurgu;97;2013;ABD;Scott Charles Stewart;ABD
+1411;The Incredible Burt Wonderstone;27437881;22537881;Komedi;100;2013;ABD;Don Scardino;ABD
+1412;You're Next;26895481;18494006;Gerilim;94;2011;Multi Nation;Adam Wingard;Multi Nation
+1413;Trance;24261569;2328743;Dram;101;2013;Multi Nation;Danny Boyle;Multi Nation
+1414;Transformers: Age of Extinction;1104054072;245439076;Bilim Kurgu;165;2014;ABD;Michael Bay;ABD
+1415;Guardians of the Galaxy;772776600;333176600;Bilim Kurgu;121;2014;ABD;James Gunn;ABD
+1416;Maleficent;758410378;241410378;Aile;97;2014;ABD;Robert Stromberg;ABD
+1417;The Hunger Games: Mockingjay - Part 1;755356711;337135885;Bilim Kurgu;123;2014;Multi Nation;Francis Lawrence;Multi Nation
+1418;X-Men: Days of Future Past;746045700;233921534;Bilim Kurgu;132;2014;ABD;Bryan Singer;ABD
+1419;Captain America: The Winter Soldier;714421503;259766572;Bilim Kurgu;138;2014;ABD;Anthony Russo;ABD
+1420;Dawn of the Planet of the Apes;710644566;208545589;Bilim Kurgu;130;2014;ABD;Matt Reeves;ABD
+1421;The Amazing Spider-Man 2;708982323;202853933;Aksiyon;141;2014;ABD;Marc Webb;ABD
+1422;Interstellar;681070397;188020017;Bilim Kurgu;169;2014;Multi Nation;Christopher Nolan;Multi Nation
+1423;Big Hero 6;657827828;222527828;Animasyon;102;2014;ABD;Don Hall;ABD
+1424;How to Train Your Dragon 2;621537519;177002924;Animasyon;102;2014;ABD;Dean DeBlois;ABD
+1425;American Sniper;547626372;350126372;Aksiyon;133;2014;ABD;Clint Eastwood;ABD
+1426;Rio 2;498781117;131538435;Animasyon;102;2014;ABD;Carlos Saldanha;ABD
+1427;The Lego Movie;468060692;257760692;Animasyon;100;2014;Multi Nation;Phil Lord;Multi Nation
+1428;Lucy;458863600;126663600;Bilim Kurgu;89;2014;Fransa;Luc Besson;Europe
+1429;Penguins of Madagascar;373515621;83850911;Animasyon;91;2014;ABD;Simon J. Smith;ABD
+1430;Edge of Tomorrow;370541256;100206256;Bilim Kurgu;114;2014;ABD;Doug Liman;ABD
+1431;Gone Girl;369330363;167767189;Dram;149;2014;ABD;David Fincher;ABD
+1432;Night at the Museum: Secret of the Tomb;363204635;113746621;Aile;97;2014;Multi Nation;Shawn Levy;Multi Nation
+1433;Noah;359200044;101200044;Dram;138;2014;ABD;Darren Aronofsky;ABD
+1434;The Maze Runner;348319861;102427862;Bilim Kurgu;113;2014;Multi Nation;Wes Ball;Multi Nation
+1435;300: Rise of an Empire;337580051;106580051;Aksiyon;102;2014;ABD;Noam Murro;ABD
+1436;22 Jump Street;331333876;191719337;Aksiyon;112;2014;ABD;Phil Lord;ABD
+1437;The Fault in Our Stars;307166834;124872350;Dram;126;2014;ABD;Josh Boone;ABD
+1438;Divergent;288885818;150947895;Bilim Kurgu;139;2014;ABD;Neil Burger;ABD
+1439;Mr. Peabody & Sherman;275698039;111506430;Animasyon;92;2014;ABD;Rob Minkoff;ABD
+1440;Neighbors;270665134;150157400;Komedi;97;2014;ABD;Nicholas Stoller;ABD
+1441;Exodus: Gods and Kings;268175631;65014513;Aksiyon;150;2014;Multi Nation;Ridley Scott;Multi Nation
+1442;Annabelle;257047661;84273813;Korku;99;2014;ABD;John R. Leonetti;ABD
+1443;RoboCop;242688965;58607007;Bilim Kurgu;117;2014;Multi Nation;José Padilha;Multi Nation
+1444;The Imitation Game;233555708;91125683;Dram;113;2014;Multi Nation;Morten Tyldum;Multi Nation
+1445;Non-Stop;222809600;92168600;Aksiyon;106;2014;Multi Nation;Jaume Collet-Serra;Multi Nation
+1446;Dracula Untold;217124280;56280355;Aksiyon;92;2014;ABD;Gary Shore;ABD
+1447;The Expendables 3;214657577;39322544;Aksiyon;126;2014;Multi Nation;Patrick Hughes;Multi Nation
+1448;Into the Woods;212902372;128002372;Fantastik;125;2014;ABD;Rob Marshall;ABD
+1449;Fury;211817906;85817906;Aksiyon;134;2014;Multi Nation;David Ayer;Multi Nation
+1450;Need for Speed;203277636;43577636;Aksiyon;132;2014;Multi Nation;Scott Waugh;Multi Nation
+1451;The Other Woman;196710396;83911193;Komedi;109;2014;ABD;Nick Cassavetes;ABD
+1452;The Other Woman;196710396;83911193;Dram;98;2009;ABD;Jason Priestley;ABD
+1453;The Equalizer;192330738;101530738;Aksiyon;132;2014;ABD;Antoine Fuqua;ABD
+1454;The Grand Budapest Hotel;172936941;59301324;Dram;100;2014;Multi Nation;Wes Anderson;Multi Nation
+1455;Dumb and Dumber To;169837010;86208010;Komedi;110;2014;ABD;Bobby Farrelly;ABD
+1456;Into the Storm;161502194;47602194;Aksiyon;89;2014;ABD;Steven Quale;ABD
+1457;Unbroken;161459297;115637895;Dram;137;2014;ABD;Angelina Jolie;ABD
+1458;The Monuments Men;155641650;78031620;Aksiyon;118;2014;Multi Nation;George Clooney;Multi Nation
+1459;Ride Along;154468902;134938200;Aksiyon;160;2014;ABD;Tim Story;ABD
+1460;Let's Be Cops;138224951;82390774;Komedi;104;2014;ABD;Luke Greenfield;ABD
+1461;Jack Ryan: Shadow Recruit;135503748;50577412;Aksiyon;105;2014;Multi Nation;Kenneth Branagh;Multi Nation
+1462;Blended;127994610;46294610;Komedi;117;2014;ABD;Frank Coraci;ABD
+1463;Sex Tape;126069509;38543473;Komedi;94;2014;ABD;Jake Kasdan;ABD
+1464;The Theory of Everything;123726688;35893537;Dram;123;2014;?ngiltere;James Marsh;Europe
+1465;Pompeii;117831631;23219748;Aksiyon;105;2014;Multi Nation;Paul W.S. Anderson;Multi Nation
+1466;Seventh Son;114178613;17223265;Fantastik;102;2014;Multi Nation;Sergey Bodrov;Multi Nation
+1467;The Purge: Anarchy;111928365;71962800;Gerilim;104;2014;Multi Nation;James DeMonaco;Multi Nation
+1468;Horrible Bosses 2;107645357;54445357;Komedi;108;2014;ABD;Seth Gordon;ABD
+1469;Transcendence;103039258;23022309;Bilim Kurgu;119;2014;Multi Nation;Wally Pfister;Multi Nation
+1470;Deliver Us from Evil;87937815;30577122;Gerilim;118;2014;ABD;Scott Derrickson;ABD
+1471;Deliver Us from Evil;33718703;;Gerilim;118;2014;ABD;Scott Derrickson;ABD
+1472;A Million Ways to Die in the West;87189756;43139300;Komedi;115;2014;ABD;Seth MacFarlane;ABD
+1473;John Wick;86013056;43037835;Aksiyon;101;2014;ABD;David Leitch;ABD
+1474;The Judge;84419388;47119388;Dram;141;2014;ABD;David Dobkin;ABD
+1475;If I Stay;78274843;50474843;Dram;106;2014;ABD;R.J. Cutler;ABD
+1476;I, Frankenstein;76801179;19075290;Gerilim;92;2014;Multi Nation;Stuart Beattie;Multi Nation
+1477;Crimson Peak;74679822;31090320;Korku;119;2015;ABD;Guillermo del Toro;ABD
+1478;Brick Mansions;71416730;20396829;Aksiyon;91;2014;Multi Nation;Camille Delamarre;Multi Nation
+1479;The Giver;66980456;45090374;Bilim Kurgu;97;2014;ABD;Phillip Noyce;ABD
+1480;Selma;66787908;52076908;Dram;127;2014;Multi Nation;Ava DuVernay;Multi Nation
+1481;The Walk;61181942;10137502;Dram;123;2015;ABD;Robert Zemeckis;ABD
+1482;St. Vincent;54837234;44137712;Komedi;102;2014;ABD;Theodore Melfi;ABD
+1483;No Good Deed;54323210;52543632;Aksiyon;97;2002;ABD;Bob Rafelson;ABD
+1484;3 Days to Kill;53260230;30697999;Aksiyon;113;2014;Multi Nation;McG;Multi Nation
+1485;Wild;52501541;37880356;Dram;115;2014;ABD;Jean-Marc Vallee;ABD
+1486;Whiplash;48982041;13092000;Dram;107;2014;ABD;Damien Chazelle;ABD
+1487;Chef;48428048;31424003;Komedi;114;2014;ABD;Jon Favreau;ABD
+1488;Boyhood;48137666;25352281;Dram;166;2014;ABD;Richard Linklater;ABD
+1489;Nightcrawler;47425835;32381217;Dram;118;2014;ABD;Dan Gilroy;ABD
+1490;Oculus;44446287;27695246;Korku;104;2013;ABD;Mike Flanagan;ABD
+1491;As Above, So Below;41898409;21321100;Gerilim;93;2014;Multi Nation;John Erick Dowdle;Multi Nation
+1492;Sin City: A Dame to Kill For;39407616;13757804;Aksiyon;102;2014;ABD;Frank Miller;ABD
+1493;The Best of Me;38609668;26766213;Dram;118;2014;ABD;Michael Hoffman;ABD
+1494;Million Dollar Arm;38483455;36457627;Dram;124;2014;ABD;Craig Gillespie;ABD
+1495;The Water Diviner;35396641;4196641;Dram;112;2014;Multi Nation;Russell Crowe;Multi Nation
+1496;Endless Love;34718173;23438250;Dram;103;2014;ABD;Shana Feste;ABD
+1497;Winter's Tale;30800231;12600231;Dram;118;2014;ABD;Akiva Goldsman;ABD
+1498;Big Eyes;29253166;14482031;Dram;106;2014;Multi Nation;Tim Burton;Multi Nation
+1499;Love, Rosie;25574387;20431;Dram;102;2014;Multi Nation;Christian Ditter;Multi Nation
+1500;Star Wars: Episode VII - The Force Awakens;2068223624;936662225;Bilim Kurgu;141;2015;ABD;J.J. Abrams;ABD
+1501;Jurassic World;1670400637;652270625;Bilim Kurgu;124;2015;ABD;Colin Trevorrow;ABD
+1502;Furious 7;1515047671;353007020;Aksiyon;137;2015;ABD;James Wan;ABD
+1503;Avengers: Age of Ultron;1402805868;459005868;Bilim Kurgu;144;2015;ABD;Joss Whedon;ABD
+1504;Minions;1159398397;336045770;Animasyon;91;2015;ABD;Kyle Balda;ABD
+1505;Spectre;880674609;200074609;Aksiyon;148;2015;Multi Nation;Sam Mendes;Multi Nation
+1506;Inside Out;857611174;356461711;Animasyon;95;2015;ABD;Pete Docter;ABD
+1507;Mission: Impossible - Rogue Nation;682714267;195042377;Aksiyon;131;2015;ABD;Christopher McQuarrie;ABD
+1508;The Hunger Games: Mockingjay - Part 2;653428261;281723902;Bilim Kurgu;137;2015;Multi Nation;Francis Lawrence;Multi Nation
+1509;The Martian;630161890;228433663;Bilim Kurgu;151;2015;Multi Nation;Ridley Scott;Multi Nation
+1510;Fifty Shades of Grey;569651467;166167230;Dram;125;2015;ABD;Sam Taylor-Johnson;ABD
+1511;Cinderella;542351353;201151353;Aile;105;2015;Multi Nation;Kenneth Branagh;Multi Nation
+1512;The Revenant;532950503;183637894;Dram;157;2015;Multi Nation;Alejandro González Iñárritu;Multi Nation
+1513;Hotel Transylvania 2;474800000;169700110;Animasyon;89;2015;ABD;Genndy Tartakovsky;ABD
+1514;San Andreas;474590832;155190832;Aksiyon;114;2015;Multi Nation;Brad Peyton;Multi Nation
+1515;Kingsman: The Secret Service;414351546;128261724;Aksiyon;129;2014;Multi Nation;Matthew Vaughn;Multi Nation
+1516;Home;386041607;177397510;Animasyon;93;2015;ABD;Tim Johnson;ABD
+1517;Mad Max: Fury Road;379436354;153636354;Bilim Kurgu;121;2015;Multi Nation;George Miller;Multi Nation
+1518;Taken 3;326479141;89256424;Aksiyon;109;2014;Multi Nation;Olivier Megaton;Multi Nation
+1519;Maze Runner: The Scorch Trials;312296056;81697192;Bilim Kurgu;131;2015;ABD;Wes Ball;ABD
+1520;Pitch Perfect 2;287144079;184296230;Komedi;115;2015;ABD;Elizabeth Banks;ABD
+1521;Pixels;244874809;78747585;Bilim Kurgu;105;2015;Multi Nation;Chris Columbus;Multi Nation
+1522;Spy;235666219;110825712;Aksiyon;120;2015;ABD;Paul Feig;ABD
+1523;Ted 2;215863606;81476385;Fantastik;115;2015;ABD;Seth MacFarlane;ABD
+1524;Tomorrowland;209035668;93436322;Bilim Kurgu;130;2015;ABD;Brad Bird;ABD
+1525;The Intern;194764672;75764672;Komedi;121;2015;ABD;Nancy Meyers;ABD
+1526;Jupiter Ascending;184287723;47387723;Bilim Kurgu;127;2015;ABD;Lilly Wachowski;ABD
+1527;Creed;174167581;109767581;Aksiyon;132;2015;ABD;Ryan Coogler;ABD
+1528;Bridge of Spies;165478348;72313754;Dram;141;2015;Multi Nation;Steven Spielberg;Multi Nation
+1529;Focus;159162963;53862963;Komedi;104;2015;ABD;Glenn Ficarra;ABD
+1530;The Hateful Eight;155760117;54117416;Dram;183;2015;ABD;Quentin Tarantino;ABD
+1531;Gods of Egypt;150680864;31153464;Aksiyon;127;2016;Multi Nation;Alex Proyas;Multi Nation
+1532;The Last Witch Hunter;146936910;27367660;Aksiyon;106;2015;Multi Nation;Breck Eisner;Multi Nation
+1533;The Big Short;133440870;70259870;Dram;130;2015;ABD;Adam McKay;ABD
+1534;Dragon Blade;122593849;74068;Aksiyon;127;2015;Multi Nation;Daniel Lee;Multi Nation
+1535;Insidious: Chapter 3;112983889;52218558;Gerilim;97;2015;Multi Nation;Leigh Whannell;Multi Nation
+1536;The Man from U.N.C.L.E.;110045109;45445109;Aksiyon;116;2015;ABD;Guy Ritchie;ABD
+1537;The 5th Wave;109906372;34916787;Bilim Kurgu;112;2016;ABD;J Blakeson;ABD
+1538;Vacation;107228221;58884188;Komedi;99;2015;ABD;John Francis Daley;ABD
+1539;Chappie;102811889;31569268;Bilim Kurgu;120;2015;Multi Nation;Neill Blomkamp;Multi Nation
+1540;Joy;101134059;56451232;Dram;124;2015;ABD;David O. Russell;ABD
+1541;Black Mass;99975678;62575678;Dram;123;2015;Multi Nation;Scott Cooper;Multi Nation
+1542;Spotlight;98690254;45055776;Dram;129;2015;Multi Nation;Thomas McCarthy;Multi Nation
+1543;The Visit;98450062;65206105;Gerilim;94;2015;ABD;M. Night Shyamalan;ABD
+1544;In the Heart of the Sea;94320758;25020758;Aksiyon;122;2015;Multi Nation;Ron Howard;Multi Nation
+1545;Southpaw;91970827;52421953;Aksiyon;123;2015;ABD;Antoine Fuqua;ABD
+1546;Paper Towns;85512300;32000304;Dram;109;2015;ABD;Jake Schreier;ABD
+1547;Sicario;84872444;46889293;Aksiyon;122;2015;Multi Nation;Denis Villeneuve;Multi Nation
+1548;Hitman: Agent 47;82347656;22467450;Aksiyon;96;2015;Multi Nation;Aleksander Bach;Multi Nation
+1549;The Wedding Ringer;79799880;64460211;Komedi;101;2015;ABD;Jeremy Garelick;ABD
+1550;Paranormal Activity: The Ghost Dimension;78903124;18300124;Gerilim;88;2015;ABD;Gregory Plotkin;ABD
+1551;Bajrangi Bhaijaan;75547184;8178001;Aksiyon;159;2015;Hindistan;Kabir Khan;Asia
+1552;The Transporter Refueled;72629670;16029670;Aksiyon;95;2015;Multi Nation;Camille Delamarre;Multi Nation
+1553;Run All Night;71661644;26461644;Aksiyon;114;2015;ABD;Jaume Collet-Serra;ABD
+1554;The Danish Girl;64191523;11114018;Dram;119;2015;Multi Nation;Tom Hooper;Multi Nation
+1555;The Boy;64188367;35819556;Gerilim;97;2016;ABD;William Brent Bell;ABD
+1556;The Longest Ride;62944815;37446117;Dram;128;2015;ABD;George Tillman Jr.;ABD
+1557;Concussion;48623572;34542474;Dram;123;2015;Multi Nation;Peter Landesman;Multi Nation
+1558;Mortdecai;47275695;7696134;Komedi;107;2015;ABD;David Koepp;ABD
+1559;Still Alice;44779195;18754371;Dram;100;2014;Multi Nation;Richard Glatzer;Multi Nation
+1560;Legend;42972994;1872994;Gerilim;131;2015;Multi Nation;Brian Helgeland;Multi Nation
+1561;Carol;40272135;12711491;Dram;118;2015;Multi Nation;Todd Haynes;Multi Nation
+1562;Criminal;38803993;14708696;Bilim Kurgu;113;2016;Multi Nation;Ariel Vromen;Multi Nation
+1563;The Lazarus Effect;38356892;25801570;Bilim Kurgu;83;2015;ABD;David Gelb;ABD
+1564;Ex Machina;36869414;25442958;Bilim Kurgu;108;2014;Multi Nation;Alex Garland;Multi Nation
+1565;Burnt;36606743;13651946;Dram;100;2015;ABD;John Wells;ABD
+1566;Room;35401758;14677654;Dram;118;2015;Multi Nation;Lenny Abrahamson;Multi Nation
+1567;Project Almanac;33213241;22348241;Bilim Kurgu;106;2015;ABD;Dean Israelite;ABD
+1568;Suffragette;31972096;4702420;Dram;106;2015;Multi Nation;Sarah Gavron;Multi Nation
+1569;Self/less;31807156;12279691;Bilim Kurgu;117;2015;ABD;Tarsem Singh;ABD
+1570;Mr. Holmes;29355203;17737646;Dram;104;2015;Multi Nation;Bill Condon;Multi Nation
+1571;American Ultra;27262374;14440985;Aksiyon;96;2015;Multi Nation;Nima Nourizadeh;Multi Nation
+1572;Captain America: Civil War;1153296293;408084349;Bilim Kurgu;151;2016;ABD;Anthony Russo;ABD
+1573;Rogue One: A Star Wars Story;1056057273;532177324;Bilim Kurgu;134;2016;ABD;Gareth Edwards;ABD
+1574;Finding Dory;1028570889;486295561;Animasyon;97;2016;ABD;Andrew Stanton;ABD
+1575;Zootopia;1023784195;341268248;Animasyon;109;2016;ABD;Byron Howard;ABD
+1576;The Secret Life of Pets;875457937;368384330;Animasyon;87;2016;ABD;Chris Renaud;ABD
+1577;Batman v Superman: Dawn of Justice;874360194;330360194;Aksiyon;152;2016;Multi Nation;Zack Snyder;Multi Nation
+1578;Fantastic Beasts and Where to Find Them;816037575;234037575;Aile;132;2016;Multi Nation;David Yates;Multi Nation
+1579;Deadpool;782612155;363070709;Aksiyon;108;2016;ABD;Tim Miller;ABD
+1580;Suicide Squad;749200054;325100054;Aksiyon;123;2016;ABD;David Ayer;ABD
+1581;Doctor Strange;677718395;232641920;Aksiyon;116;2016;ABD;Scott Derrickson;ABD
+1582;Moana;643331111;248757044;Animasyon;107;2016;ABD;John Musker;ABD
+1583;X-Men: Apocalypse;543934105;155442489;Bilim Kurgu;144;2016;ABD;Bryan Singer;ABD
+1584;Kung Fu Panda 3;521170825;143528619;Animasyon;95;2016;Multi Nation;Jennifer Yuh Nelson;Multi Nation
+1585;La La Land;447407695;151101803;Dram;128;2016;Multi Nation;Damien Chazelle;Multi Nation
+1586;Jason Bourne;415484914;162434410;Aksiyon;123;2016;Multi Nation;Paul Greengrass;Multi Nation
+1587;Ice Age: Collision Course;408579038;64063008;Animasyon;94;2016;ABD;Mike Thurmeier;ABD
+1588;Independence Day: Resurgence;389681935;103144286;Bilim Kurgu;120;2016;ABD;Roland Emmerich;ABD
+1589;The Legend of Tarzan;357243061;126643061;Aksiyon;109;2016;Multi Nation;David Yates;Multi Nation
+1590;The Angry Birds Movie;352333929;107509366;Animasyon;97;2016;Multi Nation;Fergal  Reilly;Multi Nation
+1591;Star Trek Beyond;343471816;158848340;Bilim Kurgu;122;2016;ABD;Justin Lin;ABD
+1592;The Great Wall;334933831;45540830;Aksiyon;103;2016;Multi Nation;Yimou Zhang;Multi Nation
+1593;The Conjuring 2;321370008;102470008;Gerilim;134;2016;ABD;James Wan;ABD
+1594;Resident Evil: The Final Chapter;312242626;26830068;Bilim Kurgu;106;2016;Multi Nation;Paul W.S. Anderson;Multi Nation
+1595;Dangal;303723636;12391761;Aile;161;2016;Multi Nation;Nitesh Tiwari;Multi Nation
+1596;Passengers;303144152;100014699;Bilim Kurgu;116;2016;ABD;Morten Tyldum;ABD
+1597;Passengers;303144152;100014699;Dram;93;2008;Multi Nation;Rodrigo García;Multi Nation
+1598;Alice Through the Looking Glass;299457024;77041381;Aile;113;2016;Multi Nation;James Bobin;Multi Nation
+1599;Miss Peregrine's Home for Peculiar Children;296482446;87242834;Fantastik;127;2016;Multi Nation;Tim Burton;Multi Nation
+1600;Teenage Mutant Ninja Turtles: Out of the Shadows;245623848;82051601;Bilim Kurgu;112;2016;ABD;Dave Green;ABD
+1601;Sully;243870033;125070033;Dram;96;2016;ABD;Clint Eastwood;ABD
+1602;Assassin's Creed;240697856;54647948;Bilim Kurgu;115;2016;Multi Nation;Justin Kurzel;Multi Nation
+1603;Hidden Figures;235956898;169607287;Dram;127;2016;ABD;Theodore Melfi;ABD
+1604;Ghostbusters;229147509;128350574;Aksiyon;116;2016;ABD;Paul Feig;ABD
+1605;Inferno;220021259;34343574;Aksiyon;121;2016;ABD;Ron Howard;ABD
+1606;Central Intelligence;216940871;127440871;Aksiyon;107;2016;ABD;Rawson Marshall Thurber;ABD
+1607;Me Before You;208445075;56245075;Dram;110;2016;ABD;Thea Sharrock;ABD
+1608;London Has Fallen;205754447;62524260;Aksiyon;99;2016;Multi Nation;Babak Najafi;Multi Nation
+1609;Arrival;203388186;100546139;Bilim Kurgu;116;2016;Multi Nation;Denis Villeneuve;Multi Nation
+1610;Storks;183679278;72679278;Animasyon;87;2016;ABD;Nicholas Stoller;ABD
+1611;Hacksaw Ridge;180563636;67209615;Dram;139;2016;Multi Nation;Mel Gibson;Multi Nation
+1612;The Girl on the Train;173185859;75395035;Dram;112;2016;Multi Nation;Tate Taylor;Multi Nation
+1613;The Huntsman: Winter's War;164989338;48390190;Aksiyon;114;2016;Multi Nation;Cedric Nicolas-Troyan;Multi Nation
+1614;The Magnificent Seven;162360636;93432655;Aksiyon;133;2016;ABD;Antoine Fuqua;ABD
+1615;Jack Reacher: Never Go Back;162146076;58697076;Aksiyon;118;2016;Multi Nation;Edward Zwick;Multi Nation
+1616;Don't Breathe;157761002;89217875;Gerilim;89;2016;ABD;Fede Álvarez;ABD
+1617;The Accountant;155560045;86260045;Dram;128;2016;ABD;Gavin O'Connor;ABD
+1618;Lights Out;149368835;67268835;Gerilim;81;2016;ABD;David F. Sandberg;ABD
+1619;Lion;140312928;51738905;Dram;118;2016;Multi Nation;Garth Davis;Multi Nation
+1620;Mechanic: Resurrection;125729635;21218403;Aksiyon;98;2016;Multi Nation;Dennis Gansel;Multi Nation
+1621;Allied;119520023;40098064;Aksiyon;124;2016;Multi Nation;Robert Zemeckis;Multi Nation
+1622;The Shallows;119100758;55124043;Dram;86;2016;Multi Nation;Jaume Collet-Serra;Multi Nation
+1623;The Purge: Election Year;118587880;79213375;Aksiyon;105;2016;Multi Nation;James DeMonaco;Multi Nation
+1624;Why Him?;118102725;60323786;Komedi;111;2016;ABD;John Hamburg;ABD
+1625;10 Cloverfield Lane;110216998;72082998;Bilim Kurgu;104;2016;ABD;Dan Trachtenberg;ABD
+1626;Ben-Hur;94061311;26410477;Aksiyon;125;2016;ABD;Timur Bekmambetov;ABD
+1627;Collateral Beauty;88616021;31016021;Dram;97;2016;ABD;David Frankel;ABD
+1628;Sultan;87280000;6200000;Aksiyon;170;2016;Hindistan;Ali Abbas Zafar;Asia
+1629;War Dogs;86434523;43034523;Dram;114;2016;ABD;Todd Phillips;ABD
+1630;Nerve;85251425;38583626;Gizem;96;2016;ABD;Henry Joost;ABD
+1631;Underworld: Blood Wars;81093313;30353973;Aksiyon;91;2016;ABD;Anna Foerster;ABD
+1632;Manchester by the Sea;78988148;47695371;Dram;138;2016;ABD;Kenneth Lonergan;ABD
+1633;The Nice Guys;71261763;36261763;Aksiyon;116;2016;ABD;Shane Black;ABD
+1634;Moonlight;65172611;27854932;Dram;111;2016;ABD;Barry Jenkins;ABD
+1635;The Finest Hours;52099090;27569558;Aksiyon;117;2016;ABD;Craig Gillespie;ABD
+1636;Mother's Day;48782670;32492859;Gerilim;112;2010;ABD;Darren Lynn Bousman;ABD
+1637;A Monster Calls;47309313;3740823;Dram;108;2016;Multi Nation;Juan Antonio Bayona;Multi Nation
+1638;The Handmaiden;37692886;2006788;Dram;145;2016;Güney Kore;Park Chan-wook;Asia
+1639;Snowden;37357216;21587519;Dram;134;2016;Multi Nation;Oliver Stone;Multi Nation
+1640;Perfect Strangers;31254929;;Dram;97;2016;?talya;Paolo Genovese;Europe
+1641;Perfect Strangers;33262366;1014507;Dram;97;2016;?talya;Paolo Genovese;Europe
+1642;Nocturnal Animals;30311857;10663357;Dram;116;2016;ABD;Tom Ford;ABD
+1643;The Founder;24121245;12786053;Dram;115;2016;ABD;John Lee Hancock;ABD
+1644;The Fate of the Furious;1236005118;226008385;Aksiyon;136;2017;ABD;F. Gary Gray;ABD
+1645;Despicable Me 3;1034799409;264624300;Animasyon;90;2017;ABD;Pierre Coffin;ABD
+1646;Jumanji: Welcome to the Jungle;962077546;404515480;Aksiyon;119;2017;ABD;Jake Kasdan;ABD
+1647;Spider-Man: Homecoming;880166924;334201140;Bilim Kurgu;133;2017;ABD;Jon Watts;ABD
+1648;Guardians of the Galaxy Vol. 2;863756051;389813101;Bilim Kurgu;137;2017;ABD;James Gunn;ABD
+1649;Wonder Woman;822963408;412563408;Aksiyon;141;2017;ABD;Patty Jenkins;ABD
+1650;Pirates of the Caribbean: Dead Men Tell No Tales;794861794;172558876;Aksiyon;128;2017;ABD;Joachim Rønning;ABD
+1651;It;702781748;327481748;Fantastik;135;2017;ABD;Andrés Muschietti;ABD
+1652;Justice League;661324295;229024295;Bilim Kurgu;120;2017;Multi Nation;Zack Snyder;Multi Nation
+1653;Logan;619021436;226277068;Bilim Kurgu;137;2017;ABD;James Mangold;ABD
+1654;Transformers: The Last Knight;605425157;130168683;Bilim Kurgu;155;2017;ABD;Michael Bay;ABD
+1655;Kong: Skull Island;568652812;168052812;Aksiyon;120;2017;Multi Nation;Jordan Vogt-Roberts;Multi Nation
+1656;The Boss Baby;527965936;175003033;Animasyon;97;2017;ABD;Tom McGrath;ABD
+1657;Dunkirk;526045546;188045546;Aksiyon;107;2017;Multi Nation;Christopher Nolan;Multi Nation
+1658;War for the Planet of the Apes;490719763;146880162;Bilim Kurgu;140;2017;Multi Nation;Matt Reeves;Multi Nation
+1659;The Greatest Showman;434993183;174340174;Dram;105;2017;ABD;Michael Gracey;ABD
+1660;Kingsman: The Golden Circle;410902662;100234838;Aksiyon;141;2017;Multi Nation;Matthew Vaughn;Multi Nation
+1661;Cars 3;383930656;152901115;Animasyon;102;2017;ABD;Brian Fee (i);ABD
+1662;Fifty Shades Darker;381545846;114581250;Dram;118;2017;ABD;James Foley;ABD
+1663;Murder on the Orient Express;352789811;102826543;Dram;114;2017;Multi Nation;Kenneth Branagh;Multi Nation
+1664;Annabelle: Creation;306592201;102092201;Gerilim;109;2017;ABD;David F. Sandberg;ABD
+1665;Wonder;305937718;132422809;Aile;113;2017;ABD;Stephen Chbosky;ABD
+1666;Split;278454358;138291365;Gerilim;117;2016;ABD;M. Night Shyamalan;ABD
+1667;Blade Runner 2049;259154159;92054159;Bilim Kurgu;164;2017;Multi Nation;Denis Villeneuve;Multi Nation
+1668;Get Out;255407969;176040665;Gerilim;104;2017;ABD;Jordan Peele;ABD
+1669;Alien: Covenant;240891763;74262031;Bilim Kurgu;122;2017;Multi Nation;Ridley Scott;Multi Nation
+1670;Youth;227091290;1891956;Dram;125;2015;Multi Nation;Paolo Sorrentino;Multi Nation
+1671;Baby Driver;226945087;107825862;Aksiyon;113;2017;?ngiltere;Edgar Wright;Europe
+1672;Valerian and the City of a Thousand Planets;225874228;41189488;Bilim Kurgu;136;2017;Multi Nation;Luc Besson;Multi Nation
+1673;Geostorm;221900160;33700160;Bilim Kurgu;109;2017;Multi Nation;Dean Devlin;Multi Nation
+1674;Smurfs: The Lost Village;197183546;45020282;Animasyon;89;2017;ABD;Kelly Asbury;ABD
+1675;The Shape of Water;195243464;63859435;Dram;123;2017;ABD;Guillermo del Toro;ABD
+1676;The Hitman's Bodyguard;183415183;75468583;Aksiyon;118;2017;Multi Nation;Patrick Hughes;Multi Nation
+1677;Baywatch;177856751;58060186;Aksiyon;116;2017;ABD;Seth Gordon;ABD
+1678;Ghost in the Shell;169801921;40563557;Bilim Kurgu;107;2017;Multi Nation;Rupert Sanders;Multi Nation
+1679;Three Billboards Outside Ebbing, Missouri;160060063;54513740;Dram;115;2017;Multi Nation;Martin McDonagh;Multi Nation
+1680;King Arthur: Legend of the Sword;149175066;39175066;Aksiyon;126;2017;ABD;Guy Ritchie;ABD
+1681;The Foreigner;145374099;34393507;Aksiyon;114;2017;Multi Nation;Martin Campbell;Multi Nation
+1682;Power Rangers;142337240;85364450;Bilim Kurgu;124;2017;Multi Nation;Dean Israelite;Multi Nation
+1683;American Made;134866593;51342000;Aksiyon;115;2017;Multi Nation;Doug Liman;Multi Nation
+1684;Happy Death Day;125479266;55683845;Gizem;97;2017;ABD;Christopher B. Landon;ABD
+1685;Secret Superstar;122026260;;Dram;150;2017;Hindistan;Advait Chandan;Asia
+1686;The Commuter;119942387;36343858;Aksiyon;104;2018;Multi Nation;Jaume Collet-Serra;Multi Nation
+1687;The Dark Tower;113231078;50701325;Bilim Kurgu;95;2017;Multi Nation;Nikolaj Arcel;Multi Nation
+1688;Jigsaw;102952888;38052832;Gerilim;92;2017;ABD;Michael Spierig;ABD
+1689;Atomic Blonde;100014025;51687870;Aksiyon;115;2017;Multi Nation;David Leitch;Multi Nation
+1690;Going in Style;85218541;45018541;Komedi;96;2017;ABD;Zach Braff;ABD
+1691;Rings;83080890;27793018;Korku;102;2017;ABD;F. Javier Gutiérrez;ABD
+1692;American Assassin;67234188;36249674;Aksiyon;111;2017;Multi Nation;Michael Cuesta;Multi Nation
+1693;The Mountain Between Us;62832209;30348555;Dram;112;2017;ABD;Hany Abu-Assad;ABD
+1694;47 Meters Down;62187529;44307191;Gerilim;87;2017;Multi Nation;Johannes Roberts;Multi Nation
+1695;I, Tonya;53939297;30014539;Dram;120;2017;ABD;Craig Gillespie;ABD
+1696;Wind River;43980821;33800859;Dram;107;2017;Multi Nation;Taylor Sheridan;Multi Nation
+1697;The Snowman;43155261;6700035;Gerilim;119;2017;Multi Nation;Tomas Alfredson;Multi Nation
+1698;Gifted;43046590;24801212;Dram;101;2017;ABD;Marc Webb;ABD
+1699;Loving Vincent;42187665;6735118;Animasyon;94;2017;Multi Nation;Hugh Welchman;Multi Nation
+1700;Call Me by Your Name;41887595;18095701;Dram;132;2017;Multi Nation;Luca Guadagnino;Multi Nation
+1701;The Circle;40656399;20497844;Bilim Kurgu;110;2017;Multi Nation;James Ponsoldt;Multi Nation
+1702;A Cure for Wellness;26620002;8106986;Bilim Kurgu;146;2016;Multi Nation;Gore Verbinski;Multi Nation
+1703;Avengers: Infinity War;2048359754;678815482;Bilim Kurgu;154;2018;ABD;Joe Russo;ABD
+1704;Black Panther;1346913161;700059566;Bilim Kurgu;138;2018;ABD;Ryan Coogler;ABD
+1705;Jurassic World: Fallen Kingdom;1308467944;417719760;Bilim Kurgu;128;2018;ABD;Juan Antonio Bayona;ABD
+1706;Incredibles 2;1242805359;608581744;Animasyon;118;2018;ABD;Brad Bird;ABD
+1707;Aquaman;1151961807;335061807;Aksiyon;143;2018;ABD;James Wan;ABD
+1708;Bohemian Rhapsody;903655259;216428042;Dram;135;2018;Multi Nation;Bryan Singer;Multi Nation
+1709;Venom;856085151;213515506;Bilim Kurgu;112;2018;Multi Nation;Ruben Fleischer;Multi Nation
+1710;Venom;856085151;213515506;Gerilim;85;2005;ABD;Jim Gillespie;ABD
+1711;Mission: Impossible - Fallout;791115104;220159104;Aksiyon;147;2018;ABD;Christopher McQuarrie;ABD
+1712;Deadpool 2;734546611;318491426;Aksiyon;120;2018;ABD;David Leitch;ABD
+1713;Fantastic Beasts: The Crimes of Grindelwald;655755901;159555901;Aile;134;2018;Multi Nation;David Yates;Multi Nation
+1714;Ready Player One;583490172;137690172;Bilim Kurgu;140;2018;ABD;Steven Spielberg;ABD
+1715;The Meg;529243742;145443742;Bilim Kurgu;113;2018;Multi Nation;Jon Turteltaub;Multi Nation
+1716;Bumblebee;467989645;127195589;Bilim Kurgu;190;2018;ABD;Travis Knight;ABD
+1717;A Star Is Born;436388866;215288866;Dram;135;2018;ABD;Bradley Cooper;ABD
+1718;Spider-Man: Into the Spider-Verse;375582637;190241310;Animasyon;117;2018;ABD;Bob  Persichetti;ABD
+1719;Fifty Shades Freed;371985018;100407760;Dram;105;2018;ABD;James Foley;ABD
+1720;The Nun;366050119;117450119;Gerilim;97;2018;ABD;Corin Hardy;ABD
+1721;A Quiet Place;340939361;188024361;Bilim Kurgu;90;2018;ABD;John Krasinski;ABD
+1722;Green Book;321752656;85080171;Dram;130;2018;ABD;Peter Farrelly;ABD
+1723;Skyscraper;304868961;68420120;Aksiyon;102;2018;ABD;Rawson Marshall Thurber;ABD
+1724;Ocean's Eight;297718711;140218711;Aksiyon;111;2018;ABD;Gary Ross;ABD
+1725;Pacific Rim: Uprising;290930148;59874525;Bilim Kurgu;111;2018;ABD;Steven S. DeKnight;ABD
+1726;Maze Runner: The Death Cure;288175335;58032443;Bilim Kurgu;143;2018;ABD;Wes Ball;ABD
+1727;Tomb Raider;274950803;58250803;Aksiyon;118;2018;Multi Nation;Roar Uthaug;Multi Nation
+1728;The Equalizer 2;190400157;102084362;Aksiyon;121;2018;ABD;Antoine Fuqua;ABD
+1729;Insidious: The Last Key;167885588;67745330;Gerilim;103;2018;ABD;Adam Robitel;ABD
+1730;Red Sparrow;151572634;46874505;Gerilim;140;2018;Multi Nation;Francis Lawrence;Multi Nation
+1731;More Than Blue;142958164;722669;Dram;105;2009;Güney Kore;Won Tae-yeon;Asia
+1732;Game Night;117679066;69179066;Gizem;100;2018;ABD;John Francis Daley;ABD
+1733;Alpha;99630675;35857181;Dram;97;2018;Multi Nation;Albert Hughes;Multi Nation
+1734;Mortal Engines;83672673;15951040;Bilim Kurgu;129;2018;ABD;Christian Rivers;ABD
+1735;Searching;75462037;26020957;Dram;102;2018;ABD;Aneesh Chaganty;ABD
+1736;Annihilation;43070915;32732301;Bilim Kurgu;115;2018;Multi Nation;Alex Garland;Multi Nation
+1737;Overlord;41657844;21704844;Bilim Kurgu;110;2018;Multi Nation;Julius Avery;Multi Nation
+1738;Avengers: Endgame;2799439100;858373000;Bilim Kurgu;185;2019;ABD;Joe Russo;ABD
+1739;Captain Marvel;1128274794;426829839;Bilim Kurgu;127;2019;ABD;Anna Boden;ABD
+1740;Joker;1078751311;335451311;Dram;122;2019;Multi Nation;Todd Phillips;Multi Nation
+1741;Toy Story 4;1073394593;434038008;Animasyon;100;2019;ABD;Josh Cooley;ABD
+1742;Jumanji: The Next Level;801693929;320314960;Fantastik;123;2019;ABD;Jake Kasdan;ABD
+1743;Fast & Furious Presents: Hobbs & Shaw;760732926;173956935;Aksiyon;137;2019;ABD;David Leitch;ABD
+1744;How to Train Your Dragon: The Hidden World;521799505;160799505;Animasyon;104;2019;ABD;Dean DeBlois;ABD
+1745;Maleficent: Mistress of Evil;491730089;113929605;Aile;119;2019;ABD;Joachim Rønning;ABD
+1746;Alita: Battle Angel;404980543;85838210;Bilim Kurgu;122;2019;ABD;Robert Rodriguez;ABD
+1747;Godzilla: King of the Monsters;387300138;110500138;Bilim Kurgu;132;2019;Multi Nation;Michael Dougherty;Multi Nation
+1748;1917;384579472;159227644;Aksiyon;119;2019;Multi Nation;Sam Mendes;Multi Nation
+1749;Once Upon a Time in Hollywood;377426903;142502728;Dram;162;2019;Multi Nation;Quentin Tarantino;Multi Nation
+1750;Shazam!;365971656;140371656;Aksiyon;132;2019;ABD;David F. Sandberg;ABD
+1751;Knives Out;312897920;165363234;Gizem;131;2019;ABD;Rian Johnson;ABD
+1752;Terminator: Dark Fate;261119292;62253077;Bilim Kurgu;128;2019;Multi Nation;Tim Miller;Multi Nation
+1753;Us;256022707;175084580;Gerilim;116;2019;ABD;Jordan Peele;ABD
+1754;Glass;246999039;111048468;Bilim Kurgu;129;2019;ABD;M. Night Shyamalan;ABD
+1755;Zombieland: Double Tap;122810399;73123082;Komedi;99;2019;ABD;Ruben Fleischer;ABD
+1756;Five Feet Apart;92554209;45729221;Dram;116;2019;ABD;Justin Baldoni;ABD
+1757;Rambo: Last Blood;91490353;44819352;Aksiyon;101;2019;Multi Nation;Adrian Grunberg;Multi Nation
+1758;Jojo Rabbit;90335025;33370906;Dram;108;2019;ABD;Taika Waititi;ABD
+1759;Happy Death Day 2U;64600152;28148130;Bilim Kurgu;100;2019;ABD;Christopher B. Landon;ABD
+1760;Anna;31626978;7743794;Dram;99;2013;Multi Nation;Jorge Dorado;Multi Nation
+1761;Anna;31626978;7743794;Aksiyon;118;2019;Multi Nation;Luc Besson;Multi Nation
+1762;Tenet;365304105;58504105;Bilim Kurgu;150;2020;Multi Nation;Christopher Nolan;Multi Nation
+1763;The Invisible Man;144492724;70410000;Bilim Kurgu;124;2020;Multi Nation;Leigh Whannell;Multi Nation
+1764;The Call of the Wild;111257878;62342368;Aile;100;2020;Multi Nation;Chris Sanders;Multi Nation
+1765;Bloodshot;39861118;12561824;Bilim Kurgu;109;2020;Multi Nation;Dave Wilson;Multi Nation
+1766;Dune;402027830;108327830;Bilim Kurgu;155;2021;ABD;Denis Villeneuve;ABD
+1767;Black Widow;379751655;183651655;Bilim Kurgu;136;2021;ABD;Cate Shortland;ABD
+1768;Avatar: The Way of Water;2320250281;684075767;Bilim Kurgu;192;2022;ABD;James Cameron;ABD
+1769;Top Gun: Maverick;1495696292;718732821;Aksiyon;131;2022;ABD;Joseph Kosinski;ABD
+1770;The Lost City;192907684;105344029;Dram;144;2005;ABD;Andy Garcia;ABD
+1771;Indiana Jones and the Dial of Destiny;383827783;174480468;Aksiyon;155;2023;ABD;James Mangold;ABD
